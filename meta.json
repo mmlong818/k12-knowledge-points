@@ -1,0 +1,38 @@
+{
+  "exported_at": "2026-06-09T10:12:25.313Z",
+  "total_kp": 25332,
+  "total_relations": 20714,
+  "grade_bands": [
+    "初中",
+    "小学",
+    "高中"
+  ],
+  "subjects": [
+    "体育",
+    "俄语",
+    "化学",
+    "历史",
+    "地理",
+    "思政",
+    "数学",
+    "日语",
+    "物理",
+    "生物",
+    "科学",
+    "美术",
+    "艺术",
+    "英语",
+    "语文",
+    "通用",
+    "音乐"
+  ],
+  "relation_types": [
+    "prerequisite",
+    "leads-to",
+    "related"
+  ],
+  "schema": {
+    "knowledge_points": "id, canonical_name, subject, grade_band, curriculum_system, confidence, aliases, annotations, summary, title",
+    "kp_relations": "id, from_kp_id, to_kp_id, relation_type, source_evidence, from_name, from_subject, to_name, to_subject"
+  }
+}
