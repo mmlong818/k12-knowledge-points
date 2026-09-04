@@ -1,7 +1,7 @@
 {
   "grade_band": "初中",
   "subject": "思政",
-  "kp_count": 1013,
+  "kp_count": 1028,
   "relation_count": 690,
   "knowledge_points": [
     {
@@ -1217,6 +1217,18 @@
       "title": "习近平法治思想的地位与意义"
     },
     {
+      "id": "7d88f8db-90bd-4d20-be50-1d852930415e",
+      "canonical_name": "乡村振兴战略时政对接",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"乡村振兴专题\",\"三农时政对接\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.66,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能提取时政材料中与乡村振兴、三农问题相关的信息\",\"能运用乡村振兴战略知识分析材料中的具体举措\",\"能说明乡村振兴对城乡协调发展的意义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"乡村振兴战略\",\"城乡区域协调发展\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将乡村振兴仅理解为农业生产问题，忽略产业、生态、文化等多维度\",\"混淆乡村振兴与脱贫攻坚的阶段性差异\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "乡村振兴战略时政对接"
+    },
+    {
       "id": "4269311a-67ef-44b0-9339-54dd03404164",
       "canonical_name": "互利共赢发展观",
       "subject": "思政",
@@ -2007,6 +2019,42 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.43,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"理解人身自由是公民参加国家政治、经济与社会生活的基础\",\"能说出人身自由包含的四项内容：人身自由不受侵犯、人格尊严不受侵犯、住宅不受侵犯、通信自由和通信秘密受法律保护\",\"理解逮捕的法定程序保障（须经检察院批准或决定或法院决定，由公安机关执行）\",\"区分人格尊严（禁止侮辱诽谤诬告陷害）与人身自由不受侵犯（禁止非法拘禁搜查）的具体内涵\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"公民基本权利的宪法依据与类型体系（含平等权）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为人身自由仅指不被逮捕，不知道还涵盖人格尊严、住宅不受侵犯和通信自由\",\"认为警察可在任何情况下逮捕任何人，不了解法定逮捕程序要求\",\"将通信自由误归入政治权利类别\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780695801539,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "人身自由的内涵与四项具体保障"
+    },
+    {
+      "id": "ce57dbf3-63b4-46ea-b53e-bcd8debd61a9",
+      "canonical_name": "人际交往中权利与义务的统一",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"权利义务对等\",\"法治视角下的人际权利义务\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明权利与义务在人际交往中的统一关系\",\"会联系消费维权、网络诚信等情境分析权利义务对等\",\"能用法治维度评价人际交往中的行为是否合规\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"诚信原则与守信实践\",\"尊重他人的表现与意义\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只主张自身权利而回避相应义务\",\"认为道德要求与法律义务彼此无关\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "人际交往中权利与义务的统一"
+    },
+    {
+      "id": "717dec4b-8f23-4de5-9df7-dd55b1709c71",
+      "canonical_name": "人际交往主题中考主观题规范表达",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"主观题答题规范\",\"分点作答技巧\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按『观点+理由+材料』结构组织主观题答案\",\"会用分点作答方式呈现多角度论述\",\"能在作答中恰当引用权利义务统一等法治术语\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"人际交往品质情境材料综合分析\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"答题只罗列知识点不结合材料\",\"表达笼统缺乏分点、缺乏术语支撑\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "人际交往主题中考主观题规范表达"
+    },
+    {
+      "id": "7f6e03d1-b00f-497c-a38f-8ce1acf20600",
+      "canonical_name": "人际交往品质情境材料综合分析",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"材料题综合分析\",\"情境迁移训练\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从情境材料中提取涉及的多种人际交往品质\",\"会区分材料中『品质内涵』与『行为表现』两个层面\",\"能综合运用宽容、责任、集体主义等知识点分析同一情境材料\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"宽容待人的边界与运用\",\"责任意识与担当精神\",\"集体主义与个人利益的平衡\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"分析材料时只套用单一知识点而忽视多角度\",\"混淆品质内涵与具体行为表现\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "人际交往品质情境材料综合分析"
     },
     {
       "id": "8ef81449-f571-4d4d-b78b-fb4ee00d8fd5",
@@ -3089,6 +3137,18 @@
       "title": "六大核心思想理念的内涵与践行要求"
     },
     {
+      "id": "14ab1f55-a59a-4bf5-b16c-46afaf727a99",
+      "canonical_name": "共同富裕与收入分配时政对接",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"共同富裕专题\",\"分配制度时政对接\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从材料中提取涉及收入分配、共同富裕的关键词句\",\"能运用我国分配制度知识解释共同富裕相关举措\",\"能区分共同富裕属于经济领域而非单纯民生政治领域考点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"我国的分配制度\",\"共享发展成果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将共同富裕等同于平均主义\",\"把共同富裕简单归入政治领域而忽视其经济制度基础\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "共同富裕与收入分配时政对接"
+    },
+    {
       "id": "46d676ed-d21c-4984-b448-c6eb91021648",
       "canonical_name": "共同富裕与社会主义本质的关系",
       "subject": "思政",
@@ -3279,6 +3339,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.47,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"理解\\\"创新是第一动力\\\"的内涵，明确科技创新能力是综合国力竞争的决定性因素\",\"掌握科教兴国战略、人才强国战略、创新驱动发展战略三大战略的核心要求及相互关系\",\"了解我国建成世界科技创新强国的目标与现实差距，知道任重道远的判断依据\",\"理解坚持自主创新道路的必要性，能用\\\"关键核心技术要不来买不来讨不来\\\"加以说明\",\"了解强化企业科技创新主体地位的意义，理解企业是推动创新创造的生力军\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"科技创新改变生活的典型事例\",\"改革开放是当代中国发展进步的活力之源\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为引进外国技术即可实现科技强国，忽视自主创新的核心地位\",\"误以为创新驱动发展战略仅涉及科技，忽略教育与人才的基础性支撑\",\"认为我国已全面建成创新型强国，低估当前卡点瓶颈的现实困难\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780732408004,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "创新驱动发展战略"
+    },
+    {
+      "id": "aa5cbc5f-0c80-4e28-9d49-a782c3f9b292",
+      "canonical_name": "创新驱动发展战略时政对接",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"创新驱动专题\",\"科技创新时政对接\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别时政材料中体现创新驱动发展的信息点\",\"能运用创新是引领发展第一动力的知识解释材料案例\",\"能说明科技创新对经济发展的意义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"创新是引领发展的第一动力\",\"科教兴国战略\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将创新驱动仅理解为科技研发本身，忽略制度与人才层面\",\"误把创新驱动归为纯文化领域考点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "创新驱动发展战略时政对接"
     },
     {
       "id": "55622696-ea9e-494d-8be2-6e143af26a0e",
@@ -4781,6 +4853,42 @@
       "title": "处理朋友间矛盾冲突的方法"
     },
     {
+      "id": "f8a6e925-f83f-4568-b63c-378aeef72473",
+      "canonical_name": "外交时政答题中'国家立场'与'公民责任'主体区分",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"国家与公民答题主体区分\",\"外交答题视角辨析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分外交类设问中'国家立场/政策'与'公民责任/态度'两类答题主体\",\"能按主体分层组织外交类材料分析题的答案要点\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"公民的责任与义务\",\"国家外交政策的基本原则\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"答外交类材料题时将国家层面的外交政策与公民个人应有的态度混为一谈，导致答案主体错位\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "外交时政答题中'国家立场'与'公民责任'主体区分"
+    },
+    {
+      "id": "778bf870-466d-4f31-a6d7-22930d83f6c5",
+      "canonical_name": "外交类时政意义与措施类答题规范",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"外交时政意义类答题\",\"外交时政措施类答题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按'意义类'设问规范组织多边外交成果的答题要点\",\"能针对外交类材料提出符合国家立场的措施与建议\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"和平与发展是当今时代的主题\",\"国际组织的作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将'意义类'设问答成单纯罗列外交成果而未阐述其对国家发展/国际秩序的影响\",\"措施类答案脱离教材知识点空谈个人感受\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "外交类时政意义与措施类答题规范"
+    },
+    {
+      "id": "05c41cba-5303-4677-82a6-b77e5940371b",
+      "canonical_name": "外交领域时政案例与教材知识对接",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"大国外交时政对接\",\"外交热点知识迁移\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从外交类时政材料中提取关键信息并对接'世界舞台上的中国'相关知识点\",\"能区分大国外交、周边外交、多边外交三类外交热点的知识落点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"独立自主的和平外交政策\",\"人类命运共同体理念\",\"构建新型国际关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将外交类时政笼统归为'国际关系好'而不指出具体外交理念或政策依据\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509302861,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "外交领域时政案例与教材知识对接"
+    },
+    {
       "id": "0766a19f-faa9-4943-b334-a764f9255c42",
       "canonical_name": "多党合作和政治协商制度的优越性",
       "subject": "思政",
@@ -5535,6 +5643,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.38,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"理解宽容他人的内涵：求同存异、和而不同\",\"能辨析宽容与纵容的边界：涉及道德底线与法律时不让步、不迁就\",\"理解换位思考的要义：己所不欲，勿施于人，设身处地为他人着想\",\"能区分友善与软弱、宽容与无原则退让\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"友善待人的内涵与社会意义\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"宽容就是无原则包容一切错误行为\",\"换位思考就是放弃自己的立场\",\"坚持原则就意味着不友善、不宽容\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780695070599,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "宽容与理解的品质辨析"
+    },
+    {
+      "id": "387d7919-57fd-4bcd-862f-e86b93c1759c",
+      "canonical_name": "宽容待人的边界与运用",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"宽以待人\",\"理解与包容\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.62,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分宽容与纵容的边界\",\"会结合情境材料说明宽容在人际冲突中的运用\",\"能举例说明宽容需以原则为前提\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"尊重他人的表现与意义\",\"友善待人的具体体现\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把宽容等同于无原则的忍让\",\"认为宽容意味着放弃自己的合法权益\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "宽容待人的边界与运用"
     },
     {
       "id": "1b03a1a9-4ce6-4acb-8f12-f8baadfc75eb",
@@ -7311,6 +7431,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从李培生、胡晓春的具体事迹细节中提炼敬业奉献的劳动精神\",\"感受普通劳动者在平凡岗位上持续付出、创造非凡价值的情感认同\",\"初步建立热爱劳动、尊重一切劳动者的价值取向\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"人生价值的内涵与劳动创造价值的机制\",\"贡献是衡量人生价值的尺度与各类劳动的平等尊严\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只有做出轰轰烈烈大事的人才能实现人生价值\",\"日复一日的平凡重复劳动没有意义\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780734361959,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "李培生与胡晓春典型事迹中劳动精神的解读与提炼"
+    },
+    {
+      "id": "6d5f09bf-dc50-4d81-9667-5c3d8a5f823a",
+      "canonical_name": "材料分析题“找—联—答”三步解题法",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"材料分析题解题步骤\",\"找联答答题法\",\"材料分析题答题模型\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从材料中圈画并提取与设问直接相关的关键信息词\",\"能将提取到的材料信息与教材知识点建立准确对应关系\",\"能按照分点、规范、贴合材料的方式组织答案表达\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"材料分析题信息提取方法\",\"知识框架体系梳理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为材料分析题只需背出相关知识点即可，忽视材料具体表述与设问的对应关系\",\"答题时脱离材料泛泛罗列知识点，导致要点不贴切而失分\",\"误以为答案越长得分越高，忽略是否命中得分点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464641170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "材料分析题“找—联—答”三步解题法"
     },
     {
       "id": "2d3784f6-99be-458f-87e2-4536e0bbdab4",
@@ -9557,6 +9689,18 @@
       "title": "经济全球化背景下中国面临的挑战"
     },
     {
+      "id": "3c01a940-0eaf-4e89-8166-20cb50c949ca",
+      "canonical_name": "经济类时政材料关键信息提取与领域辨析",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"经济类材料信息提取\",\"经济与政治领域辨析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从时政材料中圈画出经济领域关键词（如发展、增长、分配、产业等）\",\"能判断材料信息应归入经济领域而非政治、文化等其他领域\",\"会运用材料信息提取→经济知识对接→分层作答的三步范式组织答案\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"经济持续健康发展\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把材料中出现的政策主体（如政府）误判为政治领域考点而忽略经济分析角度\",\"答题时不区分经济类与政治类侧重，笼统堆砌知识点\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "经济类时政材料关键信息提取与领域辨析"
+    },
+    {
       "id": "6b17317f-1c0e-40a9-ad5d-4859b3dd5302",
       "canonical_name": "结合自身实际初步确立人生目标",
       "subject": "思政",
@@ -10877,6 +11021,18 @@
       "title": "责任对象的多层次性"
     },
     {
+      "id": "2485e556-9db2-4ec3-8776-649259ca7a21",
+      "canonical_name": "责任意识与担当精神",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"责任担当\",\"敢于负责\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明责任意识在人际交往中的具体表现\",\"会结合情境材料分析主体应承担的责任\",\"能区分角色责任与道德责任的联系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"诚信原则与守信实践\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为责任只在出现问题后才需承担\",\"把承担责任等同于包揽一切\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "责任意识与担当精神"
+    },
+    {
       "id": "9890a003-b3ba-41af-a3b0-6071d6ae5d20",
       "canonical_name": "责任感的培养路径：学习、团组织与志愿服务",
       "subject": "思政",
@@ -11307,6 +11463,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"理解集体对个人成长的支持与塑造作用\",\"理解个人的行动与态度对集体面貌的反向塑造\",\"能用具体事例说明个人与集体相互成就的双向性\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"集体的含义与基本特征\",\"个人与他人关系的基本认识\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只有集体影响个人，忽视个人对集体的塑造作用\",\"认为融入集体意味着失去个性和自我\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780735470742,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "集体与个人的双向成就关系"
+    },
+    {
+      "id": "eb310e32-1acb-496f-95a8-01da7ef7b2ae",
+      "canonical_name": "集体主义与个人利益的平衡",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"集体利益与个人利益的关系\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能阐述集体利益与个人利益的辩证关系\",\"会用情境材料说明如何在人际交往中兼顾集体与个人\",\"能识别损害集体利益或个人合法权益的行为\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"责任意识与担当精神\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为集体利益永远优先于个人利益，二者不可调和\",\"忽视个人合法权益单方面强调服从集体\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788509316131,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "集体主义与个人利益的平衡"
     },
     {
       "id": "6a1bd931-a4c1-4eba-84c1-1eaadf3233be",
@@ -12159,6 +12327,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"理解'居安思危，思则有备，有备无患'的风险意识内涵\",\"能识别日常生活中食品安全、交通、高空坠落、网络诈骗等常见安全风险类型\",\"理解安全责任既关乎个人生命，也关乎家庭和社会责任\",\"养成从日常细节中主动觉察潜在风险、规避危险的意识习惯\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"安全意识的含义与重要性\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为胆子大就无需担忧风险，好奇心驱使下尝试危险行为\",\"认为安全是个人私事与他人无关\",\"把假期安全提示视为对自由的不合理限制\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780733334870,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "风险意识与识别潜在安全威胁"
+    },
+    {
+      "id": "d18f466a-2e10-4f25-9141-09e2785e016f",
+      "canonical_name": "高质量发展时政热点与经济知识对接",
+      "subject": "思政",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"高质量发展专题\",\"经济高质量发展时政\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从时政材料中提取与高质量发展相关的关键信息\",\"能运用创新、协调、绿色、开放、共享等发展理念解释材料现象\",\"能对接教材中经济持续健康发展的相关知识点作答\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"经济持续健康发展\",\"创新是引领发展的第一动力\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将高质量发展等同于单纯追求经济增速\",\"混淆高质量发展与政治领域的治理现代化表述\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464606001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "高质量发展时政热点与经济知识对接"
     }
   ],
   "relations": [

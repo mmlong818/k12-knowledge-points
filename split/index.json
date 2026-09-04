@@ -1,15 +1,15 @@
 {
-  "exported_at": "2026-06-09T17:39:21.096Z",
-  "total_kp": 25332,
-  "total_relations": 20714,
+  "exported_at": "2026-09-04T17:50:24.901Z",
+  "total_kp": 33765,
+  "total_relations": 21536,
   "files": [
     {
       "path": "初中/体育.json",
       "grade_band": "初中",
       "subject": "体育",
-      "kp_count": 270,
+      "kp_count": 404,
       "relation_count": 332,
-      "size_kb": 715
+      "size_kb": 982
     },
     {
       "path": "初中/俄语.json",
@@ -31,129 +31,169 @@
       "path": "初中/历史.json",
       "grade_band": "初中",
       "subject": "历史",
-      "kp_count": 916,
+      "kp_count": 1050,
       "relation_count": 639,
-      "size_kb": 2112
+      "size_kb": 2388
     },
     {
       "path": "初中/地理.json",
       "grade_band": "初中",
       "subject": "地理",
-      "kp_count": 755,
+      "kp_count": 762,
       "relation_count": 745,
-      "size_kb": 1891
+      "size_kb": 1905
     },
     {
       "path": "初中/思政.json",
       "grade_band": "初中",
       "subject": "思政",
-      "kp_count": 1013,
+      "kp_count": 1028,
       "relation_count": 690,
-      "size_kb": 2481
+      "size_kb": 2512
     },
     {
       "path": "初中/数学.json",
       "grade_band": "初中",
       "subject": "数学",
-      "kp_count": 1599,
+      "kp_count": 1683,
       "relation_count": 1124,
-      "size_kb": 3965
+      "size_kb": 4145
     },
     {
       "path": "初中/日语.json",
       "grade_band": "初中",
       "subject": "日语",
-      "kp_count": 113,
+      "kp_count": 120,
       "relation_count": 182,
-      "size_kb": 343
+      "size_kb": 358
     },
     {
       "path": "初中/物理.json",
       "grade_band": "初中",
       "subject": "物理",
-      "kp_count": 688,
+      "kp_count": 711,
       "relation_count": 858,
-      "size_kb": 1833
+      "size_kb": 1881
     },
     {
       "path": "初中/生物.json",
       "grade_band": "初中",
       "subject": "生物",
-      "kp_count": 709,
+      "kp_count": 795,
       "relation_count": 811,
-      "size_kb": 1861
+      "size_kb": 2031
     },
     {
       "path": "初中/美术.json",
       "grade_band": "初中",
       "subject": "美术",
-      "kp_count": 293,
+      "kp_count": 389,
       "relation_count": 450,
-      "size_kb": 832
+      "size_kb": 1022
     },
     {
       "path": "初中/艺术.json",
       "grade_band": "初中",
       "subject": "艺术",
-      "kp_count": 370,
+      "kp_count": 459,
       "relation_count": 622,
-      "size_kb": 1092
+      "size_kb": 1273
     },
     {
       "path": "初中/英语.json",
       "grade_band": "初中",
       "subject": "英语",
-      "kp_count": 970,
+      "kp_count": 1308,
       "relation_count": 638,
-      "size_kb": 2471
+      "size_kb": 3155
     },
     {
       "path": "初中/语文.json",
       "grade_band": "初中",
       "subject": "语文",
-      "kp_count": 1851,
+      "kp_count": 2263,
       "relation_count": 1284,
-      "size_kb": 4795
+      "size_kb": 5635
+    },
+    {
+      "path": "初中/通用.json",
+      "grade_band": "初中",
+      "subject": "通用",
+      "kp_count": 107,
+      "relation_count": 0,
+      "size_kb": 219
+    },
+    {
+      "path": "初中/音乐.json",
+      "grade_band": "初中",
+      "subject": "音乐",
+      "kp_count": 1219,
+      "relation_count": 0,
+      "size_kb": 2398
     },
     {
       "path": "小学/体育.json",
       "grade_band": "小学",
       "subject": "体育",
-      "kp_count": 109,
+      "kp_count": 1170,
       "relation_count": 111,
-      "size_kb": 264
+      "size_kb": 2319
     },
     {
       "path": "小学/思政.json",
       "grade_band": "小学",
       "subject": "思政",
-      "kp_count": 957,
+      "kp_count": 987,
       "relation_count": 666,
-      "size_kb": 2243
+      "size_kb": 2300
     },
     {
       "path": "小学/数学.json",
       "grade_band": "小学",
       "subject": "数学",
-      "kp_count": 1735,
+      "kp_count": 2201,
       "relation_count": 1755,
-      "size_kb": 4425
+      "size_kb": 5395
     },
     {
       "path": "小学/美术.json",
       "grade_band": "小学",
       "subject": "美术",
-      "kp_count": 852,
+      "kp_count": 1144,
       "relation_count": 1059,
-      "size_kb": 2202
+      "size_kb": 2764
+    },
+    {
+      "path": "小学/英语.json",
+      "grade_band": "小学",
+      "subject": "英语",
+      "kp_count": 832,
+      "relation_count": 0,
+      "size_kb": 1735
     },
     {
       "path": "小学/语文.json",
       "grade_band": "小学",
       "subject": "语文",
-      "kp_count": 4260,
+      "kp_count": 4851,
       "relation_count": 2889,
-      "size_kb": 10529
+      "size_kb": 11729
+    },
+    {
+      "path": "小学/通用.json",
+      "grade_band": "小学",
+      "subject": "通用",
+      "kp_count": 167,
+      "relation_count": 0,
+      "size_kb": 332
+    },
+    {
+      "path": "小学/音乐.json",
+      "grade_band": "小学",
+      "subject": "音乐",
+      "kp_count": 1021,
+      "relation_count": 0,
+      "size_kb": 1968
     },
     {
       "path": "高中/体育.json",
@@ -167,9 +207,9 @@
       "path": "高中/化学.json",
       "grade_band": "高中",
       "subject": "化学",
-      "kp_count": 678,
+      "kp_count": 707,
       "relation_count": 491,
-      "size_kb": 1691
+      "size_kb": 1754
     },
     {
       "path": "高中/历史.json",
@@ -183,33 +223,41 @@
       "path": "高中/地理.json",
       "grade_band": "高中",
       "subject": "地理",
-      "kp_count": 407,
+      "kp_count": 558,
       "relation_count": 311,
-      "size_kb": 1019
+      "size_kb": 1323
     },
     {
       "path": "高中/思政.json",
       "grade_band": "高中",
       "subject": "思政",
-      "kp_count": 660,
+      "kp_count": 852,
       "relation_count": 477,
-      "size_kb": 1664
+      "size_kb": 2036
+    },
+    {
+      "path": "高中/数学.json",
+      "grade_band": "高中",
+      "subject": "数学",
+      "kp_count": 723,
+      "relation_count": 822,
+      "size_kb": 1897
     },
     {
       "path": "高中/物理.json",
       "grade_band": "高中",
       "subject": "物理",
-      "kp_count": 538,
+      "kp_count": 554,
       "relation_count": 377,
-      "size_kb": 1316
+      "size_kb": 1348
     },
     {
       "path": "高中/生物.json",
       "grade_band": "高中",
       "subject": "生物",
-      "kp_count": 649,
+      "kp_count": 681,
       "relation_count": 461,
-      "size_kb": 1616
+      "size_kb": 1681
     },
     {
       "path": "高中/科学.json",
@@ -239,17 +287,17 @@
       "path": "高中/英语.json",
       "grade_band": "高中",
       "subject": "英语",
-      "kp_count": 793,
+      "kp_count": 796,
       "relation_count": 553,
-      "size_kb": 2058
+      "size_kb": 2064
     },
     {
       "path": "高中/语文.json",
       "grade_band": "高中",
       "subject": "语文",
-      "kp_count": 653,
+      "kp_count": 729,
       "relation_count": 477,
-      "size_kb": 1737
+      "size_kb": 1887
     },
     {
       "path": "高中/通用.json",

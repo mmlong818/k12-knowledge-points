@@ -1,7 +1,7 @@
 {
   "grade_band": "高中",
   "subject": "化学",
-  "kp_count": 678,
+  "kp_count": 707,
   "relation_count": 491,
   "knowledge_points": [
     {
@@ -2333,6 +2333,66 @@
       "title": "同分异构体与分子空间结构判断"
     },
     {
+      "id": "edc1729b-3bd3-4c31-91f7-fe0af12d1d1d",
+      "canonical_name": "同分异构体数目的判断方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"等效氢法\",\"同分异构体计数\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"会用等效氢法判断一氯代物或二氯代物的同分异构体数目\",\"会用碳架定位法列举给定分子式对应的同分异构体种类数\",\"能按官能团种类分类统计同分异构体数目，避免重复或遗漏\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"同分异构体的概念与分类\",\"有机物碳链的书写规则\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"遗漏对称结构导致重复计数\",\"忽略支链位置变化导致漏算异构体\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "同分异构体数目的判断方法"
+    },
+    {
+      "id": "486e90e5-2261-42c4-a90e-47ffa0508b38",
+      "canonical_name": "同分异构体的书写",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"同分异构体的系统书写\",\"同分异构体书写技巧\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按碳架异构与取代基位置异构的顺序系统书写给定分子式的同分异构体\",\"能对书写出的同分异构体逐一核查是否重复或遗漏\",\"能用简化结构式或键线式规范表示同分异构体\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"同分异构体的判断\",\"有机物的系统命名法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"书写时产生重复结构而未察觉\",\"遗漏支链或官能团位置变化产生的异构体\",\"书写顺序混乱导致漏写\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "同分异构体的书写"
+    },
+    {
+      "id": "ac0e0f32-a438-46b7-8dc0-c1996e19c65e",
+      "canonical_name": "同分异构体的判断",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"同分异构现象的辨析\",\"同分异构体类型判断\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据分子式判断是否存在同分异构体\",\"能区分碳链异构、位置异构、官能团异构等常见类型\",\"能识别同分异构体与同系物、同素异形体的区别\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"同分异构现象\",\"有机化合物的结构\",\"官能团\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为分子式相同则结构必然相同\",\"把同分异构体与同系物混淆\",\"忽略立体异构（顺反异构、对映异构）也属于同分异构范畴\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478905427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "同分异构体的判断"
+    },
+    {
+      "id": "8b59953d-f363-4310-9f69-359fbd7dfbee",
+      "canonical_name": "同分异构体的概念与分类",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"同分异构现象\",\"构造异构\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能陈述同分异构体的定义（分子式相同、结构不同）\",\"能区分碳链异构、位置异构与官能团异构（含类别异构）\",\"能判断两个给定结构是否互为同分异构体\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的结构简式\",\"有机化合物的分类\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为分子式相同就一定是同分异构体，忽略需结构不同\",\"混淆同分异构体与同系物、同素异形体的概念\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "同分异构体的概念与分类"
+    },
+    {
+      "id": "7f1e78a1-d6fd-4536-93f9-c5f3494bf457",
+      "canonical_name": "同分异构体结构简式的书写方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"同分异构体书写\",\"有机物结构简式推导\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"会按碳链由长到短依次书写碳链异构体的结构简式\",\"会按取代基位置依次移动书写位置异构体的结构简式\",\"能根据限定条件（如官能团种类、氢原子数）筛选并书写符合要求的同分异构体\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"同分异构体的概念与分类\",\"同分异构体数目的判断方法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"书写时出现结构式与分子式不符的错误\",\"书写重复结构而未察觉其与已列结构等同\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478750944,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "同分异构体结构简式的书写方法"
+    },
+    {
       "id": "82a97f05-426f-4458-a8a7-bed73ee1b777",
       "canonical_name": "同分异构现象与丁烷的两种异构体",
       "subject": "化学",
@@ -3245,6 +3305,18 @@
       "title": "探究性化学实验中的控制变量法"
     },
     {
+      "id": "a8e07092-193a-4b72-aea7-8d0b87d0bf69",
+      "canonical_name": "探究性实验设计的一般思路",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.25,
+      "aliases": "[\"科学探究实验设计方法\",\"实验探究一般步骤\",\"探究式实验设计流程\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出提出问题、作出猜想假设、设计实验方案、实施实验、分析数据、得出结论这一探究实验的一般环节\",\"能针对给定化学现象提出可探究的问题并设计包含对照的实验方案\",\"能识别实验设计中自变量、因变量与无关变量并说明控制方法\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"化学实验基本操作与安全常识\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要动手做实验就是科学探究，忽视提出假设与控制变量环节\",\"认为探究实验步骤固定不变，忽视其根据现象反复修正方案的过程\",\"混淆自变量与无关变量，实验中未做单一变量控制\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788478972206,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "探究性实验设计的一般思路"
+    },
+    {
       "id": "f79a8cfc-d5bc-425c-b284-ca227978f2e4",
       "canonical_name": "摩尔质量及其计算应用",
       "subject": "化学",
@@ -3413,6 +3485,18 @@
       "title": "有机化合物分类与代表物性质辨析"
     },
     {
+      "id": "58f56b9b-b470-4399-bfb7-d91a72dd7250",
+      "canonical_name": "有机化合物性质与转化规律的综合复习",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机推断与转化\",\"官能团转化关系网\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能归纳常见官能团（碳碳双键、卤代烃、醇、酚、醛、羧酸、酯等）对应的典型化学性质\",\"能推断给定转化关系图中所需的反应类型（取代、加成、消去、氧化、还原、酯化、水解）与试剂条件\",\"能画出常见有机物之间的转化关系网络图\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"官能团的结构与性质\",\"有机反应类型（取代反应、加成反应、消去反应、氧化反应、酯化反应）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为同一官能团在不同分子环境中反应活性完全相同\",\"混淆取代反应与加成反应发生的条件\",\"认为有机物转化只有单一路径，忽视同分异构体多种合成路线\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478618662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机化合物性质与转化规律的综合复习"
+    },
+    {
       "id": "9f00a207-38be-47a6-a3d7-cd77fc42892a",
       "canonical_name": "有机化合物的分离与提纯方法",
       "subject": "化学",
@@ -3533,6 +3617,42 @@
       "title": "有机化学基本反应类型及其典型实例"
     },
     {
+      "id": "9b74636d-fd43-49b3-80f9-5ee85b5b7d20",
+      "canonical_name": "有机化学基础高考复习",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机化学专题复习\",\"有机化学基础综合复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能归纳有机化合物的分类依据并举例说明\",\"能识别常见官能团并说明其对应的典型化学性质\",\"会书写烃及烃的衍生物常见反应的化学方程式\",\"能判断给定分子式对应的同分异构体类型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的分类\",\"官能团与化学性质\",\"同分异构现象\",\"有机反应类型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为同分异构体只需考虑碳链异构而忽略官能团位置异构\",\"混淆取代反应、加成反应、消去反应的适用条件\",\"误认为芳香烃只有苯及其同系物具有芳香性反应特征\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478676135,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机化学基础高考复习"
+    },
+    {
+      "id": "7e669430-df23-4408-a7f6-5d625e16560e",
+      "canonical_name": "有机化学基础高考复习（二）综合内容",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机化学基础复习二\",\"有机化学高考二轮复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能归纳选择性必修3中涉及的有机反应类型与官能团性质要点\",\"能运用有机结构与性质知识解答高考综合题\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的结构与性质\",\"官能团的化学性质\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为复习课不涉及新的知识整合，只是简单重复\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536146935,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机化学基础高考复习（二）综合内容"
+    },
+    {
+      "id": "444a04e6-ef0e-4848-bb74-be909da762c4",
+      "canonical_name": "有机化学推断题思维路径构建策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"有机化学解题思路\",\"有机推断题突破策略\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理有机化合物推断题的通用解题思维路径\",\"能识别题干信息（分子式、反应条件、官能团转化）并定位解题突破口\",\"能应用官能团-反应类型对应关系倒推有机物结构\",\"能反思并优化自己在有机推断题上的解题步骤\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的结构与性质\",\"有机反应类型与官能团转化\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只需记忆反应方程式即可应对推断题而忽视条件限制\",\"遇到复杂流程图时不会逆推而是盲目试错\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478645479,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机化学推断题思维路径构建策略"
+    },
+    {
       "id": "3c6c578d-0dbf-4bb2-9e3d-c88890635d65",
       "canonical_name": "有机化学核心概念辨析与常见误区矫正",
       "subject": "化学",
@@ -3567,6 +3687,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能解析CH₃C≡CH₂→CH₃C(OH)CH₂CHO合成中涉及的加成（水合）、氧化（醛基生成）等步骤\",\"能识别题目未涉及的取代、消去、还原等类型\",\"能结合反应条件与产物结构反推反应类型\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"炔烃水合制酮\",\"烯醇式-酮式互变异构\",\"醛基氧化\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将炔烃水合误判为取代反应\",\"忽略互变异构导致的官能团变化本质\",\"误认碳链增长必经取代反应\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.84,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "有机合成中反应类型的综合判断"
+    },
+    {
+      "id": "fa1638ef-c967-4bd4-9937-afb407907e90",
+      "canonical_name": "有机合成信息分析法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"信息给予型有机合成题解法\",\"新信息类有机推断\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别题目中给出的新反应信息（如反应通式、官能团转化关系）\",\"能运用给定信息提示推断未知中间体或产物的结构\",\"能依据信息条件设计或补全有机合成路线\",\"能检验合成路线是否与题目给定信息相符\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物官能团的性质及转化\",\"有机反应类型（取代、加成、消去、氧化还原）\",\"同分异构体的书写与判断\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"忽视题目给定的新信息，直接套用已学过的常规反应\",\"把信息条件当作背景介绍而未代入解题过程\",\"混淆信息中官能团转化的先后顺序导致路线设计错误\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478717103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机合成信息分析法"
+    },
+    {
+      "id": "178d5769-da9f-4dc6-aa84-6ba3aace0acd",
+      "canonical_name": "有机合成信息题分析方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机推断题信息分析\",\"有机合成路线信息迁移\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从题干给出的新反应信息中提取反应条件与官能团变化规律\",\"能将题干信息迁移应用到未知有机合成路线的推断中\",\"会依据信息分析写出合成路线中缺失步骤的反应物、产物及反应条件\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物官能团的性质与转化\",\"有机反应类型（取代、加成、消去、氧化还原）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为信息题只需套用已学反应类型，忽略题干新信息的特殊规律\",\"误以为合成路线中每一步都必须是课本原型反应，不会做信息迁移\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机合成信息题分析方法"
     },
     {
       "id": "2d447012-facb-4567-81bd-4baa69fe8418",
@@ -3627,6 +3771,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能理解正向合成与逆合成分析两种思维路径\",\"能识别有机合成的两大任务：构建碳骨架与引入/转化官能团\",\"能在简单目标分子中逆推关键中间体与起始原料\",\"能评估不同合成路径的步骤经济性与官能团兼容性\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"官能团转化关系网络\",\"常见碳骨架构建方法（如炔烃烷基化、烯烃复分解等基础拓展）\",\"保护基概念（隐含于多官能团兼容性）\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为合成路线越短越好（忽视可行性）\",\"忽略官能团在反应条件下的稳定性（如格氏试剂遇—OH失效）\",\"将逆合成等同于简单断键，不考虑化学可行性\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780929838873,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "有机合成路线设计的基本策略"
+    },
+    {
+      "id": "601cf0f9-7073-414e-a56f-813f8d8a3d6c",
+      "canonical_name": "有机推断题的信息提取与结构确定方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机推断题解法\",\"有机合成路线推断\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从题干中的分子式、反应现象等线索提取关键信息\",\"会运用官能团的特征反应推断有机物的可能结构\",\"能根据限定条件（如核磁共振氢谱峰数）画出符合要求的同分异构体结构简式\",\"能梳理有机合成路线中各步骤的反应类型与产物\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的官能团与性质\",\"同分异构现象\",\"有机反应类型（取代、加成、消去、氧化）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要分子式相符即可确定结构，忽略题干中的限定条件\",\"忽略\\\"核磁共振氢谱中只有一种峰\\\"等隐含的对称性条件\",\"混淆官能团的引入顺序，导致合成路线设计错误\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478833322,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机推断题的信息提取与结构确定方法"
+    },
+    {
+      "id": "ef345b53-2868-4fe2-be09-650e8bd74dec",
+      "canonical_name": "有机推断题的解题策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机推断\",\"有机综合推断题\",\"有机合成与推断\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从分子式、反应条件、官能团特征反应等线索推断未知有机物的结构简式\",\"会运用特征反应（如银镜反应、酯化反应、消去反应）验证官能团种类\",\"能根据限定条件（不饱和度、原子个数、对称性）书写符合要求的同分异构体\",\"能画出有机推断题中各物质间的转化关系网络图并标注反应类型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机物的官能团及其性质\",\"有机反应类型（取代、加成、消去、氧化）\",\"同分异构现象\",\"有机物分子式与结构式的确定\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"忽略题目中隐含的限定条件（如不饱和度、氧原子数）导致漏解或多解\",\"书写同分异构体时遗漏位置异构或对称性重复计数\",\"将反应现象与官能团简单一一对应，忽视其他官能团的干扰\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478652747,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "有机推断题的解题策略"
     },
     {
       "id": "3f89bd7f-f204-43a2-8e73-068008bb76d6",
@@ -4071,6 +4239,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能写出两个指定α-氨基酸脱水缩合生成二肽的化学方程式\",\"能准确标注肽键（—CO—NH—）位置\",\"理解成肽反应属于取代反应中的缩合类型\",\"能根据肽链结构逆向识别组成它的氨基酸单体\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"酯化反应类比迁移\",\"酰胺键的初步认识\",\"α-氨基酸结构\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"成肽反应是加成反应\",\"肽键中的C—N键可自由旋转，故无立体异构\",\"二肽只有一种连接方式（忽略N端/C端方向性）\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.94,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780929882948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "氨基酸的成肽反应与肽键形成"
+    },
+    {
+      "id": "909718ad-cff9-41cb-8bb8-32652b826ffa",
+      "canonical_name": "氨气收集验满方法与尾气吸收处理",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"氨气验满\",\"多余氨气的处理\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出检验试管中氨气是否已收集满的操作方法\",\"能设计装置吸收实验中多余的氨气以防止其逸散污染空气\",\"能结合氨气密度小于空气、极易溶于水的性质解释验满与尾气吸收方法的原理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"氨气的物理性质\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为氨气收集完成与否无需检验，凭反应时间估计即可\",\"认为多余氨气可直接排放到空气中而不必处理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478971224,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "氨气收集验满方法与尾气吸收处理"
     },
     {
       "id": "95174b59-f34a-4d46-bcac-572645be7c35",
@@ -5297,6 +5477,30 @@
       "title": "燃烧热的概念与应用"
     },
     {
+      "id": "928336b7-c8f1-4e12-b4f7-04462a5ebabf",
+      "canonical_name": "物质制备实验方案设计的一般思路",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"实验方案设计的一般步骤\",\"制备实验设计思路\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出设计物质制备实验方案需要考虑的主要因素（反应原理、装置选择、操作步骤、安全环保、分离提纯）\",\"能根据制备目标物质选择合理的反应原理\",\"会说明实验装置的选择依据与连接顺序\",\"能识别实验中需要进行尾气处理或防止倒吸、副反应的环节\",\"能说明产物分离、提纯及检验的基本方法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"常见气体的实验室制法\",\"物质分离与提纯的基本方法\",\"常见物质的检验\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为实验方案设计只需选定反应原理，忽视装置连接与安全环保要求\",\"忽略尾气处理、防止倒吸等安全环节\",\"认为分离提纯步骤不影响对产物纯度的判断\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536220711,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物质制备实验方案设计的一般思路"
+    },
+    {
+      "id": "06eba70a-8366-423c-a2ba-8d8179d4ae5e",
+      "canonical_name": "物质性质的递变规律",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"元素及其化合物性质递变规律\",\"同周期同主族性质变化规律\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能依据元素在周期表中的位置说明其单质及化合物性质的递变趋势\",\"能比较同周期、同主族元素金属性/非金属性强弱并说明依据\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"元素周期律\",\"元素周期表\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为原子半径越大金属性一定越强而忽略电子层结构差异\",\"混淆同周期与同主族性质递变方向\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物质性质的递变规律"
+    },
+    {
       "id": "080a36d6-d72f-44ae-9429-4196cce9a4a7",
       "canonical_name": "物质的交叉分类法",
       "subject": "化学",
@@ -5417,6 +5621,18 @@
       "title": "物质的量的概念与摩尔单位"
     },
     {
+      "id": "8b7ac8e2-be51-4c6d-b484-4aabe42a6d9a",
+      "canonical_name": "物质结构与性质模块高考综合复习",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.25,
+      "aliases": "[\"物质结构与性质专题复习\",\"高考化学结构与性质复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能综合运用原子结构、化学键、分子结构与晶体结构知识分析高考题型\",\"能识别不同题型中考查的物质结构与性质核心概念\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原子结构与元素性质\",\"化学键\",\"分子结构与性质\",\"晶体结构与性质\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516425907,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物质结构与性质模块高考综合复习"
+    },
+    {
       "id": "0d70c9ce-a1c9-4e92-98fb-d2a24f5b56ce",
       "canonical_name": "物质结构与性质的关系（以硫、氮为例）",
       "subject": "化学",
@@ -5429,6 +5645,18 @@
       "title": "物质结构与性质的关系（以硫、氮为例）"
     },
     {
+      "id": "56b52f1e-bd8a-483c-8dfa-5dd34ab32f80",
+      "canonical_name": "物质结构与性质综合题解题策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"物构大题答题策略\",\"结构性质综合题思路\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按信息提取、模型建立、性质推断的步骤解答物质结构与性质综合题\",\"能规范书写电子排布式、结构式等答题要点\",\"会检验推断结论与题目已知条件的一致性\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原子结构与元素周期律\",\"共价键理论\",\"晶体结构类型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"忽略题目给定信息、直接套用记忆结论作答\",\"答题步骤不完整或逻辑跳跃导致失分\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物质结构与性质综合题解题策略"
+    },
+    {
       "id": "819e8f5b-82d7-40b0-8c17-6bc3666edb3a",
       "canonical_name": "物质能量高低与稳定性的关系",
       "subject": "化学",
@@ -5439,6 +5667,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据吸热/放热判断反应物与生成物的相对总能量高低\",\"能推断能量较低的物质更稳定\",\"能应用该关系分析同素异形体（如石墨/金刚石）的稳定性\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"焓变符号与能量变化方向的关系\",\"稳定性的热力学定义（低能量态更稳定）\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为密度大或硬度高的物质一定更稳定\",\"将动力学稳定性（如金刚石惰性）与热力学稳定性混淆\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.87,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930395009,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "物质能量高低与稳定性的关系"
+    },
+    {
+      "id": "1f98fbff-08ee-4ffa-96f7-725f2e0885bf",
+      "canonical_name": "物质转化的价类二维规律",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"价类二维图\",\"无机物转化网络\",\"物质转化关系图\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能利用价类二维图分析同一元素不同价态物质间的转化关系\",\"能书写常见无机物之间转化的化学方程式或离子方程式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"氧化还原反应\",\"物质的分类\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为价态转化必然伴随类别转化，忽略两者可分别独立发生\",\"书写转化方程式时忽略反应条件与配平\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788478812331,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物质转化的价类二维规律"
     },
     {
       "id": "f258b5fd-4d53-469f-b057-34a2a7f0a04e",
@@ -5499,6 +5739,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据‘46个H₂O构成8个笼’建立水分子总数模型\",\"能结合6个CH₄+2个H₂O填充得出总水分子数=46+2=48\",\"能写出平均组成CH₄·8H₂O（即CH₄·(48/6)H₂O）\",\"能理解‘平均组成’反映统计比例而非固定晶胞\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"化学式含义\",\"简单比例运算\",\"晶体结构初步概念（选学）\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将填充水分子计入原始46个水分子中导致重复计数\",\"误写为CH₆H₄₈或未化简为最简整数比\",\"混淆分子笼数量与实际容纳粒子数\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780930749739,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "甲烷水合物晶体组成的定量推算"
+    },
+    {
+      "id": "3f44a29e-7e8e-4221-94c9-6334f3146f12",
+      "canonical_name": "电化学复习中的证据推理与模型认知方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"电化学复习策略\",\"原电池电解池模型分析法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用电子守恒模型分析原电池和电解池的电极反应过程\",\"能识别电化学综合题中的已知条件并推理装置类型与反应方向\",\"会用模型认知方法归纳原电池、电解池的解题步骤与思路\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原电池原理\",\"电解池原理\",\"电极反应式的书写\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为电化学复习只需记忆结论而不必建立解题模型\",\"混淆原电池与电解池中正负极、阴阳极的判断依据\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478732143,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电化学复习中的证据推理与模型认知方法"
+    },
+    {
+      "id": "41f785fd-a929-44a9-8859-438e2dfa2f4a",
+      "canonical_name": "电化学复习的证据推理与模型认知方法",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"电化学复习策略\",\"电化学证据推理与模型建构\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用证据推理方法分析原电池、电解池的工作原理并判断电极反应\",\"能构建电化学反应模型解释综合复习题中的现象与数据\",\"能归纳电化学复习中的常见易错点并总结通用解题模型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原电池原理\",\"电解池原理\",\"氧化还原反应\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为复习只需记忆结论而不需要构建解题模型\",\"混淆原电池与电解池中阴阳极、正负极的判断依据\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478899298,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电化学复习的证据推理与模型认知方法"
     },
     {
       "id": "befc8aa6-4f37-4e1a-9b32-c6a1017b196f",
@@ -6449,6 +6713,18 @@
       "title": "纤维素的结构、性质与可持续利用"
     },
     {
+      "id": "765948e1-f681-4dd8-ad0b-0d4a7b021d60",
+      "canonical_name": "结构决定性质分析思路",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"结构与性质关系分析法\",\"结构决定性质思路\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按照原子结构→化学键→分子空间构型→性质的顺序分析物质性质\",\"能识别题目中给出的结构信息并推断对应的性质变化\",\"会用比较法分析同类物质结构差异对性质造成的影响\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原子结构\",\"化学键\",\"分子的空间结构\",\"分子间作用力\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为物质性质可以脱离结构直接记忆而无需推理\",\"混淆共价键的极性与分子整体极性之间的关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516394293,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "结构决定性质分析思路"
+    },
+    {
       "id": "7a8e257a-d0eb-45d5-af4c-857b9561e8c2",
       "canonical_name": "绿色化学核心理念与清洁生产路径",
       "subject": "化学",
@@ -6963,6 +7239,54 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能区分过渡晶体（键型渐变）与混合型晶体（多种作用力共存）\",\"能以Al₂O₃/SiO₂为例说明离子键百分数变化导致的晶体类型过渡\",\"能以石墨为例说明层内共价键+层间范德华力+离域π电子导电构成的混合型特征\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"四类典型晶体特征\",\"化学键极性与电负性差值关系\",\"石墨结构与sp²杂化\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将过渡晶体等同于杂质缺陷晶体\",\"认为混合型晶体是四类晶体的简单混合而非新质态\",\"误把石墨导电性归因于金属键，忽视其sp²离域π电子本质\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.79,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780930122601,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "过渡晶体与混合型晶体的概念辨析"
+    },
+    {
+      "id": "7cbf15e2-e93c-4349-986b-72241bc88d71",
+      "canonical_name": "运用化学核心素养解决有机化学综合问题的策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"核心素养导向的化学解题\",\"有机化学综合问题解决\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用宏观辨识与微观探析素养分析有机化学综合问题\",\"能整合官能团性质、反应类型等知识解决跨章节综合题\",\"能识别并评价解题过程中的证据推理与模型认知环节\",\"能对多步骤有机推断题给出规范的解题思路与表达\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的结构与性质\",\"官能团的性质与转化\",\"有机反应类型\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为核心素养只是抽象考纲用语，与具体解题步骤无关\",\"只依赖记忆知识点解题，忽视证据推理与模型认知等思维过程\",\"将综合题拆解为孤立知识点，忽略知识间的迁移与整合\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516358253,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "运用化学核心素养解决有机化学综合问题的策略"
+    },
+    {
+      "id": "fe58d2ce-e7e8-470b-8216-e628b9284780",
+      "canonical_name": "运用有机反应原理分析陌生情境问题的解题策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"有机推断解题策略\",\"有机综合题解题思路\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别陌生有机反应情境中的关键官能团与反应类型\",\"会运用已学有机反应原理（如加成、取代、氧化、消去等）分析未知反应机理\",\"能根据题给信息推断有机物结构或反应产物\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"有机化合物的结构与官能团\",\"常见有机反应类型（取代、加成、消去、氧化还原）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为陌生情境题必须依赖记忆具体反应而非迁移原理\",\"忽略题干条件限制盲目套用常见反应模板\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478756338,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "运用有机反应原理分析陌生情境问题的解题策略"
+    },
+    {
+      "id": "fd84ccb2-cd0e-4e40-9b20-9ea1dfc18afd",
+      "canonical_name": "运用核心素养解决物质结构与性质综合问题",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"核心素养导向的化学解题\",\"物质结构与性质综合应用题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能综合运用原子、分子、晶体结构与性质知识分析陌生情境下的化学问题\",\"能识别试题中考查的化学核心素养维度（如宏观辨识与微观探析、证据推理与模型认知）\",\"能规范书写解题过程并说明结构决定性质的推理依据\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原子结构与元素性质\",\"分子结构与性质\",\"晶体结构与性质\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为复习课只需刷题记结论而不必构建知识网络\",\"分析陌生题目时忽视从微观结构推导宏观性质的逻辑链条\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478874084,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "运用核心素养解决物质结构与性质综合问题"
+    },
+    {
+      "id": "93eebfa0-e5d3-4771-9bda-c7c8d31dd695",
+      "canonical_name": "运用物质结构与性质原理分析问题的解题策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"结构性质分析题答题模板\",\"结构决定性质类综合题解法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别题目所考查的结构决定性质角度（如电负性、杂化方式、分子间作用力、晶体类型）\",\"能按“结构—性质—现象”逻辑链组织答题语言\",\"能匹配常见设问类型（如比较熔沸点、解释稳定性差异）与相应原理\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"原子结构与元素周期律\",\"共价键与分子空间结构\",\"分子间作用力\",\"晶体结构与性质\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"答题时只给结论、不给出结构依据\",\"混淆化学键与分子间作用力对物质性质的影响\",\"忽略从原理到现象的完整推理链条，直接套用记忆结论\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478928419,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "运用物质结构与性质原理分析问题的解题策略"
     },
     {
       "id": "03c372da-98d7-4370-bb60-9fe90b985318",
@@ -8055,6 +8379,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能解释不饱和脂肪酸甘油酯熔点低、饱和脂肪酸甘油酯熔点高的原因\",\"能联系碳碳双键存在→分子间作用力减弱→熔点降低\",\"能举例说明植物油（高不饱和）与动物油（高饱和）的典型熔点差异\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"碳碳双键的结构与反应活性\",\"分子间作用力类型（范德华力）\",\"熔点与分子堆积紧密度的关系\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为熔点仅由分子量决定，忽视不饱和度影响\",\"误以为所有植物油都不含饱和脂肪酸\",\"将‘不饱和’等同于‘液态’，忽略温度条件\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780930604642,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "饱和与不饱和脂肪酸对油脂熔点的影响"
+    },
+    {
+      "id": "f0dd6c10-5648-4b1b-9fe5-592bc4d5f624",
+      "canonical_name": "高三化学应考策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"化学高考复习策略\",\"化学应试技巧\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能归纳有机化学基础模块常见题型与失分点\",\"能制定考前复习的知识梳理计划\",\"能识别答题中常见的审题与表达失误\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为大量刷题即可提高成绩而忽视错题归纳\",\"忽视规范化学用语表达导致有效得分点丢失\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788478776292,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "高三化学应考策略"
+    },
+    {
+      "id": "2ce71ffa-e12f-4fef-a1ff-7668d83b2f36",
+      "canonical_name": "高三化学高考应考策略",
+      "subject": "化学",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"高考化学答题技巧\",\"化学应试技巧\",\"化学考前策略\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能合理规划化学试卷答题时间分配\",\"能识别选择题与非选择题（填空、简答）常见失分点\",\"能运用审题、规范书写、检查复核等技巧减少非知识性失分\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要掌握知识点就一定能得分，忽视审题与书写规范\",\"考试前段用时过多，导致后段题目仓促作答\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516450400,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "高三化学高考应考策略"
     },
     {
       "id": "48a280e5-01dd-41e4-accb-8780dec18bdc",

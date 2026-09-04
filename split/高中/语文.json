@@ -1,7 +1,7 @@
 {
   "grade_band": "高中",
   "subject": "语文",
-  "kp_count": 653,
+  "kp_count": 729,
   "relation_count": 477,
   "knowledge_points": [
     {
@@ -111,6 +111,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能列举《离骚》中至少三组香草意象及其对应品德内涵\",\"能说明‘美人’在不同语境中指代君王、理想或自我的多重可能\",\"能结合《屈原列传》背景理解该系统产生的政治抒情动因\",\"能辨析其与《诗经》比兴在象征层级上的发展关系\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"屈原生平与楚辞基本定位\",\"基础象征概念\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将香草机械对应固定品德（如兰=忠诚），忽视语境流动性\",\"认为‘美人’仅指楚怀王，忽略其作为理想化身的哲学维度\",\"视该系统为孤立修辞，未关联先秦‘比德’思想传统\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946639806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "‘香草美人’象征系统的解码与文化溯源"
+    },
+    {
+      "id": "3360cafa-2e10-47be-9ed9-0325c5e591a0",
+      "canonical_name": "《一个消逝了的山村》的生命体悟与历史哲思",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"山村遗迹引发的哲理思考\",\"冯至散文的生命意识\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能概括作者由山村遗迹引发的对生命坚韧与历史变迁的思考\",\"能结合具体语句说明散文的哲理内涵\",\"能体会作者在特定时代背景下的情感基调\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《一个消逝了的山村》的自然意象与写景手法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为文章主旨仅是怀旧伤感，忽视其中对生命力与人与自然关系的哲思\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《一个消逝了的山村》的生命体悟与历史哲思"
+    },
+    {
+      "id": "0b6d481c-a9a6-4eff-8cc1-4678e0f2407e",
+      "canonical_name": "《一个消逝了的山村》的自然意象与写景手法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"冯至山村散文的写景手法\",\"小溪鼠曲草有加利树等意象\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别文中小溪、鼠曲草、有加利树、麂子等自然意象\",\"能说出作者如何借景物描写引出联想与感悟\",\"能分析散文中情景交融的写作手法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文的写景抒情基本手法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为文中景物描写只是单纯写景，与情感和哲思无关\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481525341,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《一个消逝了的山村》的自然意象与写景手法"
     },
     {
       "id": "06b8455a-08ee-481f-82f9-f4b116dfd50f",
@@ -591,6 +615,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能按顺序默写并翻译‘格物、致知、诚意、正心、修身、齐家、治国、平天下’\",\"能分析八条目内在的逻辑递进关系（由内而外、由近及远）\",\"能指出‘修身’为本体枢纽地位\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"文言虚词‘欲…者，先…’结构理解\",\"‘格’‘致’‘诚’‘正’等动词的使动/状态义辨析\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"误以为八条目是线性时间流程，忽视其相互涵摄性\",\"将‘格物致知’简单等同于现代科学探究，忽略其道德实践指向\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780946736566,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "《大学》八条目"
+    },
+    {
+      "id": "cd43be4f-a67c-4349-9810-57bd14262e70",
+      "canonical_name": "《孔雀东南飞》中人物形象与家庭矛盾冲突",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"孔雀东南飞人物形象\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能通过人物对话分析刘兰芝、焦仲卿、焦母三者的性格特点\",\"能概括焦母与刘兰芝之间婆媳矛盾的具体表现\",\"能说明焦仲卿在孝道与夫妻情义之间的两难处境\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将矛盾冲突简单归结为焦母的个人蛮横，而忽视封建礼教背景\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《孔雀东南飞》中人物形象与家庭矛盾冲突"
+    },
+    {
+      "id": "143cdc55-254c-43f4-b4e8-30f7a11e0342",
+      "canonical_name": "《孔雀东南飞》的人物形象与家庭伦理冲突",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.5,
+      "aliases": "[\"焦仲卿妻\",\"刘兰芝形象\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能概括刘兰芝勤劳能干、刚烈自尊的性格特点\",\"能分析焦仲卿在孝道与爱情之间的两难处境\",\"能说明阿母专断态度所折射的家庭伦理冲突\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将悲剧原因简单归结为个人性格冲突，忽视封建礼教的社会背景\",\"忽视孔雀东南飞作为汉乐府叙事诗的体裁特征\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《孔雀东南飞》的人物形象与家庭伦理冲突"
     },
     {
       "id": "8a29d7df-fdf4-4d4f-8067-ada7f7fe3451",
@@ -1337,6 +1385,42 @@
       "title": "《梦游天姥吟留别》的浪漫主义艺术特征"
     },
     {
+      "id": "239d5be6-793c-472d-8a8a-8e777a232d25",
+      "canonical_name": "《氓》《离骚》《孔雀东南飞》文言实词虚词与特殊用法归纳",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.5,
+      "aliases": "[\"文言基础知识梳理\",\"高考文言实词虚词复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别文中的通假字并写出本字，如\\\"说\\\"通\\\"脱\\\"、\\\"圜\\\"同\\\"圆\\\"\",\"能解释偏义复词的用法，如\\\"作息\\\"偏指劳作、\\\"公姥\\\"偏指婆婆\",\"能说明古今异义词的古义与今义差异，如\\\"贱妾\\\"\\\"可怜\\\"\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将通假字与古今异义词混淆\",\"忽视偏义复词只取一个语素意义的特点\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》《离骚》《孔雀东南飞》文言实词虚词与特殊用法归纳"
+    },
+    {
+      "id": "38aa606c-e4ce-4fbc-8800-bb348986c2c5",
+      "canonical_name": "《氓》《离骚》与《孔雀东南飞》诗歌鉴赏及文言基础复习",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"风骚传统复习\",\"先秦两汉诗歌名篇复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能复述《氓》中女主人公从恋爱、婚变到决绝的情节与情感变化脉络\",\"能解释《离骚》（节选）中'香草美人'的象征手法及其表达的高洁人格追求\",\"能比较《诗经》与《楚辞》分别开启的现实主义与浪漫主义传统（风骚）及比兴手法的运用\",\"能默写《离骚》（节选）第3段及《氓》《孔雀东南飞》中的名句\",\"能解释文言注释中出现的通假字、偏义复词与谦敬辞（如'结发''总角''伏惟''区区'）的含义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为《氓》女主人公仅是被动受害者，忽视其后期激愤决绝的态度转变\",\"误以为《离骚》中的香草美人只是单纯写景，未理解其象征人格与理想的作用\",\"混淆比兴手法与一般景物描写，未能识别其'先言他物以引起所咏之词'的结构作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481210476,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》《离骚》与《孔雀东南飞》诗歌鉴赏及文言基础复习"
+    },
+    {
+      "id": "b66e1a26-0157-4187-a673-61f1133450bc",
+      "canonical_name": "《氓》《离骚》重点篇目文言基础与诗歌鉴赏复习",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"《诗经》《楚辞》名篇复习\",\"高考诗歌鉴赏专题复习（二）\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能默写《氓》《离骚》（节选）中的重点语句\",\"能解释诗中常见文言实词、通假字的含义（如'匪''说''帅''耽''申''謇'等）\",\"能分析《氓》中比兴手法及其对人物心理变化的表现作用\",\"能阐述《离骚》中'香草美人'的象征手法与诗人情志的关系\",\"能比较《氓》的现实主义抒情与《离骚》的浪漫主义抒情在风格上的差异\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《诗经》与《楚辞》的文学常识\",\"比兴手法的基本概念\",\"文言实词的一般释义方法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将《氓》中女主人公的情感变化简单理解为单一的'怨恨'而忽略其心理层次\",\"误以为《离骚》中的香草美人只是写景状物而非象征寄托\",\"混淆《诗经》的现实主义传统与《楚辞》的浪漫主义传统\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481147374,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》《离骚》重点篇目文言基础与诗歌鉴赏复习"
+    },
+    {
       "id": "184a344a-dc77-4f8e-9c8e-c83dff720cf7",
       "canonical_name": "《氓》中比兴手法的意象系统与象征功能",
       "subject": "语文",
@@ -1349,6 +1433,18 @@
       "title": "《氓》中比兴手法的意象系统与象征功能"
     },
     {
+      "id": "ccd73849-3b29-464a-acb9-bdd713d1665f",
+      "canonical_name": "《氓》弃妇形象及情感变化脉络",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.65,
+      "aliases": "[\"卫风·氓的女主人公形象\",\"氓弃妇诗\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理女主人公从恋爱、结婚到被弃的情感变化过程\",\"能结合诗句分析\\\"怨而不怒，哀而不伤\\\"的抒情特征\",\"能概括弃妇形象勤劳、坚韧、清醒决绝的性格特点\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为《氓》只是简单的爱情叙事诗，忽视其中的社会批判意味\",\"将女主人公简单等同于软弱受害者，忽略其决绝态度\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》弃妇形象及情感变化脉络"
+    },
+    {
       "id": "22b0efdb-ef2f-4f58-8642-784b2515fbac",
       "canonical_name": "《氓》的叙事结构与女性视角抒情特征",
       "subject": "语文",
@@ -1359,6 +1455,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能梳理《氓》六章情节发展脉络\",\"能指出诗歌以第一人称女性口吻展开叙事的特点\",\"能辨析‘赋比兴’在各章中的具体运用\",\"能概括诗中‘婚前—婚后—决绝’三阶段情感逻辑\",\"能说明‘桑之未落’‘桑之落矣’等比兴句对主题表达的作用\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"古代诗歌基本体裁常识\",\"《诗经》“风雅颂”“赋比兴”基本概念\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为《氓》是客观记叙事件，忽略其主观抒情性\",\"将‘士贰其行’简单理解为道德批判，忽视社会制度对女性命运的制约\",\"误以为‘反是不思，亦已焉哉’仅表愤怒，忽略其觉醒意味\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946235474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "《氓》的叙事结构与女性视角抒情特征"
+    },
+    {
+      "id": "870f5e5e-cf85-4785-b44e-9c98be55a5a9",
+      "canonical_name": "《氓》的叙事视角与人物心理变化脉络",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"氓的心路历程\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理女主人公从恋爱、结婚到被弃的情节发展脉络\",\"能概括女主人公心理从情意绵绵到悲伤无助再到激愤决绝的变化过程\",\"能分析诗歌叙事与抒情相结合的写作特点\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将《氓》简单理解为单纯的爱情诗而忽视其叙事结构\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》的叙事视角与人物心理变化脉络"
+    },
+    {
+      "id": "4c3d1438-1148-4f50-a8a7-1333cd0afc1d",
+      "canonical_name": "《氓》的比兴手法与《诗经》现实主义传统",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"比兴手法\",\"诗经比兴\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别诗中\\\"桑之未落\\\"\\\"桑之落矣\\\"等比兴句并解释其象征意义\",\"能说明比兴手法对情感表达的作用\",\"能阐述《诗经》开启现实主义传统的文学史地位\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《氓》弃妇形象及情感变化脉络\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把比兴等同于普通比喻，忽视其托物起兴的双重功能\",\"误以为比兴只是修辞技巧，与诗歌结构无关\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《氓》的比兴手法与《诗经》现实主义传统"
     },
     {
       "id": "aaa915d8-02aa-4fd4-9d8c-87fb572def59",
@@ -1877,6 +1997,18 @@
       "title": "《祝福》中重复叙事与语言陌生化的艺术效果"
     },
     {
+      "id": "6fe4accf-d5ea-4bbd-8511-dddc0531a3c6",
+      "canonical_name": "《离骚》的浪漫主义手法与《楚辞》文学地位",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"楚辞浪漫主义传统\",\"骚体诗\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明《楚辞》开启浪漫主义传统的文学史地位\",\"能识别诗中繁复的意象与回旋复沓的表达方式\",\"能比较《诗经》与《楚辞》在艺术风格上的异同\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《氓》的比兴手法与《诗经》现实主义传统\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆诗经与楚辞的文学传统归属\",\"忽视骚体诗独特的节奏韵律特点，如兮字句式\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《离骚》的浪漫主义手法与《楚辞》文学地位"
+    },
+    {
       "id": "0bd9308d-fbca-4bd9-bc8a-5ce5ac96b9cd",
       "canonical_name": "《离骚》节选中的楚地方言与特殊语法现象",
       "subject": "语文",
@@ -1923,6 +2055,42 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别节选中江离、辟芷、秋兰、木兰、宿莽、蕙、茝、芰荷、芙蓉等香草名称\",\"理解香草在屈原笔下象征高洁品德、坚贞志向与自我修养的固定文化内涵\",\"能结合上下文分析香草意象与抒情主体人格建构的对应关系\",\"能辨析香草意象与《诗经》比兴传统的承继与差异\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"先秦诗歌基本体式\",\"比兴手法初步认知\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为香草仅是写实性植物描写，无象征意图\",\"将香草简单等同于‘美好事物’而忽略其楚地文化专属性与政治隐喻维度\",\"误以为所有香草象征意义完全相同，忽视不同香草在语境中的功能分化\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946252904,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "《离骚》节选中的香草意象系统"
+    },
+    {
+      "id": "0ac711e5-41e6-4342-b29b-c36440bf44b0",
+      "canonical_name": "《离骚》香草美人的象征手法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"香草美人\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明\\\"香草\\\"意象（江离、辟芷、秋兰等）所象征的高洁品格\",\"能解释\\\"美人\\\"在诗中可能指代的对象及其象征意义\",\"能结合诗句分析屈原借香草美人表达的政治理想与人格坚守\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将香草美人仅理解为写景抒情而忽略其象征寓意\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《离骚》香草美人的象征手法"
+    },
+    {
+      "id": "ef1e2d6c-64be-4ca4-bf8e-f7f6fe7b896c",
+      "canonical_name": "《离骚》香草美人的象征手法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"香草美人\",\"香草美人传统\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出《离骚》中香草、美人意象分别象征的内容\",\"能结合《屈原列传》解释香草美人象征手法的文化渊源\",\"会赏析诗中借香草美人表达政治理想与人格坚守的写法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《离骚》文本内容\",\"屈原生平与创作背景\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将香草美人仅理解为写景写人，忽视其象征政治理想与人格的深层含义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《离骚》香草美人的象征手法"
+    },
+    {
+      "id": "54c82bc3-9c9d-423d-8c9d-6fe721c6b3b1",
+      "canonical_name": "《离骚》（节选）中的香草美人象征与人格坚守",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.65,
+      "aliases": "[\"香草美人手法\",\"离骚象征手法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能解释\\\"香草\\\"\\\"美人\\\"等意象的象征含义\",\"能结合诗句说明屈原对高洁人格的坚守，如\\\"民生各有所乐兮，余独好修以为常\\\"\",\"能分析诗人将个人命运与国家兴衰相联系的家国情怀\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将香草美人字面理解为写景写人，忽视其象征寄托\",\"认为离骚仅表达个人怨愤，忽视家国情怀\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481254387,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《离骚》（节选）中的香草美人象征与人格坚守"
     },
     {
       "id": "f7fc4a25-ac0b-4869-a1ce-03efd56e4e89",
@@ -2549,6 +2717,18 @@
       "title": "《诗》的兴观群怨多重功能"
     },
     {
+      "id": "b35d5f98-d849-4bf4-9357-2e866a07e84f",
+      "canonical_name": "《诗经》比兴手法及其表达效果",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"比兴\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能指出《氓》中运用比兴手法的具体诗句\",\"能解释比兴手法（如以桑树荣枯喻爱情变化）的表达效果\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆\\\"比\\\"与\\\"兴\\\"的手法区别，笼统称为\\\"比喻\\\"\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《诗经》比兴手法及其表达效果"
+    },
+    {
       "id": "1420483a-881a-4c55-bce7-8d5b059e71b6",
       "canonical_name": "《谏太宗十思疏》的'十思'内容体系与儒家修身政治观",
       "subject": "语文",
@@ -3005,6 +3185,30 @@
       "title": "《鸿门宴》中的历史文化语境要素"
     },
     {
+      "id": "c0756674-e356-43b8-8d60-12dca63b2386",
+      "canonical_name": "《鹊桥仙》爱情观主旨",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"两情久长胜朝朝暮暮\",\"秦观爱情词主旨\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能概括\\\"两情若是久长时，又岂在朝朝暮暮\\\"所表达的爱情观\",\"能结合词的结构说明主旨句的升华作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《鹊桥仙》用典与比兴手法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为全词只表达离别哀愁，忽略结尾对爱情价值的哲理升华\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《鹊桥仙》爱情观主旨"
+    },
+    {
+      "id": "0f5c0814-8105-4057-a750-8efefa826a34",
+      "canonical_name": "《鹊桥仙》用典与比兴手法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"纤云弄巧艺术手法\",\"牛郎织女典故化用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别词中牛郎织女典故的化用方式\",\"能说出\\\"纤云弄巧，飞星传恨\\\"等句的比兴手法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"古诗词常见意象与用典基础\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为词中意象只是单纯写景，未看出借景喻情的比兴关系\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536692159,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "《鹊桥仙》用典与比兴手法"
+    },
+    {
       "id": "fb29f6ba-04be-4296-9e0e-e5a301eaed77",
       "canonical_name": "《齐桓晋文之事》中的比喻论证艺术",
       "subject": "语文",
@@ -3305,6 +3509,18 @@
       "title": "人物志的文体特征与写作要求"
     },
     {
+      "id": "c747ee94-1ac0-4335-8198-c907070cb7db",
+      "canonical_name": "人物描写方法（肖像、语言、动作、心理描写）",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"人物刻画手法\",\"细节描写\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用肖像、语言、动作、心理描写刻画人物形象\",\"能在自己的记叙文习作中恰当运用细节描写表现人物性格\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"记叙的顺序（顺叙、倒叙、插叙）\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为描写越多越好，忽视描写与主题的关联\",\"把人物描写等同于外貌堆砌而忽略动作心理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "人物描写方法（肖像、语言、动作、心理描写）"
+    },
+    {
       "id": "7a65adad-68d3-4b11-8e9b-f6737d392b0f",
       "canonical_name": "人物精神品格的多维具象化表达",
       "subject": "语文",
@@ -3519,6 +3735,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能将袁滋的断案过程转写为标准假言推理链（如‘若以土换金→则运来必为真金→则重量超负荷→但实际可抬动→故非真金’）\",\"能识别并避免‘肯定后件’‘否定前件’等无效形式\",\"能用符号语言（如p→q, ¬q ∴ ¬p）表征有效假言推理\",\"能解释为何‘如果p则q，q为真’不能推出p为真\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"条件命题的逻辑含义\",\"三段论推理的结构与有效性判断\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"只要用了‘如果…那么…’就是有效推理\",\"‘因为A所以B’等同于‘如果A那么B’\",\"现实因果关系强就等于逻辑蕴含关系成立\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946891541,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "假言推理的有效形式与常见谬误"
+    },
+    {
+      "id": "6fd51ec0-cadf-4dbf-9165-af278ed401e7",
+      "canonical_name": "偏义复词的辨析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"偏义词\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别文言文本中的偏义复词现象\",\"能结合语境判断偏义复词中偏指的语素\",\"能举例说明\\\"公姥\\\"\\\"作息\\\"等偏义复词的具体偏指对象\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"文言实词基础\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将偏义复词的两个语素都当作实义理解\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "偏义复词的辨析"
     },
     {
       "id": "a01e2e39-c0b1-4fcd-99ec-a81ab6ba9537",
@@ -3773,6 +4001,18 @@
       "title": "区长代表的新政权法治实践"
     },
     {
+      "id": "6ba6a887-d858-44af-a757-50390d8ae04d",
+      "canonical_name": "单音词被另一单音词替换的演变现象",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"古今单音词换用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举出“首→头”“口→嘴”“面→脸”“足→脚”等古今单音词替换的例子\",\"能说出这类替换中词语原义与后来常用义的差异（如“口”原指鸟嘴）\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为替换后的字与原字自古意义完全相同\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "单音词被另一单音词替换的演变现象"
+    },
+    {
       "id": "617b3943-b308-4dee-9c52-7f5a1c515dfe",
       "canonical_name": "博物馆布展建议的语用表达规范",
       "subject": "语文",
@@ -3927,6 +4167,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别《赤壁赋》中写景、抒情、说理三要素的融合方式\",\"能梳理《赤壁赋》情感起伏的脉络并关联对应景物描写\",\"能结合具体语句说明《登泰山记》如何以简驭繁实现情景统一\",\"能比较《故都的秋》《荷塘月色》《我与地坛》中同一城市景物的不同情感投射\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"文言文基本阅读能力\",\"意象与情感关联的基础认知\",\"散文基本结构常识\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为景物描写只是背景，与情感表达无关\",\"将作者情感简单等同于景物客观特征（如‘秋=悲凉’）\",\"忽略‘主客问答’等特殊结构对情感表达的调控作用\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780947757846,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "古代写景抒情散文中景与情的关系分析"
+    },
+    {
+      "id": "5991addc-2d05-4600-8fb6-1b6037b9078b",
+      "canonical_name": "古代单音词的多音化现象",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"单音词双音化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举“耳—耳朵”“眉—眉毛”等古代单音词现代多音化的例子\",\"能说出方言中“脑袋”“嘴巴”等进一步多音化的现象\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为多音化只是简单加字，词义和用法完全不变\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "古代单音词的多音化现象"
+    },
+    {
+      "id": "28fab6cb-f819-47d3-8956-622a39fdb29e",
+      "canonical_name": "古代婚俗与人生礼俗文化常识",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"古代文化常识\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能解释\\\"总角\\\"\\\"结发\\\"等古代人生阶段称谓的文化内涵\",\"能说明\\\"卜筮\\\"\\\"伏惟\\\"等古代礼俗行为或用语的含义\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为\\\"总角\\\"\\\"结发\\\"等词只是普通词语而忽视其文化背景\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "古代婚俗与人生礼俗文化常识"
     },
     {
       "id": "d325f4a5-94b5-4094-9e27-ff445d559516",
@@ -4217,6 +4481,18 @@
       "title": "史论观点的批判性辩驳写作"
     },
     {
+      "id": "cb580d71-4237-410a-87dd-b42faaa3b0e6",
+      "canonical_name": "名称沿用而实质改变的语言现象",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"名同实异\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“钟”“肥皂”的例子解释名称保留而所指实质已改变的现象\",\"能区分“名称与实质同步变化”和“名称不变而实质已变”两种情形\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"词义演变与社会生活变迁的关联\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为名称不变就意味着所指事物或含义也未变\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "名称沿用而实质改变的语言现象"
+    },
+    {
       "id": "ba5c5717-e7b5-44a6-92c2-d463d867e779",
       "canonical_name": "君子喻义小人喻利的价值分野",
       "subject": "语文",
@@ -4239,6 +4515,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解‘敏于事而慎于言’的实践内涵\",\"能阐释‘就有道而正焉’在修身中的作用\",\"概括孔子对‘好学’的界定与世俗认知的区别\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"文言实词‘敏’‘正’‘有道’的基本释义\",\"《论语》语录体基本特征\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为‘食无求饱’是提倡清贫苦修\",\"将‘慎于言’误解为少说话或沉默寡言\",\"忽略‘就有道而正焉’中主动求正的自觉性\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780946790328,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "君子好学的标准"
+    },
+    {
+      "id": "7554e050-64fe-4ccf-8785-9a461a901ba9",
+      "canonical_name": "否定句代词宾语前置句式",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.65,
+      "aliases": "[\"宾语前置\",\"文言倒装句\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别否定句中代词作宾语前置的文言句式\",\"能将\\\"不吾知\\\"\\\"不吾与\\\"等前置宾语句式还原为现代汉语语序\",\"能归纳此类倒装句的判断条件（否定词+代词宾语+动词）\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"文言基本句式\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误按字面语序直译前置宾语句，导致理解偏差\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "否定句代词宾语前置句式"
     },
     {
       "id": "4000e821-197a-4ec8-a490-d55ec7623daf",
@@ -4275,6 +4563,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能区分哈姆莱特在奥菲利娅面前言行的表层疯态与深层清醒意图\",\"能解析‘贞洁与美丽’悖论式诘问所承载的对女性命运、政治伪善及信仰崩塌的多重批判\",\"能结合波洛涅斯‘涂脂抹粉的娼妇’台词与国王旁白，说明该场景作为‘戏中戏’前奏的监视结构与道德反讽\",\"能指出奥菲利娅哀悼独白对哈姆莱特‘高贵心灵陨落’的悲剧定调作用\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"戏剧中‘装疯’母题的文化传统\",\"莎士比亚笔下女性角色的象征功能\",\"戏剧舞台空间与观看关系（密探视角）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将哈姆莱特对奥菲利娅的言语暴力单纯归因为爱情受挫\",\"忽视‘出家去吧’等指令背后对教会规训、父权控制与性别压迫的尖锐指涉\",\"误读奥菲利娅哀悼词仅为抒情铺陈，忽略其作为剧评式‘元戏剧’话语的功能\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.87,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947937833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "哈姆莱特与奥菲利娅对话中‘疯言’的双重性与戏剧功能"
+    },
+    {
+      "id": "f233c6bc-db0c-4217-8fdb-12379d36ac32",
+      "canonical_name": "因忌讳心理而改变称谓的语言现象",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"委婉语\",\"避讳改名\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“大虫”“长虫”“耗子”解释因恐惧厌恶而改换称呼的现象\",\"能用“大便”“出恭”解释因避免难听而使用委婉说法的现象\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为称谓改变都源于事物本身变化，忽视心理与礼貌因素\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "因忌讳心理而改变称谓的语言现象"
+    },
+    {
+      "id": "90fbe806-91ff-4716-80e4-68acb2304def",
+      "canonical_name": "因词义情味把握不准导致的用词不当现象",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"选词不当\",\"用词辨析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能指出“我觉得有几点是可以讨论的”一句因“可以讨论”隐含“尚不确定”而与原意相悖的问题\",\"能指出“现在轮到他们等我了”一句因暗含报复意味而偏离原意的问题\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"词语的意义与情味的辨析\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要词语本身意思接近，放入句中就不会产生语义或语气偏差\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "因词义情味把握不准导致的用词不当现象"
     },
     {
       "id": "80b3df7d-9143-471f-af7f-e353afe4e860",
@@ -4829,6 +5141,18 @@
       "title": "实事求是思想路线的内涵与表述"
     },
     {
+      "id": "dc6c1d16-f786-4130-8e6c-9c07dfea51b1",
+      "canonical_name": "实用类文本信息筛选与整合",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"非连续性文本阅读\",\"实用类文本阅读\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从多则材料中筛选与题干相关的关键信息\",\"能比对材料间信息的异同并整合成完整答案\",\"能识别图表数据与文字表述之间的对应关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为信息整合题只需摘抄原文语句，不需要概括加工\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "实用类文本信息筛选与整合"
+    },
+    {
       "id": "15b41848-a835-45f0-a983-9aa6f2a7e768",
       "canonical_name": "实践作为检验真理的唯一标准",
       "subject": "语文",
@@ -5129,6 +5453,42 @@
       "title": "小说中民族文化与社会历史语境的互文解读"
     },
     {
+      "id": "f8b20001-86cf-450b-85a8-011fdf351dea",
+      "canonical_name": "小说主题意蕴探究",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"小说主旨概括\",\"探究题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从情节、人物、环境多角度归纳小说主题\",\"会结合时代背景与作者意图探究文本深层意蕴\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说人物形象鉴赏方法\",\"小说环境描写作用分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把主题等同于道德教训，忽略文本的多义性与开放性解读\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说主题意蕴探究"
+    },
+    {
+      "id": "0c60ec0e-b46b-446e-ab0a-ebb395e28a66",
+      "canonical_name": "小说主题意蕴的探究",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"主题探究题\",\"小说意蕴分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能结合情节、人物、环境等要素综合概括小说的主题\",\"能从多角度探究小说主题的现实意义或思想深度\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说人物形象的概括与分析\",\"小说环境描写的作用分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"脱离文本内容空泛谈主题，未能结合具体情节人物加以论证\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说主题意蕴的探究"
+    },
+    {
+      "id": "798277c1-3d6f-44a0-a338-7b5eed02be4d",
+      "canonical_name": "小说人物形象分析方法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"人物形象概括\",\"人物性格分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从语言、动作、心理等描写概括人物性格特征\",\"会结合情节变化分析人物形象的复杂性\",\"能评价次要人物对主要人物的衬托作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节结构分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把人物形象简单等同于单一标签词，忽视多面性与变化\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说人物形象分析方法"
+    },
+    {
       "id": "5dd63d00-6e6e-41b6-931a-b64102157225",
       "canonical_name": "小说人物形象的典型性分析",
       "subject": "语文",
@@ -5139,6 +5499,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能结合课文具体描写识别人物核心性格特征\",\"能阐释人物在文学史中的典型意义与象征功能\",\"能运用'性格—环境—命运'关联视角解释人物难忘原因\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"小说基本要素（人物、情节、环境、主题）\",\"文学形象与现实原型的关系\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为人物典型性仅取决于作者主观塑造，忽视社会历史语境制约\",\"将人物性格简单归因为个人善恶，忽略阶级、时代、文化等结构性因素\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "小说人物形象的典型性分析"
+    },
+    {
+      "id": "72c2422c-15ef-4524-86e8-1c65373fbcae",
+      "canonical_name": "小说人物形象的概括与分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"人物形象题\",\"人物性格分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从语言、动作、心理等描写中概括人物的性格特点\",\"能结合情节变化分析人物形象的复杂性或成长变化\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节的梳理与结构分析\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"用单一标签概括人物而忽视性格的多面性\",\"混淆人物形象分析与人物作用分析两类题型\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说人物形象的概括与分析"
+    },
+    {
+      "id": "fd7ac1df-ee55-4c7a-be04-395147044a1a",
+      "canonical_name": "小说人物形象鉴赏方法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"人物形象分析\",\"人物性格概括\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从语言、动作、心理、细节描写中提炼人物性格特征\",\"会结合情节变化分析人物形象的发展与转变\",\"能评价次要人物对主要人物塑造的衬托作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节结构分析\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"用单一标签概括人物性格，忽视性格的多面性与动态变化\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说人物形象鉴赏方法"
     },
     {
       "id": "f0a6f7cc-fc2e-45e5-9535-efd1bd6182dd",
@@ -5153,6 +5537,42 @@
       "title": "小说人物心理描写的多层呈现与叙事功能"
     },
     {
+      "id": "924a2a80-a610-4c55-b1ea-5ca9d4ba4e56",
+      "canonical_name": "小说叙事视角与人称效果",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"叙述视角\",\"叙事人称\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能辨析第一人称、第三人称叙事的效果差异\",\"能分析有限视角与全知视角对情节呈现的影响\",\"会结合具体段落说明视角选择对读者认知的限制或引导作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说叙事基本要素\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为第一人称一定比第三人称更真实可信\",\"忽视视角限制对情节悬念的作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说叙事视角与人称效果"
+    },
+    {
+      "id": "7b734525-8e0d-483a-8fbd-e89e36af685f",
+      "canonical_name": "小说叙事视角与叙事人称",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.25,
+      "aliases": "[\"叙事角度\",\"第一人称/第三人称叙事\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能辨析第一人称、第三人称叙事的表达效果\",\"会分析叙事视角变化对读者认知与情感的影响\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节结构分析\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆叙事人称与叙事视角的概念\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说叙事视角与叙事人称"
+    },
+    {
+      "id": "6b50767b-8630-4e35-b56c-795aaa2233ee",
+      "canonical_name": "小说叙事视角与叙述技巧",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"叙述人称\",\"叙事手法分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别第一人称、第三人称等叙述视角及其效果\",\"能分析插叙、倒叙等叙述技巧对阅读体验的影响\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节结构分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆叙述人称与叙述视角的概念\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说叙事视角与叙述技巧"
+    },
+    {
       "id": "1b7237db-56e8-43d9-ad3e-2ce9dd0fa626",
       "canonical_name": "小说心理描写的类型、功能与比较分析",
       "subject": "语文",
@@ -5163,6 +5583,102 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别直接心理描写、间接心理描写（如动作暗示、环境折射）等类型\",\"能说明不同作品中心理描写对人物立体化、情节推进或主题深化的具体作用\",\"能对比《大卫·科波菲尔》与《复活》中心理描写策略差异\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"描写手法基本分类（肖像、语言、动作、心理、环境）\",\"小说叙事视角基础\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为心理描写仅服务于人物性格展示，忽略其调节叙事节奏、制造悬念等功能\",\"混淆作者叙述性心理概括与人物内心独白的文体界限\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780946884891,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "小说心理描写的类型、功能与比较分析"
+    },
+    {
+      "id": "af113c97-eb93-4aea-9a63-d8da023c2024",
+      "canonical_name": "小说情节结构分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"情节梳理\",\"情节作用题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理小说情节发展的基本脉络（开端-发展-高潮-结局）\",\"能分析某一情节片段在结构、人物塑造、主题表达上的作用\",\"会用情节手法术语（伏笔、照应、突转、悬念）解读文本\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将情节概括等同于情节作用分析，忽略结构与主题层面的效果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说情节结构分析"
+    },
+    {
+      "id": "ce41cc58-a413-45e9-84ce-bb4d670bc771",
+      "canonical_name": "小说情节结构分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"情节梳理\",\"情节作用题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理小说情节的开端、发展、高潮、结局\",\"会分析某一情节片段在全文结构中的作用\",\"能识别情节的铺垫、悬念、照应等安排\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为情节作用只需概括内容，不涉及结构功能与主题关联\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说情节结构分析"
+    },
+    {
+      "id": "68a6660d-2df0-47f0-9d49-160ed0b62f3c",
+      "canonical_name": "小说情节结构技巧（伏笔与照应）",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"情节安排技巧\",\"伏笔照应\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别文本中的伏笔与前后照应之处\",\"会分析伏笔照应对情节合理性和主题表达的作用\",\"能梳理小说的线索安排方式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节基本概念\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把巧合等同于伏笔照应\",\"忽略次要情节线索对主题的辅助作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说情节结构技巧（伏笔与照应）"
+    },
+    {
+      "id": "67b0956b-6aa2-4f7a-9a1f-6d09c51dc3ae",
+      "canonical_name": "小说标题含义与作用的探究",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"标题作用题\",\"标题含义分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从表层和深层两个层面解读小说标题的含义\",\"能分析标题在概括情节、暗示主题、设置悬念等方面的作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节的梳理与结构分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只答标题的表层含义，忽略其象征或主题层面的深层含义\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536670581,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说标题含义与作用的探究"
+    },
+    {
+      "id": "7c36a6fa-59e4-468f-9761-077b0a5b4f0b",
+      "canonical_name": "小说标题意蕴探究",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"标题作用\",\"标题意蕴\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从表层义与深层义两方面分析小说标题的含义\",\"会说明标题与情节、人物、主题之间的关联\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说主题概括基础\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只从字面理解标题，忽略其象征或双关意义\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说标题意蕴探究"
+    },
+    {
+      "id": "396d320b-cb88-4ba5-948b-c73aa3a44f2c",
+      "canonical_name": "小说环境描写作用分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"环境描写题\",\"自然环境与社会环境作用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分自然环境描写与社会环境描写\",\"能分析环境描写对渲染气氛、烘托人物、推动情节的作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说情节结构分析\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为环境描写只是背景交代，忽略其对人物心理与主题的暗示功能\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481301089,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说环境描写作用分析"
+    },
+    {
+      "id": "dd6c0a1d-f830-4c72-9fac-2eb014adafef",
+      "canonical_name": "小说环境描写作用分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.25,
+      "aliases": "[\"环境描写题\",\"自然环境与社会环境作用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分自然环境与社会环境描写\",\"会分析环境描写对人物塑造、情节推进、主题表达的作用\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为环境描写仅起背景交代作用，忽视其象征与烘托功能\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788516820287,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说环境描写作用分析"
+    },
+    {
+      "id": "845fe123-52ff-4a97-a2ac-bd2b438d0dc1",
+      "canonical_name": "小说环境描写的作用",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"环境描写作用\",\"景物描写的作用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分自然环境与社会环境描写\",\"能分析环境描写对人物塑造、情节推进、主题烘托的作用\",\"会结合具体语句概括环境描写的多重功能\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"小说三要素基础\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为环境描写只是背景交代，无实质作用\",\"混淆环境描写与细节描写的功能\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说环境描写的作用"
     },
     {
       "id": "d05223db-89f3-4646-b129-8f801e344986",
@@ -5235,6 +5751,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解节选开篇‘遭人遗弃’所承载的双重剥夺（亲情剥夺与教育剥夺）\",\"能结合文本细节分析‘小小年纪就如此轻易地遭人遗弃’中‘轻易’一词的反讽张力\",\"识别大卫从‘极有才华、观察力强、聪明热情’到‘小童工’的身份骤降及其心理印记\",\"能指出‘此时此刻眼前的情景’这一叙述时态对创伤记忆具身化呈现的作用\",\"辨析‘颤抖的手被昆宁先生握着’这一身体细节如何成为权力关系与主体溃散的微型象征\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"小说叙事视角基本类型\",\"人物形象分析基础\",\"初中阶段外国文学名著阅读经验（如《童年》《鲁滨逊漂流记》）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为大卫的痛苦仅源于物质匮乏，忽略其精神世界崩塌与自我认同瓦解\",\"将‘谋得斯通－格林比货行’简单等同于普通工作场所，忽视其作为制度性暴力空间的隐喻功能\",\"误读‘我竟沦落到跟这样一班人为伍’为阶级偏见，忽略其中包含的被迫剥离原有文化资本的痛感\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780946838150,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "小说节选中大卫·科波菲尔的童年创伤与身份断裂"
+    },
+    {
+      "id": "ce160872-b620-4759-a6e2-9917107923de",
+      "canonical_name": "小说语言风格与语言特色赏析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"小说语言特色\",\"语言风格赏析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从用词、句式、修辞角度分析小说语言特色\",\"会比较不同作家（如方言化、口语化）语言风格的表达效果\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"文学作品语言鉴赏基础\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把语言特色分析等同于简单的修辞手法罗列\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481470443,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "小说语言风格与语言特色赏析"
     },
     {
       "id": "c59c5efe-e01b-4fc8-a579-15424b680cb0",
@@ -5549,6 +6077,90 @@
       "title": "政论文中的经典引证与文化根脉"
     },
     {
+      "id": "5d3f6747-3c7a-4efa-9b06-90ad663a8bc6",
+      "canonical_name": "散文主旨情感把握",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"散文主题概括\",\"散文情感倾向分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能概括散文的中心主旨\",\"能结合文本分析作者的情感态度及其变化\",\"能辨析显性抒情与隐性抒情的表达差异\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文形象与意象鉴赏\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将局部情感等同于全文主旨，以偏概全\",\"忽视文本细节，仅凭标题或开头猜测主旨\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文主旨情感把握"
+    },
+    {
+      "id": "601db2f3-f60c-451b-9334-517dce38f46e",
+      "canonical_name": "散文形象与意象鉴赏",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"散文中的形象分析\",\"托物言志分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别散文中作者着力刻画的中心物象或人物形象\",\"能分析物象/人物形象所寄托的情感或哲理\",\"能概括形象的特征并结合文本举证\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文文体基本特征\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把物象的表层描写等同于其象征意义\",\"忽略形象与作者情感的关联，孤立分析形象\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文形象与意象鉴赏"
+    },
+    {
+      "id": "dfc2af18-9bfa-47b1-927e-2c600232cb96",
+      "canonical_name": "散文探究性阅读与比较阅读",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"散文个性化解读\",\"散文比较阅读题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能针对开放性问题结合文本提出个人见解并加以论证\",\"能比较两篇散文在主题、手法或语言上的异同\",\"能评价文本的思想价值或艺术特色\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文主旨情感把握\",\"散文表现手法鉴赏\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"脱离文本进行主观臆断，缺乏文本依据\",\"比较阅读时只罗列异同而不作深入分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文探究性阅读与比较阅读"
+    },
+    {
+      "id": "e94be603-ba65-442a-a2eb-9f8a3588b966",
+      "canonical_name": "散文结构思路分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"散文行文线索梳理\",\"散文层次划分\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理散文的行文线索（时间、空间、情感等）\",\"能划分文章层次并概括各层次大意\",\"能分析开头、过渡、结尾在结构上的作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文文体基本特征\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将线索等同于表面叙事顺序，忽略隐性情感线索\",\"只关注段落内容而忽略段落间的结构关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文结构思路分析"
+    },
+    {
+      "id": "3d7addc5-b23f-42c7-b38d-eba5917de041",
+      "canonical_name": "散文表现手法鉴赏",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"散文艺术手法分析\",\"象征对比衬托手法辨析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别散文中象征、对比、衬托、虚实结合等表现手法\",\"能说明某一表现手法在文中的具体作用\",\"能比较不同表现手法对主题表达的不同效果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"散文语言鉴赏\",\"散文形象与意象鉴赏\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆表现手法与修辞手法的概念范畴\",\"只识别手法名称而未能结合文本分析其效果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文表现手法鉴赏"
+    },
+    {
+      "id": "6e541714-ab9d-456e-aa4c-738ef738c86a",
+      "canonical_name": "散文语言与艺术手法鉴赏",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"散文阅读\",\"语言表达赏析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能分析散文中修辞手法（比喻、拟人、排比等）的表达效果\",\"能识别散文的语言风格特征（如朴素、凝练、抒情）\",\"能结合具体语句评价作者的写作意图与情感表达\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为赏析题只需指出修辞手法名称，不需分析其效果与作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文语言与艺术手法鉴赏"
+    },
+    {
+      "id": "6bc46c6e-1c16-4f5e-b81a-c8b46d1a99f6",
+      "canonical_name": "散文语言鉴赏",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"散文炼字赏析\",\"散文语言风格分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能赏析散文中关键词句的表达效果\",\"能识别并说明常见修辞手法（比喻、拟人、排比等）的作用\",\"能概括作者的语言风格（如朴实、凝练、清丽等）\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"常见修辞手法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只指出修辞名称而不分析表达效果\",\"将语言风格判断等同于主观感受而不结合文本依据\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481458651,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "散文语言鉴赏"
+    },
+    {
       "id": "8e285dec-9013-4201-80db-cb5ed8c62c06",
       "canonical_name": "文学短评的写作规范与实践",
       "subject": "语文",
@@ -5559,6 +6171,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.52,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能界定文学短评的文体特征（基于文本、聚焦一点、有理有据、语言简练）\",\"能从情感、形象、手法、语言等维度选择切入点展开分析\",\"能结合本单元任一首诗词（如《声声慢》叠字、《永遇乐》用典）撰写800字短评\",\"能依据‘感受—分析—评价’逻辑组织短评结构\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"记叙文与议论文基本结构认知\",\"诗歌常见艺术手法（如比兴、白描、想象、通感）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"把短评写成内容复述或翻译\",\"泛泛而谈‘写得真好’，缺乏文本细读支撑\",\"脱离诗词本体空谈人生哲理，未建立文本与观点的逻辑链\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947538082,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "文学短评的写作规范与实践"
+    },
+    {
+      "id": "a3e3bf86-a383-412c-a08c-62a8edcfd899",
+      "canonical_name": "文学类文本人物与情节分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"小说阅读\",\"文学类文本阅读\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能概括小说中人物的性格特点及其变化\",\"能分析情节安排对人物塑造和主题表达的作用\",\"能结合细节描写评价人物形象的塑造手法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把人物形象简单等同于人物身份或职业标签，忽视性格的复杂性\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "文学类文本人物与情节分析"
     },
     {
       "id": "73e88272-2c71-4a8c-9977-bd26c6f8670a",
@@ -6041,6 +6665,18 @@
       "title": "术业有专攻"
     },
     {
+      "id": "056447c4-d8d2-43b5-ad4c-6b255091c01c",
+      "canonical_name": "材料作文审题立意",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"新材料作文审题\",\"任务驱动型作文立意\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能准确概括材料的核心内容与情感倾向\",\"会从材料的多个角度中选定最佳立意\",\"能避免偏题、离题的立意错误\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文论点的确立与表述\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"抓住材料中的次要信息立意，导致偏题\",\"立意大而空，未结合材料具体情境\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "材料作文审题立意"
+    },
+    {
       "id": "99289b44-9da6-401e-8f98-f93bb503a117",
       "canonical_name": "材料运用与文章主旨的结构性适配",
       "subject": "语文",
@@ -6195,6 +6831,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能准确区分‘比’（比喻）与‘兴’（起兴）在诗句中的表现形式\",\"能指出《氓》‘桑之未落’‘淇则有岸’、《孔雀东南飞》‘孔雀东南飞’等典型兴句\",\"能说明兴句如何引发下文、奠定情感基调或构建隐喻框架\",\"能辨析比兴复合使用现象（如《离骚》香草系统）\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"基础修辞知识（比喻、拟人）\",\"《诗经》‘风雅颂’体例常识\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为所有开头写景句都是‘兴’，忽略其与后文逻辑关联的必要性\",\"将‘比’与‘兴’混为一谈，如把‘鸷鸟不群’仅当比喻而非兼具兴发作用\",\"忽视兴的地域性与仪式性起源，脱离周代歌诗传统理解其功能\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.87,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780946594723,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "比兴手法的识别与功能分析"
+    },
+    {
+      "id": "f8da36d2-313e-4aab-8419-abf7fc16b16d",
+      "canonical_name": "比兴手法的运用与效果",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"比兴\",\"起兴\",\"比而兴\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别诗歌中比兴手法的具体诗句（如《氓》\\\"桑之未落\\\"\\\"其黄而陨\\\"、《离骚》香草意象）\",\"能解释比兴手法在叙事与抒情中的表达效果\",\"会比较《氓》与《离骚》中比兴运用的异同\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"《氓》文本内容\",\"《离骚》文本内容\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为比兴只是简单的比喻，忽视其兼具起兴、烘托情感的作用\",\"混淆比兴与直接抒情的区别\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788481319032,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "比兴手法的运用与效果"
     },
     {
       "id": "14b1106c-b5fc-43d9-b624-467a19300c12",
@@ -6989,6 +7637,18 @@
       "title": "议论文中的对比与比喻说理方法"
     },
     {
+      "id": "acf62d3a-2dfc-4901-a7fe-a2375f705562",
+      "canonical_name": "议论文常用论证方法",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"举例论证、道理论证、对比论证、比喻论证\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别举例论证、道理论证、对比论证、比喻论证等方法\",\"会在写作中综合运用至少两种论证方法\",\"能判断某一论证方法的论证效果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文论据的选择与运用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆论证方法与表达方式（如误将叙述当作论证）\",\"单一使用举例论证，缺乏说理深度\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文常用论证方法"
+    },
+    {
       "id": "78b6963a-404b-426e-ac09-5d452c595cd1",
       "canonical_name": "议论文常用论证方法辨识与功能分析",
       "subject": "语文",
@@ -7013,6 +7673,18 @@
       "title": "议论文的现实针对性"
     },
     {
+      "id": "fea2d2ea-da81-448b-bd15-8944803e3ca8",
+      "canonical_name": "议论文的结构安排",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"并列式结构\",\"层进式结构\",\"对照式结构\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能选用并列式、层进式或对照式结构组织全文\",\"会设计过渡段落使论证层次清晰\",\"能评估自己文章结构是否严密\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文常用论证方法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"段落间缺乏逻辑过渡，结构松散\",\"层进式结构写成并列式，论证无深入\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文的结构安排"
+    },
+    {
       "id": "c509af0f-dbb3-4cdd-b4fb-58d7d8b101a2",
       "canonical_name": "议论文的读者意识",
       "subject": "语文",
@@ -7023,6 +7695,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.61,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解读者意识对议论文目标达成的关键作用\",\"能根据预设读者群体调整论点侧重、例证选择与语言风格\",\"能识别‘无的放矢，不看对象’的典型失当表达\",\"能在写作前进行读者画像与表达策略预判\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"议论文基本要素\",\"毛泽东对党八股的批评认知\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为好文章只需自我表达，无需考虑读者\",\"将读者意识窄化为‘说人话’或‘降低难度’\",\"误以为面向大众就等于放弃思辨深度\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.76,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780947697758,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "议论文的读者意识"
+    },
+    {
+      "id": "b16431d9-400d-4bcc-b27b-baa9caa1f762",
+      "canonical_name": "议论文结合当下现实的论证策略",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"议论文联系现实\",\"时评式说理\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别自己作文中论证脱离当下现实、材料陈旧的问题\",\"能选用与论点高度契合的时事材料展开论证\",\"能说明所引时事材料与中心论点之间的逻辑关联\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文基本结构\",\"论点与论据的匹配关系\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为堆砌热点新闻标题就是结合当下\",\"认为结合当下必须使用最新事件而忽视论证逻辑\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文结合当下现实的论证策略"
     },
     {
       "id": "076c4708-161c-4fbb-b67b-24e3cf303072",
@@ -7049,6 +7733,18 @@
       "title": "议论文论据的选择与匹配"
     },
     {
+      "id": "6a353d68-fe6e-4e5d-8f10-63f643689983",
+      "canonical_name": "议论文论据的选择与运用",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"事实论据与道理论据\",\"论据的典型性与新颖性\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分事实论据与道理论据并恰当选用\",\"会评估论据与论点的匹配度\",\"能对论据进行简要分析而非简单罗列\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文论点的确立与表述\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"堆砌论据而不分析论据与论点的关系\",\"误用陈旧或不准确的事实论据\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文论据的选择与运用"
+    },
+    {
       "id": "0192af22-8fbe-4f14-99aa-011709f71550",
       "canonical_name": "议论文论点的确立",
       "subject": "语文",
@@ -7059,6 +7755,90 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据阅读材料或生活观察提炼有思想深度的论点\",\"能判断论点是否明确、正确且具有可论证性\",\"能在写作任务中独立拟定符合题意的议论文论点\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"议论文基本要素认知\",\"文本主旨概括能力\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为论点就是复述题目或材料原句\",\"混淆论点与论题，将宽泛话题（如‘责任’）直接当作论点\",\"误以为论点越宏大越有力，忽视具体性与可证性\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780948254416,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "议论文论点的确立"
+    },
+    {
+      "id": "e6e39319-6f66-4ec6-9e4c-5716b0dbc03d",
+      "canonical_name": "议论文论点的确立与表述",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"中心论点的提炼\",\"观点句写作\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从材料中提炼出明确、集中的中心论点\",\"会用简洁的判断句表述论点\",\"能辨析论点与论题、材料主旨的区别\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文三要素\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把论题当作论点，表述含糊不做判断\",\"论点在行文中前后不一致或自相矛盾\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文论点的确立与表述"
+    },
+    {
+      "id": "b6b8d4a7-73c0-4bd5-8e51-a569696964c6",
+      "canonical_name": "议论文语言的逻辑性与准确性",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"议论文语言表达要求\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能检查论证过程中是否存在逻辑漏洞\",\"会使用关联词准确表达因果、递进、转折等逻辑关系\",\"能修改语言中模糊或绝对化的表述\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文的结构安排\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"使用绝对化措辞导致论证不严谨\",\"关联词误用造成逻辑关系混乱\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481109836,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "议论文语言的逻辑性与准确性"
+    },
+    {
+      "id": "efd1cb45-c601-44d1-bdac-ea9fb263d75d",
+      "canonical_name": "记叙文中的环境描写及其作用",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"景物描写作用\",\"环境烘托\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别记叙文中的环境描写句\",\"能说明环境描写对渲染气氛、烘托人物、推动情节的作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"人物描写方法（肖像、语言、动作、心理描写）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为环境描写只是背景交代而无深层作用\",\"写作时环境描写与情节情感脱节\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记叙文中的环境描写及其作用"
+    },
+    {
+      "id": "de848447-81d6-490c-ba31-52f48744fcc2",
+      "canonical_name": "记叙文的以小见大与细节描写",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"细节点题\",\"小事写大意\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能通过一个细小事件或细节表现深刻主题\",\"能在习作中放大关键细节以突出情感或哲理\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"记叙文中的环境描写及其作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为主题深刻必须依靠宏大事件\",\"细节描写游离于主题之外，未能以小见大\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记叙文的以小见大与细节描写"
+    },
+    {
+      "id": "ae7c1a11-ae9b-437b-bdd7-1582e6231b64",
+      "canonical_name": "记叙文的结构技巧（开头结尾、过渡照应）",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"谋篇布局\",\"首尾呼应\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能设计有吸引力的开头和有余味的结尾\",\"能在行文中恰当运用过渡句实现段落衔接与前后照应\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"记叙文的以小见大与细节描写\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"开头结尾与正文主题脱节\",\"忽视段落之间的过渡导致结构松散\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记叙文的结构技巧（开头结尾、过渡照应）"
+    },
+    {
+      "id": "6619b8e9-f1b2-4244-907d-511d7b65580e",
+      "canonical_name": "记叙文的选材与立意",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"记叙文审题立意\",\"选材构思\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据给定题目或材料确定记叙文的中心思想\",\"能筛选出与主题契合的典型事件作为写作素材\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为记叙文只要事件真实就一定切题\",\"把选材等同于罗列多件事而忽视主题聚焦\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记叙文的选材与立意"
+    },
+    {
+      "id": "e7b2506c-162d-4e90-b7c3-23e3388becb3",
+      "canonical_name": "记叙的顺序（顺叙、倒叙、插叙）",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"记叙文叙事顺序\",\"叙事结构安排\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分顺叙、倒叙、插叙三种叙事方式\",\"能判断某段文字使用了何种叙事顺序并说明其表达效果\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"记叙文的选材与立意\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将插叙与倒叙混淆\",\"误以为倒叙只是时间上的简单颠倒而无结构安排\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481008173,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记叙的顺序（顺叙、倒叙、插叙）"
     },
     {
       "id": "0a298dd3-26f7-4b31-a949-4334016d1a87",
@@ -7085,6 +7865,18 @@
       "title": "论证中隐含前提的识别与补全"
     },
     {
+      "id": "c97ed248-44ee-4c0f-9f37-f174fdc10978",
+      "canonical_name": "论述类文本论证分析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"论述类文本阅读\",\"论证思路分析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能梳理论述类文本的论证结构（提出问题-分析问题-解决问题）\",\"能识别文本使用的论证方法（举例论证、对比论证、引用论证等）\",\"能判断选项对原文论点或论据的转述是否符合原意\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要选项字面出现原文词句就是正确答案，忽视逻辑关系是否被曲解\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536609301,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "论述类文本论证分析"
+    },
+    {
       "id": "cf6bcdbd-1f8f-4e72-88f6-70e8d9b05fc5",
       "canonical_name": "设计与实施社区文化调查方案",
       "subject": "语文",
@@ -7109,6 +7901,18 @@
       "title": "访谈家乡文化工作者的方法与规范"
     },
     {
+      "id": "8e866fe3-0576-46df-8cb4-6e2f0b0c3e07",
+      "canonical_name": "词义弱化",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"词义程度减弱\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“很”字说明词义弱化的含义\",\"能用“普遍”一词解释程度副词或形容词语义弱化的现象\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为“很普遍”与“普遍”表达的确定程度完全相同\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词义弱化"
+    },
+    {
       "id": "152ce127-8458-4330-8562-7569b135a0a2",
       "canonical_name": "词义情味：同一语素构词的语义分化与语感差异",
       "subject": "语文",
@@ -7121,6 +7925,30 @@
       "title": "词义情味：同一语素构词的语义分化与语感差异"
     },
     {
+      "id": "fe131409-2def-43ba-8bec-ee7c8860303d",
+      "canonical_name": "词义扩大",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"词义范围扩大\",\"专名变通名\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能解释“江”“河”由专指长江黄河变为通名的过程\",\"能用“菜”字说明词义扩大的含义并举出类似例子\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把词义扩大等同于词义转移，混淆二者边界\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词义扩大"
+    },
+    {
+      "id": "d7e34ce1-5759-48f2-9052-e0b35ee2f9cb",
+      "canonical_name": "词义演变与社会生活变迁的关联",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"语言反映社会生活变化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“几”“床”“坐”等实例说明社会生活变化如何引起字眼意义的变化\",\"能解释“坐”字古今动作含义一致而姿势不同的原因\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为词义变化都是无端发生的，与社会生活变迁无关\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词义演变与社会生活变迁的关联"
+    },
+    {
       "id": "c069ee6b-086f-4a10-9867-bb20fe6fd15a",
       "canonical_name": "词义的辨析与词语的准确使用",
       "subject": "语文",
@@ -7131,6 +7959,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能通过作家修改稿对比识别词语选用的细微差异\",\"能结合语境分析'排'与'摸'等动词所承载的动作状态与人物心理\",\"能梳理课文中体现'恰当性'的典型词语搭配实例\",\"会从剥蚀、淡褪、坍圮、散落等动词链中归纳词语选择对意象张力的建构作用\",\"能在写作中依据表达意图主动选择更贴切的词语\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"现代汉语基本词类知识\",\"语境概念理解\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为近义词可以完全互换\",\"将词语准确性等同于'高级词汇'的堆砌\",\"忽视动词的及物性、体貌与人物身份的适配关系\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780947785036,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "词义的辨析与词语的准确使用"
+    },
+    {
+      "id": "c16919bc-ed2d-47cb-8b53-51175cd819fb",
+      "canonical_name": "词义缩小",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"词义范围缩小\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“肉”“谷”的例子解释词义缩小的含义\",\"能辨析同一词语在不同语境下可能同时存在扩大和缩小的现象（如“肉”）\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"词义扩大\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为一个词只能单向发生词义扩大或缩小，不能兼具两种变化\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词义缩小"
+    },
+    {
+      "id": "9182b36b-f11a-47c2-98a3-092175dfa48f",
+      "canonical_name": "词义转移",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"词义转指\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用“涕”由眼泪转指鼻涕的例子解释词义转移的含义\",\"能用“信”由信使转指书信的例子说明词义转移过程\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把词义转移误认为词义扩大或缩小\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词义转移"
     },
     {
       "id": "7ea10d46-c159-4c8b-bfca-78ca5aca5e98",
@@ -7179,6 +8031,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别‘开展商店’‘捏造诡计’‘胜任教材’等动宾搭配错误\",\"能识别‘心奔腾’‘行为是僵尸’等主谓语义冲突\",\"能依据动词的论元结构与名词的语义角色进行搭配诊断\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"动词及物性与论元要求\",\"名词语义角色（施事/受事/工具/处所等）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为‘开展’可泛指‘创办一切事物’\",\"将‘诡计’误解为可被‘捏造’的客观对象\",\"误以为‘胜任’可带抽象名词作宾语\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.89,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947822992,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "词语搭配不当：动宾/主谓语义不协"
+    },
+    {
+      "id": "c4be4558-e28d-471f-a5f4-675eaece4814",
+      "canonical_name": "词语的意义与情味的辨析",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"词的情味\",\"词义与情味的区别\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能解释朱德熙提出的“词不但有意义，还有情味”这一观点\",\"能用“轻狂”与“轻薄”辨析词典释义相同而情味不同的现象\",\"能用“现代”与“摩登”说明同源词分化后情味不同、用法不能互换\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为词典给出相同或相近释义的词语可以在任何语境下互换使用\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481594348,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "词语的意义与情味的辨析"
     },
     {
       "id": "0674745a-a97b-4ed5-a001-8a1471956d73",
@@ -7373,6 +8237,18 @@
       "title": "跨文化阅读的价值：中国典籍接受史个案"
     },
     {
+      "id": "26bcb533-35e8-4a97-99d1-064766e9cdee",
+      "canonical_name": "通假字的识别与解释",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"通假现象\",\"古今字辨析\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能在文言语段中识别通假字并写出对应的本字\",\"能解释通假字与本字之间的语音关联原因\",\"能举例说明本课所涉通假字（如说通脱、罔通无、圜通圆、伏通服、章通彰、泮通畔）的具体含义\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"文言实词基础\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为通假字是书写错误而非语音假借现象\",\"混淆通假字与古今字、异体字的区别\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788481165371,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "通假字的识别与解释"
+    },
+    {
       "id": "f9a7ed4b-ea71-4738-9a34-655647c46af0",
       "canonical_name": "通讯文体特征与叙事艺术",
       "subject": "语文",
@@ -7419,6 +8295,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.62,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解该命题对传统师道等级制的颠覆性\",\"能结合‘无贵无贱，无长无少’说明其平等性内涵\",\"能辨析‘道’在此处作为客观真理标准与主观权威的张力\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"师者，所以传道受业解惑也\",\"文言判断句式‘……者……也’的语法功能\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"误读为‘谁有知识谁就是老师’而忽略‘道’的伦理高度\",\"忽视‘道’特指儒家圣人之道而非一般知识\",\"混淆此命题与现代‘人人可为师’的泛化理解\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.87,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780947647495,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "道之所存，师之所存也"
+    },
+    {
+      "id": "17ec16b8-8c36-462b-a47a-e1afad9e6f9b",
+      "canonical_name": "避免结合当下的生硬联系误区",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.25,
+      "aliases": "[\"议论文时评化误区\",\"空喊口号式联系现实\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能辨析作文中生硬嫁接时事素材、缺乏内在逻辑的表现\",\"能对自己或他人作文的'结合当下'部分做出诊断性修改\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"议论文结合当下现实的论证策略\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要提到某热点事件即达到'结合当下'要求\",\"认为联系现实只需在开头或结尾点缀一句\"],\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.25,\"labeledAt\":1788481340324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "避免结合当下的生硬联系误区"
     },
     {
       "id": "805bb317-a8b0-4376-8eb2-7ae58db3612f",
@@ -7755,6 +8643,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能指出文中两处莎士比亚典故的具体出处与原意\",\"会分析马克思如何改造‘迫克’‘老田鼠’形象服务于革命必然性论证\",\"能仿写一句运用经典文学形象隐喻现实政治力量的政论短句\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"必修上册《赤壁赋》《归去来兮辞》中的典故运用\",\"高一必修下册第一单元《窦娥冤》《雷雨》的戏剧形象认知\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为典故仅起装饰作用，忽视其论证功能\",\"将‘老田鼠’等同于普通劳动者，忽略其作为‘历史掘进者’的哲学意涵\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780948039207,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "马克思演说中的莎士比亚文学典故转化与政论话语创新"
+    },
+    {
+      "id": "daab745d-24de-465e-8037-b8cf2ab7a05c",
+      "canonical_name": "高考语文各题型答题规范与技巧",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"答题技巧\",\"得分点把握\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按题型要求规范作答（如现代文阅读、文言文、写作等）\",\"能识别常见题型的评分关键点\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为答案内容正确即可，忽视答题规范与得分点\",\"混淆不同题型（如论述类与文学类文本）的作答思路\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "高考语文各题型答题规范与技巧"
+    },
+    {
+      "id": "bf9ad689-a255-4c55-b094-ca20d876bdf2",
+      "canonical_name": "高考语文复习整体规划与阶段策略",
+      "subject": "语文",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"备考规划\",\"复习节奏安排\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能制定分阶段的语文复习计划\",\"能根据自身薄弱环节调整复习重点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为临考前突击刷题即可弥补长期积累不足\",\"忽视基础知识梳理，只关注真题训练\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481484841,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "高考语文复习整体规划与阶段策略"
     },
     {
       "id": "a86490a6-e6ae-4538-91d7-8d4c9c7ef772",

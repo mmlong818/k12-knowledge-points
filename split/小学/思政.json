@@ -1,7 +1,7 @@
 {
   "grade_band": "小学",
   "subject": "思政",
-  "kp_count": 957,
+  "kp_count": 987,
   "relation_count": 666,
   "knowledge_points": [
     {
@@ -365,6 +365,30 @@
       "title": "与动物友好相处的基本原则"
     },
     {
+      "id": "18a1e747-1222-40be-a590-23e76d1bdbdf",
+      "canonical_name": "与动物相处的安全常识",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"和动物在一起要保护好自己\",\"科学喂养小动物\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出与不熟悉的动物保持安全距离的做法\",\"能举例说明定时定量喂养小动物的正确方式\",\"能识别靠近或逗弄动物时可能出现的危险情形\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为看起来可爱温顺的动物一定不会伤人\",\"认为可以随意投喂或触摸遇到的任何动物\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481779531,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "与动物相处的安全常识"
+    },
+    {
+      "id": "64ece4a2-c644-48e5-a707-623cc8746f00",
+      "canonical_name": "与动物相处的安全防护",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"与动物保持安全距离\",\"接触动物的自我保护\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出与不熟悉的动物接触时应保持安全距离\",\"能列举与动物相处中保护自己的做法\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为所有动物都可以随意亲近、投喂或抚摸\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "与动物相处的安全防护"
+    },
+    {
       "id": "6efe7bb0-eacf-4baa-b877-8437f8783a04",
       "canonical_name": "与成长相关的出生与满月风俗",
       "subject": "思政",
@@ -423,6 +447,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解世界贸易组织是最重要的世界性国际经济组织之一\",\"能解释其‘经济联合国’称谓的由来\",\"能结合中国入世案例说明其对国家与全球贸易的影响\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将WTO等同于联合国下属机构\",\"认为WTO仅调节发达国家间贸易\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807376965,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "世界贸易组织的定位与影响"
+    },
+    {
+      "id": "86f956ec-8105-4a05-85c9-52220326c477",
+      "canonical_name": "个人卫生整洁习惯",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"讲卫生\",\"勤洗手洗脸\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出洗手、洗脸、剪指甲等保持个人卫生的基本做法\",\"能识别自己身上不整洁的地方并主动改正\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为整洁只是大人的要求，与自己无关\",\"认为脏一点没关系，看不见就行\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "个人卫生整洁习惯"
     },
     {
       "id": "04a4a4d2-5067-4937-b497-a55548eba046",
@@ -1805,6 +1841,18 @@
       "title": "体会教师对学生的情感关怀与教育智慧"
     },
     {
+      "id": "559113eb-4849-4f5a-aaeb-00c605b9000e",
+      "canonical_name": "体会父母的关爱与辛劳",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"感受父母之爱\",\"父母的付出\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说出父母在日常生活中为自己付出的具体事情\",\"能说出父母关爱自己的不同表现方式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为父母的照顾是理所当然的，不需要被察觉或感激\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "体会父母的关爱与辛劳"
+    },
+    {
       "id": "f44ad348-64ef-4569-bf4c-eaa418477771",
       "canonical_name": "体会父母辛劳的多维路径",
       "subject": "思政",
@@ -1827,6 +1875,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.22,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能复述食堂不掉饭、包口香糖、对医生说谢谢等三项具体做法\",\"能在新情境（如快递站、社区医院）迁移设计1种感谢行为\",\"愿意在真实生活中主动实践至少1种体谅行为\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"珍惜劳动成果作为尊重劳动者的基本表现\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"感谢劳动者必须送礼物或说隆重的话\",\"体谅只是‘不添麻烦’，忽略主动关怀\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780807699110,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "体谅与感谢劳动者的日常行动表达"
+    },
+    {
+      "id": "91da9ac9-794b-4dcd-9647-18685c4ace83",
+      "canonical_name": "体谅并回报父母的爱",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"感恩父母\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出自己可以为父母做的具体事情\",\"能反思自己对父母关爱的回应方式\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"父母之爱的日常表现\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为回报父母之爱需要等到长大以后才能做\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "体谅并回报父母的爱"
     },
     {
       "id": "548a4139-b932-47b5-9af9-c9c252523866",
@@ -3305,6 +3365,18 @@
       "title": "十二生肖的文化内涵与周期规律"
     },
     {
+      "id": "96985d72-f9cb-4886-b067-2537924118ac",
+      "canonical_name": "千人糕与劳动价值认知",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"千人糕的故事\",\"谁的功劳最大\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出千人糕制作过程中经历的多个劳动环节\",\"能体会一件普通物品背后凝聚的众多劳动者的付出\",\"能表达对劳动者的感恩之情\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为食物、商品的获得是理所当然的，忽视背后的劳动过程\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "千人糕与劳动价值认知"
+    },
+    {
       "id": "23b8a85d-ce92-4ccf-a343-2d4a24cbec7a",
       "canonical_name": "升国旗时的基本礼仪规范",
       "subject": "思政",
@@ -3507,6 +3579,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能列举自己在动手操作、艺术表现、自然观察、人际交往等至少一个领域的具体优势\",\"理解优势是多元的（不限于学业成绩），且可迁移至学习过程\",\"愿意通过同伴、教师、家长反馈确认自身优势\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"只有语文数学好才是优势\",\"优势必须比别人强才算数\",\"没有明显特长就等于没有优势\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780807506685,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "发现并认同个人学习优势"
+    },
+    {
+      "id": "8e1fc299-e914-4f0a-8608-a35252a3a5fd",
+      "canonical_name": "发现并认识身边可敬的家乡人",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"身边榜样\",\"可敬的家乡人\",\"诚信与奉献榜样\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说出身边具有诚信、勤劳、志愿服务等可敬品质的家乡人\",\"能通过简单调查（观察、访问）发现身边可敬的人物并说明理由\",\"能表达对可敬家乡人的赞赏与学习意愿\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"感知并感恩身边默默付出的人\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为可敬的人一定要做出轰动性大事\",\"忽视身边平凡岗位上长期坚持奉献的人（如长期做志愿者的普通人）\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "发现并认识身边可敬的家乡人"
     },
     {
       "id": "f963c892-b539-43d8-a62d-ef55bfb24394",
@@ -4385,6 +4469,30 @@
       "title": "大河流域早期文明发祥地的地理分布"
     },
     {
+      "id": "c74058b2-f375-4110-8eb6-6b12f0e62d65",
+      "canonical_name": "大自然的回报",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"劳动与自然的馈赠\",\"自然与劳动的关系\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出稻谷变成米饭、水果的生长离不开阳光、空气、水、土壤等自然条件\",\"能说出农产品的获得离不开人们的辛勤劳作\",\"能表达对大自然馈赠与劳动者付出的感激之情\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为食物是理所当然获得的，忽视自然条件与人的劳动共同作用\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "大自然的回报"
+    },
+    {
+      "id": "d1c1e3fc-0ac9-46df-a0fc-9e23c2cc89aa",
+      "canonical_name": "大自然的语言",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"自然现象的启示\",\"读懂大自然\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说出白云飘得高、蚂蚁搬家等自然现象与天气变化的关系\",\"能说出蝌蚪出现、大雁南飞等自然现象与季节变化的关系\",\"能说出树木年轮圈数与树龄的关系\",\"能在生活中尝试观察自然现象并推测天气或季节的变化\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为自然现象只是孤立、随机的景象，与天气或季节变化无关\",\"认为只有科学仪器才能预测天气，忽视观察自然现象的作用\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481751948,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "大自然的语言"
+    },
+    {
       "id": "c8bdc1b1-35e7-4443-9ca6-2aacef7a59a1",
       "canonical_name": "大自然的语言：天气现象类符号识别",
       "subject": "思政",
@@ -4829,6 +4937,18 @@
       "title": "家乡人文地标与历史印记感知"
     },
     {
+      "id": "d5adc1c9-14f8-4ff7-b391-233e4f3e7994",
+      "canonical_name": "家乡传统技艺与地方文化的传承",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"传统手艺\",\"家乡老手艺\",\"地方戏\",\"非遗文化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出至少一种家乡的传统技艺或地方文化，如糖画、风味小吃、地方戏\",\"能讲述糖画等传统技艺的制作过程及其悠久历史\",\"能表达对传统技艺传承现状的关心，如愿意学习家乡话小快板或地方戏\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"家乡生活环境与基础设施的新变化\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为家乡变化就意味着要抛弃传统习俗\",\"以为糖画等传统手艺很容易在短时间内学会\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "家乡传统技艺与地方文化的传承"
+    },
+    {
       "id": "368f1c4b-a689-419b-bc00-6ddba0d4c9d0",
       "canonical_name": "家乡传统文化的延续与传承",
       "subject": "思政",
@@ -4949,6 +5069,18 @@
       "title": "家乡榜样人物的可敬品质与行为表现"
     },
     {
+      "id": "b6a815b4-b5c7-42f8-af10-ccba89100236",
+      "canonical_name": "家乡物产的多样性与文化价值",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"家乡特产\",\"地方物产文化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举家乡水乡物产（如鱼、虾、莲藕等）\",\"能说出年画、木雕等家乡工艺物产承载的文化寓意\",\"能表达对家乡物产的喜爱与自豪之情\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"调查家乡物产的方法\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为物产只包括食物，忽视年画、木雕等工艺品的文化价值\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "家乡物产的多样性与文化价值"
+    },
+    {
       "id": "277a1f33-a09a-4763-9ba0-661cb1204509",
       "canonical_name": "家乡物产的文化象征意义",
       "subject": "思政",
@@ -5007,6 +5139,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解锻炼身体、绿色祭扫、数字技术应用等属于生活方式新变化\",\"能区分物质变化与行为习惯变化\",\"能举例说明自己家庭在生活方式上的新做法\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"家乡物质环境的新变化\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"生活方式变化就是买新东西\",\"传统习俗消失才是进步\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.72,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780806940638,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "家乡生活方式的新变化"
+    },
+    {
+      "id": "aa84530b-d28b-4d6d-9876-980484985065",
+      "canonical_name": "家乡生活环境与基础设施的新变化",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"家乡的变化\",\"身边的新变化\",\"美丽新农村\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说出家乡在道路、运动场所、读书场所、科技等方面出现的新变化\",\"能比较改造前后街景的不同之处\",\"能用简单语言说出家乡变化给自己和家人生活带来的便利\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为家乡一直没有变化，忽视身边发生的进步\",\"把个人生活的便利简单等同于家乡整体的发展\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "家乡生活环境与基础设施的新变化"
     },
     {
       "id": "a6c49d55-98c1-436c-a2e1-6c5e16cddd91",
@@ -5273,6 +5417,18 @@
       "title": "家庭生活中的隐性碳排放"
     },
     {
+      "id": "38df6234-385c-4aff-9a35-68fa63e422dd",
+      "canonical_name": "家庭的来历与家史",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"家史\",\"家庭的由来\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能简单讲述自己家庭的由来或重要经历\",\"能说出家庭中长辈的成长故事\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"学生可能认为家庭历史与自己无关，只是长辈的事\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "家庭的来历与家史"
+    },
+    {
       "id": "4cb1a9b0-0c46-486c-9cb9-5b434a8995cf",
       "canonical_name": "家庭相似性与遗传/习得特征的初步辨识",
       "subject": "思政",
@@ -5451,6 +5607,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.38,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能在公交车被踩脚等情境中识别‘无心之失’特征\",\"会运用换位思考（‘别人也不是故意’‘我也会犯’‘人多难免’）平息不满\",\"能区分无心之失与故意伤害，选择不报复、不记恨的应对方式\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"初步共情能力\",\"基本因果判断能力\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"被冒犯就必须立即表达不满才算有尊严\",\"不立刻指责就是纵容对方\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780807294103,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "宽容面对无心之失的认知与行为策略"
+    },
+    {
+      "id": "8cb2ceb9-1c2f-46fd-904d-2aae2b743d02",
+      "canonical_name": "对家乡未来发展的期望与畅想",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"我的家乡会更好\",\"家乡畅想\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用\\\"我希望……\\\"句式说出对家乡在河水、道路、生活智能化等方面的具体期望\",\"能结合家乡已有的变化，合理畅想家乡未来可能出现的新变化\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"家乡生活环境与基础设施的新变化\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把对家乡的期望简单说成对现状的抱怨，而非积极展望\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788481687118,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "对家乡未来发展的期望与畅想"
     },
     {
       "id": "0c0e22fb-0bff-49db-a3a9-a0b7577b5794",
@@ -5981,6 +6149,18 @@
       "title": "常见动物的外形与习性特征（燕子、兔子、大熊猫）"
     },
     {
+      "id": "d7176186-49f9-42d2-b037-9f043f712c12",
+      "canonical_name": "常见动物的外形与生活习性",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"动物的样子和本领\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出几种常见动物的外形特征\",\"能描述自己熟悉的一种动物的生活习性或本领\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为动物之间没有明显差异，笼统归为一类\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "常见动物的外形与生活习性"
+    },
+    {
       "id": "bbcf94cc-4e39-4835-baec-9caa75eb46d0",
       "canonical_name": "常见未成年人权利侵害场景与对应部门法适用",
       "subject": "思政",
@@ -6267,6 +6447,42 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.42,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能复述四条表达方法（自信发言、事先准备、说清感受见解、有理有据）\",\"能区分指责性表达（朵朵案例1）与建设性表达（朵朵案例2）\",\"能运用'换位三部曲'（稳定情绪—冷静思考—寻找合理点）处理观点分歧\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"勇于表达感受与想法\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"表达越大声越有力\",\"有道理就可以不讲礼貌\",\"换位思考就是放弃自己的观点\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780807706534,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "恰当表达的方法与态度"
+    },
+    {
+      "id": "d5ea608a-3b2b-4a45-8d23-fa726739630e",
+      "canonical_name": "感受风的存在",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"风的感知\",\"观察风\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出用皮肤、头发、衣角等身体感觉判断有风的方法\",\"能举例说出风吹动树叶、旗子、风车等自然现象来判断有风\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"只有刮大风才算有风，微风不算风\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "感受风的存在"
+    },
+    {
+      "id": "0a12b135-b30a-4ef6-8ad8-6fad538fa565",
+      "canonical_name": "感恩大自然的馈赠",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"感谢大自然\",\"自然给予人类的馈赠\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出大自然为人类生活提供的常见资源（如阳光、空气、水、食物）\",\"能表达对大自然的感谢之情\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为大自然的资源是取之不尽、用之不竭的\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481900230,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "感恩大自然的馈赠"
+    },
+    {
+      "id": "f6799651-d3c9-4666-9c6f-aac1bae06b38",
+      "canonical_name": "感知并感恩身边默默付出的人",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"身边人的关爱\",\"感恩教育\",\"平凡劳动者的付出\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举生活中给自己带来温暖的普通劳动者及其事迹（如理发师、快递员、送奶人）\",\"能说出向身边帮助自己的人表达感谢的具体方式\",\"能体会平凡岗位劳动者付出背后的辛苦\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只有相熟或见过面的人才值得感激\",\"忽视快递员、送奶工等幕后劳动者的付出\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788481656530,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "感知并感恩身边默默付出的人"
     },
     {
       "id": "52f904b3-e0b4-4ee0-b203-4f3ad258c097",
@@ -7697,6 +7913,18 @@
       "title": "榜样人物的精神品质与少年行动联结"
     },
     {
+      "id": "9c23ed8e-22d7-4b92-abd7-e84ea058cfd9",
+      "canonical_name": "欣赏身边常见花草树木的美",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"感受大自然的美\",\"认识花草树木\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出身边常见的几种花草树木名称\",\"能描述花草树木在颜色、形态上的美\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只有专门种植的花才算美，忽视路边野草野花\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "欣赏身边常见花草树木的美"
+    },
+    {
       "id": "e2d1401a-c7ea-4e89-9c7d-4415d8987817",
       "canonical_name": "正当班级竞争的边界意识",
       "subject": "思政",
@@ -8393,6 +8621,18 @@
       "title": "爱护公物的具体行为规范"
     },
     {
+      "id": "9a269d76-976c-43f9-bb3e-0aa7b0128590",
+      "canonical_name": "爱护动物，与动物友好相处",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"保护小动物\",\"动物是人类的朋友\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出爱护动物的简单做法\",\"会举例说明动物对人类生活的帮助\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为动物没有感情，可以随意对待\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481880911,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "爱护动物，与动物友好相处"
+    },
+    {
       "id": "02c87b74-8287-48ff-bfc8-da125d2511f2",
       "canonical_name": "爱护花草树木的具体行为规范",
       "subject": "思政",
@@ -8415,6 +8655,54 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别不采摘花朵是爱护植物的行为\",\"会说出在草地外玩耍是保护小草的做法\",\"能模仿设置提示牌来提醒他人爱护植物\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"花摘下来更漂亮，所以可以采\",\"小草踩一踩没关系，它不会疼\",\"只有大树需要保护，小花小草不用管\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780814111252,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "爱护花草树木的基本行为规范"
+    },
+    {
+      "id": "86ff6d17-0919-4f04-a8af-5e58f67c916e",
+      "canonical_name": "爱护花草树木的行为与方法",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"保护植物\",\"不摘花不踩草\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举不采摘、不踩踏花草的具体做法\",\"能说出爱护花草对自然环境的意义\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欣赏身边常见花草树木的美\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为摘一朵花不算破坏，对环境影响不大\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481855216,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "爱护花草树木的行为与方法"
+    },
+    {
+      "id": "dc9fb8f5-273a-40b5-b088-b93429c43164",
+      "canonical_name": "父母之爱的多样性",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"严厉的爱\",\"看不见的爱\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说明父母的批评或严格要求也是爱的表现\",\"能区分溺爱与真正有益于成长的爱\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"父母之爱的日常表现\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为父母批评或严格要求就是不爱自己\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "父母之爱的多样性"
+    },
+    {
+      "id": "bfdfb3a1-2d2d-453c-b4d8-ea338ac5b8f0",
+      "canonical_name": "父母之爱的日常表现",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"父母的关爱\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举父母在日常生活中关爱自己的具体行为\",\"能识别父母之爱在饮食起居等不同场景中的表现\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为父母的爱只体现在物质满足上\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481783787,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "父母之爱的日常表现"
+    },
+    {
+      "id": "b16d6d73-4cdd-423d-bcea-e84cba6cf0ee",
+      "canonical_name": "物品与书包整理有序",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"整理书包\",\"东西摆放整齐\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能将书包、文具等物品摆放整齐\",\"会用简单方法保持桌面和书包的整洁有序\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"个人卫生整洁习惯\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为东西乱放不影响学习和生活\",\"整理一次就够了，不需要经常保持\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788518385817,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物品与书包整理有序"
     },
     {
       "id": "dd1d4615-3b01-4e0f-b196-53488325c72a",
@@ -9137,6 +9425,18 @@
       "title": "用简单自我介绍开启同伴交往"
     },
     {
+      "id": "016d9737-54f4-4aa0-b068-f2a4ca43d8ce",
+      "canonical_name": "用行动表达对父母的关心",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"回报父母的爱\",\"孝敬父母的行为\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出至少一种向父母表达关心或感谢的具体行动\",\"会在日常生活中主动为父母分担力所能及的家务\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"体会父母的关爱与辛劳\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为表达爱只能通过言语而非实际行动\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481802277,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "用行动表达对父母的关心"
+    },
+    {
       "id": "86564e57-2947-46bb-9d28-cc75c89ffc1d",
       "canonical_name": "用语言安慰情绪低落的同伴",
       "subject": "思政",
@@ -9519,6 +9819,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.24,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能复述'离开时带走垃圾'的要求\",\"能在活动后检查自己是否遗留垃圾\",\"能将'带走垃圾'与'讲文明'建立联结\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"垃圾扔进桶就结束了，不用管它后续\",\"别人会打扫，我不用负责\",\"只带走自己的垃圾，别人留下的不用管\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.83,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780808828236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "离开公共场所时随身带走垃圾"
+    },
+    {
+      "id": "dd601972-d888-4043-b77c-2bf35d0be79d",
+      "canonical_name": "科学喂养小动物",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"定时定量喂食\",\"合理饲养宠物\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出定时定量给小动物喂食是正确的饲养方法\",\"能举例说明不恰当的喂食方式（如随意投喂）可能带来的问题\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为喂动物吃得越多、喂得越随意就是越喜欢它\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788481734310,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "科学喂养小动物"
     },
     {
       "id": "5372706b-8b13-46d0-8848-a656c4053a3b",
@@ -10409,6 +10721,18 @@
       "title": "认识玫瑰花的自我保护特征及其相处注意事项"
     },
     {
+      "id": "eade2d8b-218b-40a9-a099-9a41c598bd7b",
+      "canonical_name": "记录和保存家庭记忆的方式",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"家庭老物件\",\"家庭照片的意义\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举照片、老物件、口述等记录家庭记忆的方式\",\"能与家人一起整理一件承载家庭记忆的物品或故事\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"家庭的来历与家史\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"学生可能认为只有照片才能代表家庭记忆，忽视口述、物件等其他形式\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481808200,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "记录和保存家庭记忆的方式"
+    },
+    {
       "id": "c1b26373-6794-43b4-98d6-3c95cc7807bb",
       "canonical_name": "识别个人常用物品及其功能",
       "subject": "思政",
@@ -10875,6 +11199,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.22,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能用完整句子介绍1种自己喜欢的课间游戏\",\"愿意向同伴示范并讲解1个简单游戏的玩法\",\"初步理解课间游戏应简单、易组织、不伤人\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"只有热闹的游戏才叫好游戏\",\"教别人玩游戏是老师的事，和我无关\",\"新游戏一定要很复杂才有意思\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780808653464,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "课间游戏的选择与分享"
+    },
+    {
+      "id": "7f648390-38e2-4ff3-b88a-c3330bdbd7f4",
+      "canonical_name": "调查家乡物产的方法",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"家乡物产调查表\",\"物产调查活动\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.15,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按餐桌、商场等地点分类记录家乡物产\",\"能说出自己调查到的家乡物产名称\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把外地购买的商品也当作家乡物产\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "调查家乡物产的方法"
     },
     {
       "id": "79862922-cb35-49db-abfb-4b39e7a33173",
@@ -11357,6 +11693,18 @@
       "title": "风俗演变的判断标准与文明调适"
     },
     {
+      "id": "fe08dc6d-0b8a-497b-b01e-56d5f6307d3b",
+      "canonical_name": "风的利与弊及简单防范",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"大风的危害\",\"风的两面性\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.2,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出风给人们生活带来的好处（如吹干衣物、带来凉爽、风力发电等）\",\"能说出大风可能带来的不便或危险，并说出简单的防护做法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"感受风的存在\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为风只有好处没有坏处，或只有坏处没有好处\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788481832130,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "风的利与弊及简单防范"
+    },
+    {
       "id": "a6e96e77-56e7-4519-a3aa-baae5ff506e5",
       "canonical_name": "食品安全常识：识别正规食品标签",
       "subject": "思政",
@@ -11463,6 +11811,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能准确复述香港回归日期（1997年7月1日）\",\"能准确复述澳门回归日期（1999年12月20日）\",\"能理解回归是在“一国两制”方针指导下实现的\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"“一国两制”构想的提出与历史背景\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"混淆香港与澳门回归年份或日期\",\"误认为回归是军事行动结果而非和平交接\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780808594236,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "香港、澳门回归的基本史实"
+    },
+    {
+      "id": "70a604b5-f926-4402-b8da-25cd0283f793",
+      "canonical_name": "马头琴传说与家乡文化",
+      "subject": "思政",
+      "grade_band": "小学",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"苏和与小白马的故事\",\"马头琴由来\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.25,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按顺序讲述苏和与小白马的故事情节\",\"能说出马头琴的由来与小白马之间的关系\",\"能体会家乡传说中蕴含的情感\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为传说故事与家乡物产、文化无关，只是虚构故事\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788516912172,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "马头琴传说与家乡文化"
     },
     {
       "id": "4fd50efe-c638-46dc-ae54-7b701bde9feb",

@@ -1,7 +1,7 @@
 {
   "grade_band": "高中",
   "subject": "英语",
-  "kp_count": 793,
+  "kp_count": 796,
   "relation_count": 553,
   "knowledge_points": [
     {
@@ -1923,6 +1923,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.48,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据主谓一致、时态逻辑、非谓语功能（to do / doing / done）选择动词正确形式\",\"能在段落语境中识别动词的语法角色（谓语/宾语补足语/定语等）\",\"能运用所给词汇表（online, sign, debate等）完成10空填空任务\",\"能检查所填动词是否符合搭配习惯（如 prefer doing sth, recommend that...）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"一般现在时/过去时基本用法\",\"动名词与不定式作宾语的基本区别\",\"常见动词搭配意识\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"机械套用规则而忽略上下文语义限制（如将 'prefer' 后一律填 to do）\",\"混淆被动语态与过去分词作定语的语法功能\",\"忽视主语人称对动词第三人称单数的影响\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780946209610,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "动词词形变化在语篇填空中的应用（含非谓语、时态、派生）"
+    },
+    {
+      "id": "d92be7ff-2ffb-4d6e-914f-f068a6a75956",
+      "canonical_name": "动词转名词的派生构词法（-ion/-sion/-tion/-ment等后缀）",
+      "subject": "英语",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"名词化后缀\",\"词形变化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据示例类推出动词对应的名词派生形式（如extend→extension、persuade→persuasion）\",\"能识别常见名词化后缀（-ion、-sion、-tion、-ment等）的适用规律\",\"能在句子中用派生名词替代动词结构以变换句式\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"词汇词义辨析与语境运用（如profession、mercy、mixture、coverage、opponent等）\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为所有动词都遵循同一后缀规则，机械套用-ion于不规则动词\",\"混淆-sion与-tion的选用规则（如permission与comprehension的拼写差异）\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "动词转名词的派生构词法（-ion/-sion/-tion/-ment等后缀）"
     },
     {
       "id": "9ad3597d-7a75-47e6-8d28-6b38cb56e337",
@@ -7253,6 +7265,18 @@
       "title": "英语口语中语调与重音对语义和态度的表征功能"
     },
     {
+      "id": "b2d2833c-d8c6-4ec1-9265-11c9724512b2",
+      "canonical_name": "英语口语篇章功能语言（话题转换、复述强调、追加要点表达）",
+      "subject": "英语",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"听力篇章功能词\",\"口语过渡语\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从听力材料中识别表示话题转换的词语\",\"能识别表示复述/换种说法的表达\",\"能识别表示强调要点或追加信息的表达\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为这些功能词只是无意义的口语填充词，可忽略不学\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788516740001,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "英语口语篇章功能语言（话题转换、复述强调、追加要点表达）"
+    },
+    {
       "id": "53d8be87-400e-4843-8e05-c844f5424776",
       "canonical_name": "英语名词搭配（collocation）识别与运用",
       "subject": "英语",
@@ -8823,6 +8847,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能正确选用 First(ly), Then, After that, Finally 等表达组织口头叙述\",\"能在同伴问答互动中自然嵌入时间标记词回应追问\",\"能根据语境选择正式度适配的表达（如 First of all vs. First）\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"听力中识别时间顺序标记词\",\"基本过去时口语表达能力\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"机械套用模板而忽略事件内在逻辑衔接\",\"混淆 Meanwhile 与 At the same time 的语用差异\",\"在非线性事件中强行使用线性标记词\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780944190069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "运用时间顺序表达法进行口头叙事"
+    },
+    {
+      "id": "9321a415-4abb-418b-8990-1694b1abf777",
+      "canonical_name": "运用目标词汇进行汉译英句子翻译",
+      "subject": "英语",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.7,
+      "aliases": "[\"汉译英翻译练习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用指定词汇（如forgive、tax、arrest、coverage、tournament）准确翻译汉语句子\",\"能在翻译中正确处理目标词汇的语法形式与搭配（如opponent与possession的动宾搭配）\",\"能根据汉语原意选择恰当的英语句式结构（含被动语态处理）\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"词汇词义辨析与语境运用（如profession、mercy、mixture、coverage、opponent等）\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"逐字直译导致词汇搭配错误，如误将possession当动词使用\",\"翻译含\\\"被逮捕\\\"等被动含义的句子时遗漏被动语态\"],\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.7,\"labeledAt\":1788481032233,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "运用目标词汇进行汉译英句子翻译"
     },
     {
       "id": "3357fe71-942c-4f2f-9571-ffd9217ff858",

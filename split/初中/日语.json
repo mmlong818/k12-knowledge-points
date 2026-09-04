@@ -1,7 +1,7 @@
 {
   "grade_band": "初中",
   "subject": "日语",
-  "kp_count": 113,
+  "kp_count": 120,
   "relation_count": 182,
   "knowledge_points": [
     {
@@ -485,6 +485,18 @@
       "title": "两项比较句型（A は B より ～ です）"
     },
     {
+      "id": "31745ea7-b08f-4cb4-bc25-73fc1d84cc35",
+      "canonical_name": "两项比较句型（AはBより〜）",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.65,
+      "aliases": "[\"より比较句\",\"AはBより表达\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别正文中『AはBより〜』比较句的语序结构（如お箸の長さ・太さの比較）\",\"能说出より置于比较对象之后、与中文『比』字位置相反的特点\",\"会用『AはBより＋形容詞』造句描述两种事物在长短、粗细等方面的差异\",\"能复述『中国のお箸は日本のより長くて、先が太いです』等例句所表达的比较关系\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"い形容詞基本用法\",\"です/ます体基本句型\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将より位置类比汉语『比』字放在句首，说成不合日语语序的句子\",\"混淆比较对象与被比较对象的先后顺序，导致比较意义相反\",\"误以为より后可直接接动词，而忽略其后应为形容词或体言性成分\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "两项比较句型（AはBより〜）"
+    },
+    {
       "id": "f51fed09-3774-4ed8-ad2e-3cf3ac49c1ee",
       "canonical_name": "两项比较句型（AはBより～）",
       "subject": "日语",
@@ -749,6 +761,30 @@
       "title": "家族称谓平假名认读"
     },
     {
+      "id": "20fd80f7-b304-42bd-a129-208d108d9b10",
+      "canonical_name": "形容词て形（〜くて／〜で）的并列与比较用法",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.45,
+      "aliases": "[\"形容詞の並列表現\",\"い形容词/な形容词て形\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.48,\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用い形容词的て形（〜くて）连接两个形容词短语描述同一事物的不同特征\",\"能用な形容词的て形（〜で）连接形容词短语（如「新鮮でおいしい」）\",\"能仿照例句用该结构比较两件物品的外形差异\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"い形容词基本形\",\"な形容词基本形\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误将い形容词的て形写成词尾直接加て而非〜くて\",\"混淆い形容词与な形容词的て形变化方式（〜くて与〜で）\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "形容词て形（〜くて／〜で）的并列与比较用法"
+    },
+    {
+      "id": "9df032ef-27b5-4c83-bd67-872a48f2aa9e",
+      "canonical_name": "情景对话听力理解（待客用餐礼仪对话）",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"用餐场景听力\",\"角色扮演对话练习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.32,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能听辨录音中『いただきます』『ごちそうさまでした』等餐前餐后惯用语的使用场合\",\"能分角色朗读中山家用餐对话，体现待客与被待客双方的语气差异\",\"能听出余韵与中山千明所发现的用餐习惯差异（礼仪顺序、盛菜方式、筷子形状）并用日语简述\",\"会用『お代わりはどうですか』『お口に合いましたか』等句型进行待客问答\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"です/ます体基本句型\",\"日常问候寒暄用语\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将『いただきます』理解为西式餐前祷告，忽视其对做饭人与食材的感谢含义\",\"误以为『お代わり』只表示『再来一次』而非『再添一份饭菜』\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "情景对话听力理解（待客用餐礼仪对话）"
+    },
+    {
       "id": "2d27a49a-d82b-4e4c-8a48-d21686944b9f",
       "canonical_name": "意愿表达（～たいです）",
       "subject": "日语",
@@ -917,6 +953,18 @@
       "title": "比较句型AはBより～（单向比较）"
     },
     {
+      "id": "82260e57-f8cc-4028-8a89-c1901d2afc15",
+      "canonical_name": "比较句型「AはBより〜」",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.5,
+      "aliases": "[\"より比较句\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用「AはBより〜」句型比较两种事物某一方面的程度差异\",\"能根据具体实物例子（如筷子的长短、粗细）套用该句型造句\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"形容词基本用法\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将比较对象与より的语序颠倒，写成Bはより A〜\",\"遗漏より前的比较对象助词标记，导致句子指代不清\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "比较句型「AはBより〜」"
+    },
+    {
       "id": "b41516a9-906b-4688-a75d-b5bcdbb0a5f8",
       "canonical_name": "比较句型（AはBより～／AよりBのほうが～）",
       "subject": "日语",
@@ -1035,6 +1083,42 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.24,\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能准确朗读「デパート」的片假名，并关联其对应汉语义‘百货商场’\",\"能区分「デパート」与相似平假名词形（如「でぱーと」误写）\"],\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"将「デパート」误读为「でぱーと」（平假名思维迁移）\",\"认为片假名仅用于外国人名，不适用于日语固有场景词\"],\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.89,\"labeledAt\":1780780496025,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "片假名外来语认读"
+    },
+    {
+      "id": "f9791dbf-25ae-47ac-b176-6187652ad8a9",
+      "canonical_name": "用餐习惯主题词汇（お箸・大皿料理・盛り方・個人盛り）",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.5,
+      "aliases": "[\"食事の習慣词汇\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.38,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别并正确使用「お箸」「大皿料理」「盛り方」「個人盛り」等词汇描述中日用餐习惯差异\",\"能在语境中区分「大皿料理」与「個人盛り」两种装盘方式的对立含义\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆「盛り方」（装盘方式）与「料理」（菜肴本身）的含义\",\"不理解「大皿料理」与「個人盛り」之间的对立关系\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "用餐习惯主题词汇（お箸・大皿料理・盛り方・個人盛り）"
+    },
+    {
+      "id": "582c70ca-a677-4781-ad69-6658d66c0c06",
+      "canonical_name": "用餐寒暄语「いただきます」与「ごちそうさまでした」",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"用餐礼仪用语\",\"食事の挨拶\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.38,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能在用餐开始时恰当说出「いただきます」\",\"能在用餐结束时恰当说出「ごちそうさまでした」\",\"能解释这两句表达所蕴含的对食物与款待者的感谢之意\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为「いただきます」只是宣布开始吃饭而忽略其感谢含义\",\"在非用餐场合或用餐中途误用这两句表达\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788464919337,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "用餐寒暄语「いただきます」与「ごちそうさまでした」"
+    },
+    {
+      "id": "5ff0fc81-770f-4d1e-b788-f023753b4fb7",
+      "canonical_name": "短文填空与写作练习（用餐习惯介绍短文）",
+      "subject": "日语",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.45,
+      "aliases": "[\"填空练习\",\"用餐习惯短文仿写\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能阅读余韵所写短文，并按『発見のきっかけ／違いの説明／感想』的结构完成填空\",\"能仿照范文结构，用『AはBより〜』等句型写一段介绍两地用餐习惯差异的短文\",\"会用『それぞれの習慣があります』『おもしろいです』等评价性表达总结跨文化发现\",\"能与小组合作查阅资料，制作一张用餐习惯介绍卡并用日语进行分享\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"两项比较句型（AはBより〜）\",\"です/ます体基本句型\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"写作时只罗列现象而缺少感想／结论句，导致短文结构不完整\",\"填空时将『説明』部分与『感想』部分的内容位置混淆\"],\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.45,\"labeledAt\":1788464916752,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "短文填空与写作练习（用餐习惯介绍短文）"
     },
     {
       "id": "4a245bbc-d8fa-4dcc-a3ac-ed50aea29c7e",

@@ -1,7 +1,7 @@
 {
   "grade_band": "初中",
   "subject": "地理",
-  "kp_count": 755,
+  "kp_count": 762,
   "relation_count": 745,
   "knowledge_points": [
     {
@@ -3641,6 +3641,18 @@
       "title": "南方地区降水特征与季风的影响"
     },
     {
+      "id": "6978ff68-b6b8-4ad5-b329-2b0f5a23a2d5",
+      "canonical_name": "南水北调与退耕还林等资源调配保护工程",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"南水北调工程\",\"退耕还林还草工程\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出南水北调工程的路线、目的及意义\",\"能说明退耕还林工程的背景与生态效益\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"水资源时空分布不均及成因\",\"森林资源的分布与保护\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为南水北调只是简单的水量转移而忽视区域生态与经济协调\",\"认为退耕还林只影响林业不涉及水土保持等综合效益\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "南水北调与退耕还林等资源调配保护工程"
+    },
+    {
       "id": "289e12a9-4e43-459a-86e1-b80ceca891d5",
       "canonical_name": "南水北调工程东中西三条线路",
       "subject": "地理",
@@ -4191,6 +4203,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"learningObjectives\":{\"value\":[\"理解'宜耕则耕、宜林则林、宜草则草、宜湿则湿、宜沙则沙'的因地制宜原则\",\"能根据某地的地形、气候特征，判断适宜的土地利用方式\",\"认识合理利用土地与保护生态、尊重自然规律的统一性\",\"理解绿洲农业、湿地生态、防沙固沙等具体利用方式\"],\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"prerequisites\":{\"value\":[\"土地利用类型\",\"地形气候特征与人类活动的关系\"],\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"misconceptions\":{\"value\":[\"认为所有土地都应开发成耕地或建设用地，忽视生态保护和自然规律\",\"不理解为什么沙漠和戈壁'不宜大规模改造'\"],\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.87,\"labeledAt\":1780756606981,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"}}",
       "summary": "",
       "title": "土地资源的合理利用原则"
+    },
+    {
+      "id": "ac7281f8-e24c-4f1d-8df7-030b72867136",
+      "canonical_name": "土地资源类型与空间分布",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"土地资源的构成\",\"耕地林地草地的分布\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.62,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出我国耕地、林地、草地等土地资源的主要分布区域\",\"能分析我国人均土地资源不足的原因\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"自然资源分类（可再生与不可再生）\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为我国土地总量丰富人均量也充足\",\"混淆耕地与土地资源总量的概念\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "土地资源类型与空间分布"
     },
     {
       "id": "07eca1dc-8dd2-40c4-934d-57b1c8858d24",
@@ -5969,6 +5993,18 @@
       "title": "梯田修筑与山地水土保持"
     },
     {
+      "id": "bf299310-ff2b-4270-ac63-9a44b2b204f2",
+      "canonical_name": "森林资源的分布与保护",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"林业资源保护\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出我国森林资源的主要分布区域\",\"能说明森林资源保护的必要性与主要措施\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"自然资源分类（可再生与不可再生）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为森林资源可再生因而无需保护\",\"忽视过度采伐与生态破坏的关联\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "森林资源的分布与保护"
+    },
+    {
       "id": "31de4f00-0939-4322-8467-fc70601e25bd",
       "canonical_name": "欧洲西部旅游业的发展条件",
       "subject": "地理",
@@ -6483,6 +6519,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.36,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出中国水资源总量在世界的排名（第六位）\",\"能用数据说明中国人均水资源仅为世界平均水平1/4的特征\",\"理解用河流径流总量衡量水资源多少的依据\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"自然资源概念与分类（可再生/非可再生）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"总量大即意味着水资源充足，忽视人均占有量\",\"中国水资源总量居世界第一（实为第六位）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780756395512,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
       "summary": "",
       "title": "水资源数量特征（总量丰富、人均不足）"
+    },
+    {
+      "id": "026bc0ed-aee4-477f-a9a5-95bda5d61186",
+      "canonical_name": "水资源时空分布不均及成因",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"水资源南多北少\",\"水资源季节分配不均\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.63,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能描述我国水资源空间分布的南北差异及成因\",\"能说明水资源季节变化与解决措施（如跨流域调水）的关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"自然资源分类（可再生与不可再生）\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为降水多的地区就一定水资源丰富无短缺问题\",\"忽视水资源与人口经济分布的空间错位\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "水资源时空分布不均及成因"
     },
     {
       "id": "62ed6bcd-4548-42a5-bcd8-655d1694e400",
@@ -7169,6 +7217,18 @@
       "title": "矿产资源开发现状与合理利用原则"
     },
     {
+      "id": "e3ffdaa0-e01e-4e31-adc1-5b80c30763ac",
+      "canonical_name": "矿产资源的主要类型与分布",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"矿产资源的种类与产地\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举我国主要金属与非金属矿产及其代表性产地\",\"能读图说出主要矿产资源基地的空间分布\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"自然资源分类（可再生与不可再生）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为矿产资源属于可再生资源\",\"混淆矿产资源丰富与开发利用充分的概念\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "矿产资源的主要类型与分布"
+    },
+    {
       "id": "2e0d36bd-5892-49ad-8c47-e7ded1813c5d",
       "canonical_name": "矿产资源的合理开发与综合利用原则",
       "subject": "地理",
@@ -7745,6 +7805,18 @@
       "title": "自然环境因素对农业布局的影响"
     },
     {
+      "id": "4c817509-5ddf-4766-b3c0-33c94e542d99",
+      "canonical_name": "自然资源分类（可再生与不可再生）",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"资源的分类\",\"可再生资源与非可再生资源\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分可再生资源与不可再生资源的判定标准\",\"能举例说明土地、水、矿产、森林四类资源各自的可再生属性\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为可再生资源可以无限利用不会枯竭\",\"把土地资源笼统等同于耕地资源\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "自然资源分类（可再生与不可再生）"
+    },
+    {
       "id": "bb3f6e34-5a54-49b5-89ed-0261380a0cc9",
       "canonical_name": "自然资源的概念",
       "subject": "地理",
@@ -8067,6 +8139,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"learningObjectives\":{\"value\":[\"能识别资源型工业地区的特征（依赖矿产/能源资源，以重工业为主）\",\"理解资源枯竭对工业发展的负面影响\",\"能列举资源型工业地区面临的主要困境（资源枯竭、设备老化、产业结构单一）\",\"认识到国家政策支持对资源型工业地区振兴的重要性\"],\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"prerequisites\":{\"value\":[\"辽中南工业基地的位置与主导产业\"],\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"misconceptions\":{\"value\":[\"误以为资源充足就能永久保证工业发展，忽视资源枯竭的必然性和有限性\",\"仅将资源型工业衰退归咎于资源枯竭，忽视设备老化、产业结构等多因素作用\",\"不理解为什么资源依赖型地区容易陷入'产业结构单一'的困境\"],\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.82,\"labeledAt\":1780759732974,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:haiku\"}}",
       "summary": "",
       "title": "资源型工业地区的衰退机制与发展风险"
+    },
+    {
+      "id": "2d3f62f3-744b-42f2-8db8-9d4ca2320dad",
+      "canonical_name": "资源问题成因与保护对策",
+      "subject": "地理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"资源短缺问题的应对\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.63,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能从人口、经济、利用方式等角度分析资源问题的成因\",\"能规范表达资源保护对策类简答题的答案要点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"土地资源类型与空间分布\",\"水资源时空分布不均及成因\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把资源问题简单归因于资源总量不足而忽视利用效率和人口压力\",\"答题时只列口号性对策缺乏因果链分析\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788464682319,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "资源问题成因与保护对策"
     },
     {
       "id": "63df529f-ae8c-4052-abb1-a213e73643bc",

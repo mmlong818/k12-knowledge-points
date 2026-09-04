@@ -1,7 +1,7 @@
 {
   "grade_band": "高中",
   "subject": "物理",
-  "kp_count": 538,
+  "kp_count": 554,
   "relation_count": 377,
   "knowledge_points": [
     {
@@ -977,6 +977,18 @@
       "title": "力的分解——按实际需要分解"
     },
     {
+      "id": "18d65fa9-0cf0-4fd7-a2bf-bf9c6002f19f",
+      "canonical_name": "力的合成与分解",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"力的合成分解\",\"共点力的合成\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用平行四边形定则求两个共点力的合力\",\"能按实际作用效果对力进行分解\",\"能求解共点力平衡问题\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"力的概念\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为合力一定大于任一分力\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "力的合成与分解"
+    },
+    {
       "id": "f5b715d0-05f4-4ebf-abe6-155e2938cd9e",
       "canonical_name": "力的图示与示意图",
       "subject": "物理",
@@ -1011,6 +1023,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解功是描述能量转化过程的物理量\",\"能用 W = F l cos α 计算恒力做功\",\"能判断力与位移夹角 α 对功正负的影响\",\"掌握功的单位焦耳（J）及其物理意义\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"矢量分解\",\"余弦函数基本性质\",\"力、位移等基本力学量概念\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为只要有力和位移就一定做功\",\"误以为功是矢量，具有方向\",\"混淆功与能量，认为功是物体‘拥有’的东西\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780941533833,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "功的定义与计算公式"
+    },
+    {
+      "id": "5f5adc5f-551c-48c3-b37a-e98f8441efcf",
+      "canonical_name": "功能关系",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"功是能量转化的量度\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明某种力做功对应哪种能量的变化\",\"能根据做功情况判断能量转化的方向与数值\",\"会分析摩擦力做功与系统内能产生的关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"动能定理\",\"机械能\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为功和能是同一个物理量\",\"忽略摩擦生热对能量守恒的影响\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "功能关系"
     },
     {
       "id": "6d412050-6c1a-4dfa-a5ab-737fedd8e578",
@@ -1097,6 +1121,18 @@
       "title": "动生电动势的洛伦兹力本质"
     },
     {
+      "id": "0fa6e9d1-d260-4313-8bcd-99ff44a0edca",
+      "canonical_name": "动能定理",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"合外力做功与动能变化关系\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能表述动能定理的内容与表达式\",\"会用动能定理计算合外力做的功或末速度\",\"能识别动能定理适用的过程与条件\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"功的计算\",\"动能\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为动能定理只适用于恒力做功过程\",\"混淆动能定理中的功是合力做的功还是某个力做的功\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "动能定理"
+    },
+    {
       "id": "8ef017d2-5939-453e-aa0c-1a5ce956fb46",
       "canonical_name": "动能定理的典型应用（单过程多力做功）",
       "subject": "物理",
@@ -1143,6 +1179,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解动能是描述物体运动状态的物理量\",\"能写出动能的定义式 Ek = 1/2mv²\",\"能说明动能是标量，单位为焦耳（J）\",\"能通过单位换算验证 Ek 与功的单位一致性\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"匀变速直线运动公式\",\"牛顿第二定律\",\"功的定义 W = Fl\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为动能与速度成正比（忽略平方关系）\",\"误以为动能有方向（混淆矢量与标量）\",\"将动能单位误记为瓦特或牛顿\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780941551540,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "动能的定义与表达式"
+    },
+    {
+      "id": "19c4704a-a1c4-491d-a3b2-416db7c40372",
+      "canonical_name": "动量与能量的综合分析",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"动量能量综合题\",\"力学综合大题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能在同一力学过程中联立动量守恒方程与能量关系式求解\",\"会判断碰撞前后系统动能损失并说明其去向\",\"能区分适用动量观点与适用能量观点的解题情境\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"动量守恒定律\",\"动能定理\",\"机械能守恒定律\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆动量与动能，误用标量方式处理矢量动量\",\"认为动能损失量与速度损失量成正比\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "动量与能量的综合分析"
+    },
+    {
+      "id": "bbc16372-d011-4ab2-bcc7-b895474b9e73",
+      "canonical_name": "动量守恒与机械能守恒的综合应用",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"动量能量综合题\",\"碰撞与反冲问题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能判断力学过程中动量和机械能是否守恒\",\"能综合运用动量守恒定律与机械能守恒定律分析碰撞、反冲、爆炸等力学过程\",\"会联立动量守恒方程与能量守恒（或动能定理）方程求解多体相互作用问题\",\"能区分完全弹性碰撞、完全非弹性碰撞与一般碰撞中的能量损失情况\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"动量守恒定律\",\"机械能守恒定律\",\"动能定理\",\"功和功率\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为碰撞过程中动量和机械能总是同时守恒\",\"混淆完全非弹性碰撞与完全弹性碰撞的能量损失情况\",\"忽略系统需满足合外力为零或作用时间极短才能用动量守恒\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480795627,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "动量守恒与机械能守恒的综合应用"
     },
     {
       "id": "28646a7a-f03b-4f81-99a2-3287250c8e23",
@@ -1203,6 +1263,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能对比说明动量守恒定律与牛顿运动定律在问题解决中的差异（始末态vs过程细节）\",\"能指出动量守恒在高速、微观领域仍成立而牛顿定律失效\",\"能举例说明‘力随时间变化复杂’时动量守恒的简化价值\",\"能理解动量守恒是自然界基本对称性（空间平移不变性）的体现（拓展认知）\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"动量守恒定律的推导与表述\",\"牛顿运动定律的适用范围\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为动量守恒只是牛顿定律的推论，不具备独立地位\",\"误以为普适性仅指‘适用更多日常现象’而不知其超越经典范畴\",\"将‘简化计算’误解为‘精度降低’\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780940730079,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "动量守恒定律的普适性与优势"
+    },
+    {
+      "id": "f13571e8-fc17-41ea-809f-c6d3044ec00f",
+      "canonical_name": "动量守恒定律的综合应用",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"碰撞与爆炸中的动量守恒\",\"反冲运动中的动量守恒\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能判断系统在碰撞、爆炸、反冲等过程中动量是否守恒\",\"会建立矢量方向的动量守恒方程求解未知速度\",\"能识别系统外力远小于内力时可近似动量守恒的情形\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"动量守恒定律\",\"动量定理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为碰撞过程中动量和动能一定同时守恒\",\"忽略矢量方向导致方程列错符号\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "动量守恒定律的综合应用"
     },
     {
       "id": "a61b6849-a0ad-48ae-a885-ddf24fc80c46",
@@ -1997,6 +2069,18 @@
       "title": "国际单位制（SI）力学部分"
     },
     {
+      "id": "e6f8e3a5-f393-4f55-bddf-8c13bf1a9bbe",
+      "canonical_name": "圆周运动中的力学分析",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"圆周运动动力学\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能分析向心力的来源\",\"能求解竖直面内圆周运动的临界问题\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"向心力\",\"牛顿第二定律\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为向心力是独立于其他力之外的一种新力\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "圆周运动中的力学分析"
+    },
+    {
       "id": "66e687ff-a41f-4eac-890f-5b6ae4afeb1a",
       "canonical_name": "圆周运动的定义与实例",
       "subject": "物理",
@@ -2501,6 +2585,18 @@
       "title": "带电粒子在匀强磁场中垂直入射时的匀速圆周运动"
     },
     {
+      "id": "f732fe1a-a8d2-49d1-85de-9fefabda4761",
+      "canonical_name": "带电粒子在电场和磁场中运动的综合分析",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"带电粒子在场中的运动\",\"带电体在电磁场中的运动复习\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据受力分析判断带电粒子在匀强电场中做加速或减速直线运动\",\"能运用类平抛运动模型求解带电粒子在偏转电场中的轨迹与速度\",\"能运用洛伦兹力与圆周运动规律求解带电粒子在匀强磁场中的运动半径与周期\",\"能综合运用电场、磁场、重力复合场模型分析带电粒子运动的临界与极值问题\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"匀强电场中的电场力\",\"洛伦兹力\",\"平抛运动\",\"匀速圆周运动\",\"牛顿第二定律\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为带电粒子只受电场力或磁场力中的一种而忽略重力\",\"把类平抛运动的初速度方向与场强方向关系记混\",\"认为磁场中运动的带电粒子速度大小会发生变化\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480816257,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "带电粒子在电场和磁场中运动的综合分析"
+    },
+    {
       "id": "367047d6-e386-431e-bc45-19ea5c6c1084",
       "canonical_name": "常用电容器类型与特性",
       "subject": "物理",
@@ -2741,6 +2837,18 @@
       "title": "弹力的产生条件与方向判定"
     },
     {
+      "id": "e5ff741d-8945-4575-b186-4f843e75c946",
+      "canonical_name": "弹性势能与弹力做功",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能定性说明弹力做功与弹性势能变化的关系\",\"能判断弹簧伸长或压缩过程中弹性势能的变化趋势\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"功的计算\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为弹性势能与形变量成正比（实际为非线性关系）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "弹性势能与弹力做功"
+    },
+    {
       "id": "5890cdea-ae87-432a-b789-a589d2f6c525",
       "canonical_name": "弹性碰撞与非弹性碰撞的定义及能量判据",
       "subject": "物理",
@@ -2945,6 +3053,18 @@
       "title": "控制变量法在加速度探究实验中的应用"
     },
     {
+      "id": "65c2a2ab-3caa-4f22-adde-2a14219e0f60",
+      "canonical_name": "摩擦力的分析与计算",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"摩擦力专题\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能判断静摩擦力的方向与大小\",\"能计算滑动摩擦力\",\"能分析临界摩擦问题\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"牛顿第三定律\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为摩擦力方向总是与物体运动方向相反\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "摩擦力的分析与计算"
+    },
+    {
       "id": "d0cacd5e-bf29-4f35-873e-a3f1ebb54d08",
       "canonical_name": "摩擦起电的微观机制",
       "subject": "物理",
@@ -3147,6 +3267,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.52,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能说出机械波传播的两个必要条件：波源与介质\",\"理解介质质点仅振动而不迁移，传播的是运动形式与能量\",\"能举例说明机械波传递能量和信息的功能\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"波的形成机制\",\"横波的定义与特征\",\"纵波的定义与特征\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"真空中可以传播机械波\",\"机械波传播时介质整体平移\",\"波的能量传递不需要时间延迟\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780940803535,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "机械波的本质与条件"
+    },
+    {
+      "id": "1c44037e-11f0-409f-87d2-14a0b5c19c26",
+      "canonical_name": "机械能守恒定律",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"机械能不变\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能表述机械能守恒定律成立的条件\",\"会判断给定过程中机械能是否守恒\",\"能列出机械能守恒方程求解运动学量\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"重力势能与重力做功\",\"动能定理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要没有摩擦力机械能就一定守恒（忽略其他力做功情况）\",\"混淆系统机械能守恒与单个物体机械能守恒的条件\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "机械能守恒定律"
     },
     {
       "id": "8e2231b8-c9de-4841-afd0-a12971b26e94",
@@ -4205,6 +4337,30 @@
       "title": "牛顿第二定律的表述与物理意义"
     },
     {
+      "id": "e0348018-1cff-476c-a50d-7062d22f515d",
+      "canonical_name": "牛顿运动定律的综合应用（动力学两类基本问题）",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"动力学两类基本问题\",\"牛顿定律综合应用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据物体的受力情况求解其运动状态（已知力求运动）\",\"能根据物体的运动情况分析其所受合力（已知运动求力）\",\"能用整体法与隔离法分析连接体问题\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"牛顿第二定律\",\"力的合成与分解\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为物体的运动方向就是合力的方向\",\"求解时遗漏摩擦力对加速度的影响\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788536572819,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "牛顿运动定律的综合应用（动力学两类基本问题）"
+    },
+    {
+      "id": "c3cc7762-e97f-4095-886d-a2e14fa32328",
+      "canonical_name": "牛顿运动定律高考常见题型与解题策略",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"牛顿定律高考题型分析\",\"牛顿定律解题方法归纳\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别牛顿第二定律在连接体、传送带、圆周运动等情境中的常见命题角度\",\"会用受力分析法拆解含多物体、多过程的牛顿定律综合题\",\"能判断题目中隐含的临界条件（如绳松弛、物体脱离接触）\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"牛顿第一定律\",\"牛顿第二定律\",\"牛顿第三定律\",\"受力分析\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为加速度方向必与速度方向相同\",\"忽略临界状态下弹力或摩擦力可能突变为零\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480878324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "牛顿运动定律高考常见题型与解题策略"
+    },
+    {
       "id": "2a8428ee-8e07-435f-b701-04cc947e4afa",
       "canonical_name": "物体做曲线运动的动力学条件",
       "subject": "物理",
@@ -4563,6 +4719,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解电压表由表头串联电阻构成，利用分压原理扩大量程\",\"能根据U_g、I_g和目标量程计算分压电阻R\",\"能写出改装后电压表内阻表达式\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"欧姆定律\",\"串联电路电压与电阻规律\",\"表头参数定义（R_g、I_g、U_g）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为分压电阻R与被测电压成正比而忽略I_g恒定\",\"混淆电压表内阻与分压电阻R\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941070452,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "电压表改装原理（串联分压电阻）"
+    },
+    {
+      "id": "b3294356-d558-46ed-92d0-bfa2257c7ba6",
+      "canonical_name": "电场与磁场中带电粒子运动的高考综合复习",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"场问题综合复习\",\"带电粒子在复合场中的运动\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别题目中涉及的场类型（电场、磁场或复合场）\",\"能画出带电粒子在场中的受力与运动轨迹示意图\",\"会用牛顿运动定律或动能定理列式求解带电粒子在场中的运动问题\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电场力做功与电势能\",\"磁场对运动电荷的作用力\",\"带电粒子在匀强电场中的运动\",\"带电粒子在匀强磁场中的运动\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为电场力与洛伦兹力做功方式相同\",\"忽略洛伦兹力不做功这一特性导致能量分析错误\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788516749324,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电场与磁场中带电粒子运动的高考综合复习"
     },
     {
       "id": "24c02d6e-d871-4a82-9f23-5ae86e711523",
@@ -5103,6 +5271,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能说出矢量与标量的定义标准\",\"能列举高中阶段常见矢量与标量各三例\",\"能判断新出现物理量是否为矢量\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"位移概念\",\"力的基本性质\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为有方向的量就是矢量\",\"误将电流视为矢量\",\"认为标量一定无方向（如功的正负）\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780941709194,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "矢量与标量的区分"
+    },
+    {
+      "id": "f8550983-7800-4a0d-9f96-d5e6de84be0e",
+      "canonical_name": "碰撞模型的分类与规律",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"弹性碰撞与非弹性碰撞\",\"完全非弹性碰撞\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出弹性碰撞、非弹性碰撞、完全非弹性碰撞的判据\",\"能识别题目所属碰撞类型并选用相应的求解关系式\",\"能解释一维碰撞中速度范围的合理性限制\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"动量守恒定律的综合应用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为碰撞后速度必然互换\",\"忽略碰撞后速度需满足的合理性范围约束\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480922334,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "碰撞模型的分类与规律"
     },
     {
       "id": "1671dcdd-c95c-48ae-99cb-08b77142a094",
@@ -6111,6 +6291,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能用 WG = Ep1 − Ep2 计算重力做功或势能变化\",\"能根据 WG 正负判断 Ep 增减趋势\",\"能区分 WG = Ep1 − Ep2 与 ΔEp = Ep2 − Ep1 的符号逻辑\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"重力势能的定义与表达式 Ep = mgh\",\"重力做功与路径无关性\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"误记为 WG = Ep2 − Ep1\",\"将 WG > 0 理解为势能增加\",\"在上升过程错误代入 h1 < h2 导致 Ep1 − Ep2 符号混乱\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.95,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780941530306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "重力做功与重力势能变化的关系 WG = Ep1 − Ep2"
+    },
+    {
+      "id": "a7f490d1-a26e-4c53-9e33-e435c9140a3e",
+      "canonical_name": "重力势能与重力做功",
+      "subject": "物理",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"重力做功与路径无关\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能计算重力做的功\",\"能说明重力做功与重力势能变化的关系\",\"能判断重力势能参考平面选取对结果的影响\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"功的计算\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为重力势能的大小与参考平面无关\",\"认为重力做功与路径有关\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788480917193,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "重力势能与重力做功"
     },
     {
       "id": "042a5d6e-dab3-48ab-afe5-ac46e6ac9205",

@@ -1,7 +1,7 @@
 {
   "grade_band": "高中",
   "subject": "生物",
-  "kp_count": 649,
+  "kp_count": 681,
   "relation_count": 461,
   "knowledge_points": [
     {
@@ -401,6 +401,78 @@
       "title": "MS培养基的成分组成与功能"
     },
     {
+      "id": "a8764b8f-75ae-4a95-a599-67bfdc3979b4",
+      "canonical_name": "MS培养基的组成与营养成分分类",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"MS培养基配方\",\"植物组织培养基本培养基\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出MS培养基中大量元素、微量元素、有机物和铁盐各自包含的化学成分\",\"能解释螯合铁盐（FeSO₄·7H₂O与Na₂EDTA）在培养基中的作用及配制方式\",\"能比较大量元素与微量元素在用量数量级上的差异\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"无机盐与植物矿质营养\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为培养基中各成分用量可随意增减而不影响培养效果\",\"混淆大量元素与微量元素的浓缩倍数\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的组成与营养成分分类"
+    },
+    {
+      "id": "ac603c89-b631-44a1-b4ad-3bc649319d26",
+      "canonical_name": "MS培养基的组成与配制流程",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"MS培养基配方\",\"植物组织培养培养基配制\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出MS培养基中大量元素、微量元素、有机物和植物激素的组成类别\",\"能根据母液的浓缩倍数计算配制1 L培养基所需的母液体积\",\"能按标准流程完成培养基配制操作（溶解琼脂、加蔗糖、依次加入各母液、定容、调节pH）\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"植物组织培养的基本原理\",\"无菌操作技术\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为培养基配方固定不变，无需根据培养对象或母液浓缩倍数换算实际用量\",\"误以为培养基的营养成分只需糖和水即可，忽略微量元素和维生素的作用\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的组成与配制流程"
+    },
+    {
+      "id": "fd3f967d-b267-473d-b48b-c1518cc87532",
+      "canonical_name": "MS培养基的组成及其各成分的作用",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"MS培养基配方\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出MS培养基中大量元素、微量元素、有机物和琼脂的种类\",\"能解释螯合铁盐母液的配制目的和方法\",\"能识别蔗糖和琼脂在培养基中的作用\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"无机盐的植物营养作用\",\"植物组织培养的基本原理\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为培养基只需提供糖和水即可满足植物细胞培养需求\",\"误以为微量元素用量可以忽略不计\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的组成及其各成分的作用"
+    },
+    {
+      "id": "4faee154-4fd6-4d29-8188-869e91d39c08",
+      "canonical_name": "MS培养基的配制操作流程",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"培养基配制步骤\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按琼脂熔化、加蔗糖、加母液、定容、调pH的顺序描述MS培养基配制步骤\",\"能说出蔗糖在培养基中作为碳源、琼脂作为凝固剂的作用\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"MS培养基的组成与营养成分分类\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为可先定容后加母液和琼脂而不影响培养基质量\",\"误以为蔗糖只起调味或渗透压以外的次要作用而忽视其碳源功能\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的配制操作流程"
+    },
+    {
+      "id": "c7efc27e-1d7a-4efc-8306-77fe23a3a270",
+      "canonical_name": "MS培养基的配制方法（母液法与定容调pH）",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"MS培养基配方\",\"植物组织培养培养基配制\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出MS培养基中大量元素、微量元素母液的浓缩倍数（分别为10倍、100倍）\",\"能描述固体培养基配制的基本步骤（琼脂加热熔化、加入蔗糖、依次加入各母液、定容、调节pH）\",\"能说出螯合铁盐母液的配制方法及其在培养基中的添加比例\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"植物组织培养的基本原理\",\"无菌操作技术\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为培养基只需提供营养物质，不需要调节pH和加入琼脂固化\",\"误以为各种母液可按任意浓度配制，与实际用量无需换算\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479261796,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的配制方法（母液法与定容调pH）"
+    },
+    {
+      "id": "ff00cca4-5526-4996-a34e-074279497449",
+      "canonical_name": "MS培养基的配制流程",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"培养基配制步骤\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按顺序描述琼脂熔化、加蔗糖、加母液、定容、调pH的配制步骤\",\"能解释琼脂需要先加热熔化后才能加入其他成分的原因\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"培养基母液的配制方法\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"配制培养基时各成分添加顺序不影响结果\",\"琼脂可以在常温下直接溶解定容\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "MS培养基的配制流程"
+    },
+    {
       "id": "ff0f6d93-84ea-41a5-98c1-04849f85eda7",
       "canonical_name": "PCR反应体系组分功能与无菌操作规范",
       "subject": "生物",
@@ -605,6 +677,18 @@
       "title": "中国脑计划的启动背景与战略定位"
     },
     {
+      "id": "60b4f78c-9ba6-4ef5-b9be-63e653e6ebf0",
+      "canonical_name": "中心体的结构、分布与功能",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"中心粒\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出中心体的分布范围（动物细胞和低等植物细胞）\",\"能描述中心体的结构组成（两个互相垂直排列的中心粒及周围物质）\",\"能说明中心体与细胞有丝分裂的关系\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为所有细胞都含有中心体，忽视高等植物细胞通常不含中心体\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "中心体的结构、分布与功能"
+    },
+    {
       "id": "d1cd9365-1287-49a5-8f8b-a253fc247e0c",
       "canonical_name": "中心法则",
       "subject": "生物",
@@ -699,6 +783,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解乳酸菌为厌氧细菌及其分布特点\",\"能写出乳酸发酵的反应简式并解释能量来源\",\"能说明泡菜发酵中pH下降与风味形成的关系\",\"能解释水封坛盖、八成装坛等操作背后的微生物学原理\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"细胞呼吸类型\",\"微生物营养与代谢基础\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"乳酸菌发酵产生大量CO₂\",\"泡菜酸味来自醋酸而非乳酸\",\"盐水浓度越高越利于乳酸菌生长\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "乳酸菌的代谢特性与泡菜制作原理"
+    },
+    {
+      "id": "956d3194-d537-4af7-8ad7-ff9256d3dc1b",
+      "canonical_name": "二倍体",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出二倍体的定义，即体细胞中含有两个染色体组的个体\",\"能判断给定生物（如野生马铃薯）是否属于二倍体\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"染色体组\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为二倍体只适用于动物，不适用于植物\",\"将体细胞染色体总数与染色体组数目混为一谈\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "二倍体"
     },
     {
       "id": "1a336377-22a3-490c-b496-0ebd0bf20beb",
@@ -2189,6 +2285,18 @@
       "title": "四分体时期非姐妹染色单体交叉互换的模型建构"
     },
     {
+      "id": "14311e26-179e-4b38-8f8b-451c8dadebde",
+      "canonical_name": "固体培养基的配制流程",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"培养基配制步骤\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按顺序描述琼脂熔化、加蔗糖、加各类母液、定容、调节pH的培养基配制步骤\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"培养基母液的配制方法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为琼脂和蔗糖可与母液同时加入而无需先熔化琼脂\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "固体培养基的配制流程"
+    },
+    {
       "id": "37b6f4f1-0c05-4e56-8fcd-bb6e14b63707",
       "canonical_name": "国情适配的生物技术法律规制原则",
       "subject": "生物",
@@ -2273,6 +2381,42 @@
       "title": "地理隔离导致生殖隔离的演化路径"
     },
     {
+      "id": "958348c7-3229-4483-8815-de3fc8223cf3",
+      "canonical_name": "培养基母液的配制与稀释倍数计算",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"母液配制\",\"浓缩倍数计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据大量元素10倍、微量元素100倍的浓缩倍数计算配制1 L培养基所需母液体积\",\"会区分无机盐类母液与激素、维生素等按1 mg/mL配制的有机物母液的配制方式\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"溶液浓度与稀释计算\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误认为所有母液均按同一浓缩倍数配制\",\"计算母液用量时忽略浓缩倍数直接套用终浓度数值\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "培养基母液的配制与稀释倍数计算"
+    },
+    {
+      "id": "19cfab8f-61e3-4499-93e1-9012ebe4c1be",
+      "canonical_name": "培养基母液的配制与稀释计算方法",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.5,
+      "aliases": "[\"母液配制\",\"浓缩母液稀释计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出大量元素母液和微量元素母液的浓缩倍数\",\"会根据母液浓缩倍数计算配制1 L培养基所需母液体积\",\"能描述配制培养基时琼脂熔化、加糖、加母液、定容、调pH的操作顺序\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"溶液浓度与稀释计算\",\"MS培养基的组成及其各成分的作用\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为所有母液使用相同的浓缩倍数\",\"配制过程中忽略调节pH这一步骤\"],\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.5,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "培养基母液的配制与稀释计算方法"
+    },
+    {
+      "id": "31d9868d-d7a0-41d1-b9b3-56a28aec4ef8",
+      "canonical_name": "培养基母液的配制方法",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"母液浓缩配制\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明大量元素母液浓缩10倍、微量元素母液浓缩100倍的配制原则\",\"会根据母液浓缩倍数计算配制培养基所需母液用量\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"溶液浓度计算\",\"MS培养基的组成成分与作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为所有母液浓缩倍数相同\",\"混淆母液用量与终浓度的换算关系\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "培养基母液的配制方法"
+    },
+    {
       "id": "9461000a-8fdc-4234-9e62-de8c922664a4",
       "canonical_name": "培养基的组成与类型",
       "subject": "生物",
@@ -2283,6 +2427,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.42,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能列举培养基的四大基本营养成分（水、碳源、氮源、无机盐）\",\"能区分液体培养基与固体培养基的物理状态及制备方式\",\"能解释琼脂在固体培养基中的作用\",\"能根据表1-1分析牛肉膏蛋白胨培养基各组分的营养功能\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为所有培养基都必须含琼脂\",\"误以为碳源和氮源只能由单一物质提供\",\"混淆营养成分（如牛肉膏）与纯化学试剂的功能定位\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780933932201,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "培养基的组成与类型"
+    },
+    {
+      "id": "ae3d0338-4040-4a58-b8af-a5dd349d79c5",
+      "canonical_name": "培养基配制的操作流程",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"培养基配制步骤\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能按顺序描述培养基配制的主要步骤：琼脂加热熔化、加蔗糖、依次加入母液、定容、调节pH\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"母液的配制与浓缩倍数\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为加料顺序不影响培养基质量和后续灭菌效果\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "培养基配制的操作流程"
     },
     {
       "id": "57d4c003-fef9-4cce-968c-433513ea72fc",
@@ -3089,6 +3245,18 @@
       "title": "我国陆地生态系统固碳效应的定量评估方法"
     },
     {
+      "id": "a08cdcb0-42da-4513-8eb8-5b0af2a2a80a",
+      "canonical_name": "抗利尿激素调节水平衡",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"抗利尿激素分泌调节机制\",\"渗透压感受器与ADH调节通路\",\"水平衡的神经-体液调节\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能描述细胞外液渗透压升高时下丘脑感受刺激并引起垂体释放抗利尿激素的过程\",\"能解释抗利尿激素增多促使肾小管和集合管重吸收水、使尿量减少的机制\",\"能说明大脑皮层引起主动饮水行为在水平衡调节中的作用\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"下丘脑与垂体的关系\",\"激素的分级调节\",\"反射弧的组成\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为口渴后再喝水就能及时恢复渗透压平衡，忽视调节存在滞后性\",\"认为抗利尿激素直接引起渴觉而非通过大脑皮层引起主动饮水这一独立环节\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "抗利尿激素调节水平衡"
+    },
+    {
       "id": "9ab20eb9-96ab-4733-8838-fdc949c1341d",
       "canonical_name": "抗原与抗原呈递细胞（APC）",
       "subject": "生物",
@@ -3437,6 +3605,18 @@
       "title": "林业工程师的职业内涵与生态学知识要求"
     },
     {
+      "id": "7354c71a-966a-4286-9b51-a874677920e6",
+      "canonical_name": "染色体变异的概念",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"染色体畸变\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出染色体变异的定义，即生物体细胞或生殖细胞内染色体数目或结构发生的变化\",\"能区分染色体数目变异与染色体结构变异这两大类别\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"减数分裂\",\"受精作用\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为染色体变异都是致病的、有害的\",\"混淆基因突变与染色体变异的层次差异\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "染色体变异的概念"
+    },
+    {
       "id": "e7048d35-efda-4c47-84fd-3e649dfb49ba",
       "canonical_name": "染色体异常遗传病的成因与唐氏综合征",
       "subject": "生物",
@@ -3449,6 +3629,18 @@
       "title": "染色体异常遗传病的成因与唐氏综合征"
     },
     {
+      "id": "a95c65fc-bd18-4855-8243-53eb7e840448",
+      "canonical_name": "染色体数目变异的类型（个别增减与成套变异）",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分“个别染色体增加或减少”与“以染色体组为基数成套增减”两种数目变异类型\",\"能结合马铃薯、香蕉的染色体数目实例说明成套染色体数目变异现象\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"染色体变异的概念\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为染色体数目变异只有个别染色体增减一种形式\",\"误以为两种数目变异类型的发生机制相同\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "染色体数目变异的类型（个别增减与成套变异）"
+    },
+    {
       "id": "93a2a6bb-8820-4bc3-af97-87c375cdb61e",
       "canonical_name": "染色体数目的变异",
       "subject": "生物",
@@ -3459,6 +3651,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.52,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"理解染色体数目变异的定义\",\"区分个别染色体增减与成套染色体增减两类变异\",\"能举例说明自然界中染色体数目变异的实例\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"减数分裂过程\",\"染色体组概念\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为染色体数目变异只发生在生殖细胞中\",\"误以为体细胞染色体数加倍就一定是多倍体（忽略染色体组完整性）\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780935634384,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "染色体数目的变异"
+    },
+    {
+      "id": "7fdba91a-7fee-4559-a7bc-f27a4a1e0d88",
+      "canonical_name": "染色体组",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出染色体组的定义，即细胞中一套形态和功能各不相同的非同源染色体\",\"能以野生马铃薯为例，指出其体细胞含两个染色体组、每组包含12条非同源染色体\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"染色体变异的概念\",\"同源染色体\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为染色体组就是一对同源染色体\",\"混淆染色体组的数目与染色体的总条数\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479421533,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "染色体组"
     },
     {
       "id": "b8ea4585-b4a3-4b94-9bb6-184cad37913f",
@@ -3519,6 +3723,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能识别双子叶草本植物与单子叶草本植物的形态区别\",\"能依据分布状况和地形合理确定样方大小、数量及取样方法\",\"会使用五点取样法或等距取样法进行随机取样\",\"能规范记录并计算单位面积内某双子叶植物的平均种群密度\",\"能解释随机取样对减小调查误差的关键作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"种群密度的概念\",\"双子叶植物与单子叶植物的形态特征差异\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"样方越大越准确\",\"主观选择长势好或密集的区域取样不影响结果\",\"样方数量越多，结果一定越可靠\",\"种群密度等于某一样方内的个体数\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1780934642427,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "样方法调查双子叶植物种群密度"
+    },
+    {
+      "id": "ba55ea6c-0386-4f75-b296-297c245432fb",
+      "canonical_name": "核糖体的分布与功能",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.75,
+      "aliases": "[\"核蛋白体\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.3,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出核糖体的两种分布方式（附着于内质网、游离于细胞质基质）\",\"能说明核糖体是合成蛋白质的场所\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"内质网\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为核糖体只存在于内质网上，忽视游离核糖体也能独立合成蛋白质\"],\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.75,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "核糖体的分布与功能"
     },
     {
       "id": "12697459-0c60-443b-857a-f85bfd610dc4",
@@ -3665,6 +3881,18 @@
       "title": "植物激素对组织培养的调控作用"
     },
     {
+      "id": "667868b1-22f6-4e53-889f-5854d0a3134d",
+      "canonical_name": "植物激素比例对器官分化的调控",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"生长素与细胞分裂素配比调控分化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明BA与NAA的相对浓度比例如何决定愈伤组织诱导、生芽与生根的方向\",\"能解释生根培养基降低大量元素浓度、添加生长素类物质促进生根的原理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"生长素的生理作用\",\"细胞分裂素的生理作用\",\"植物细胞的全能性\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要生长素和细胞分裂素同时存在，比例不影响分化方向\",\"忽视大量元素浓度调整对生根的作用\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479161056,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "植物激素比例对器官分化的调控"
+    },
+    {
       "id": "560abda7-27bf-42dd-9cc4-2ecc1b7436d5",
       "canonical_name": "植物激素的概念与特征",
       "subject": "生物",
@@ -3711,6 +3939,30 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能解释BA与NAA不同浓度组合如何分别诱导愈伤组织、不定芽和不定根\",\"能比较生芽与生根培养基中氮源减半的生理意义\",\"能推断激素比例变化反映的细胞分化方向调控原理\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"MS培养基的成分组成与功能\",\"植物组织培养中培养基的配制流程\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为激素浓度越高分化效果越好\",\"将愈伤诱导等同于脱分化完成，忽视再分化条件\",\"误以为IAA与NAA在生根中可完全互换且无浓度差异\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.87,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780934213262,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "植物激素配比对菊花器官发生的影响"
+    },
+    {
+      "id": "aebfdded-7aad-4b5c-a594-55e4bb2a0e30",
+      "canonical_name": "植物激素配比调控外植体分化方向",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"生长素与细胞分裂素比例调控\",\"愈伤组织诱导与器官分化的激素调节\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明苄基腺嘌呤和萘乙酸不同配比分别用于诱导愈伤组织、诱导生芽和诱导生根的作用\",\"能解释细胞分裂素与生长素比例改变对外植体分化方向的影响\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"植物组织培养的基本原理\",\"生长素和细胞分裂素的作用\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"同一激素配比适用于愈伤组织诱导、生芽和生根的所有培养阶段\",\"生根培养基中降低大量元素用量没有实际作用\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "植物激素配比调控外植体分化方向"
+    },
+    {
+      "id": "32db67c3-52f8-451f-a6de-d915f15b8608",
+      "canonical_name": "植物激素配比调控组织培养的分化方向",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"生长素与细胞分裂素比例调控分化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出诱导�愈伤组织、诱导生芽、诱导生根三阶段中BA与NAA（或IAA）浓度配比的差异\",\"能解释生长素类与细胞分裂素类比例变化如何决定愈伤组织的分化方向\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"细胞的全能性\",\"植物组织培养的基本原理\",\"生长素与细胞分裂素的生理作用\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要加入激素即可诱导任意方向的分化，与激素浓度配比无关\",\"混淆NAA与IAA均为生长素类似物而误认为二者作用类型不同\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788479099722,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "植物激素配比调控组织培养的分化方向"
     },
     {
       "id": "c68366a7-41e9-484b-a545-4e42ea94bd25",
@@ -3917,6 +4169,18 @@
       "title": "植物细胞的质壁分离与复原"
     },
     {
+      "id": "94e3c642-c16b-46e3-9faa-30162c830686",
+      "canonical_name": "母液的配制与浓缩倍数",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"培养基母液配制\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出大量元素母液浓缩10倍、微量元素母液浓缩100倍的配制规则\",\"会根据母液浓缩倍数换算配制培养基时的取用量\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"MS培养基的组成与配方\",\"溶液浓度的计算\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为所有成分母液的浓缩倍数相同\",\"认为激素类母液也需按固定倍数浓缩\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "母液的配制与浓缩倍数"
+    },
+    {
       "id": "a4f1d40c-2738-47fe-974c-e1117020ef4d",
       "canonical_name": "比较解剖学证据：同源器官与共同祖先",
       "subject": "生物",
@@ -3951,6 +4215,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.48,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能描述脱水缩合反应中羧基与氨基结合、脱去一分子水的过程\",\"能准确写出肽键（—CO—NH—）的结构式并指出其共价键性质\",\"能区分二肽、多肽、肽链等层级术语\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"氨基酸结构通式\",\"水分子形成的化学常识\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为脱水缩合是酶促反应（正文未提酶参与，属自发化学过程）\",\"误将肽键写成—NH—CO—（方向错误）\",\"混淆肽键与二硫键、氢键等次级键\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.93,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780935089676,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "氨基酸的脱水缩合与肽键形成"
+    },
+    {
+      "id": "e8a5b2f1-4302-482f-ac7b-3a992c9a9f41",
+      "canonical_name": "水盐平衡失调的生理表现与临床意义",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"水盐紊乱的临床表现\",\"生理盐水补液的意义\",\"最低尿量与代谢废物排出\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说明剧烈运动、高温作业或呕吐腹泻导致水和无机盐大量丢失后出现的血压下降、心率加快等症状\",\"能解释补水时同时补充生理盐水（钠盐）对恢复细胞外液渗透压的意义\",\"能说明成人每日最低尿量约500 mL与代谢废物排出之间的关系\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"细胞外液渗透压的概念\",\"水和无机盐平衡的意义\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为大量出汗后只需大量喝水而不必补充盐分\",\"认为不吃不喝但没有大小便就能维持水盐平衡\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "水盐平衡失调的生理表现与临床意义"
     },
     {
       "id": "9db90c3d-223f-4823-8293-f1011b4ac9c6",
@@ -4215,6 +4491,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能列举湿地的五大生态功能（蓄洪防旱、调节气候、控制侵蚀、净化污水、生物栖息）\",\"能说明湿地退化的主要人为驱动因素（排水围垦、污染、过度利用）\",\"能解析筼筜湖案例中‘治污—引潮—清淤—景观’四阶段技术演进的生态学逻辑\",\"能解释缓冲带在减少人类干扰、支持自然演替中的作用机制\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"生态系统服务理论\",\"水体富营养化与自净能力\",\"生态恢复与生态重建的区别\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"湿地恢复只需种植物即可完成\",\"引海水入湖是万能方案，忽视本地水文与生物适应性\",\"湿地功能仅限于鸟类保护，忽略其对地下水、微气候的调控\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.84,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780934973304,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "湿地生态恢复工程的技术路径与功能价值"
+    },
+    {
+      "id": "ac3caeef-1be5-4108-ba92-5dd91bf8e018",
+      "canonical_name": "溶酶体的结构与功能",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.8,
+      "aliases": "[\"消化车间\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出溶酶体主要分布于动物细胞\",\"能说明溶酶体内部含有多种水解酶\",\"能举例说明溶酶体的功能（分解衰老损伤的细胞器、吞噬并杀死侵入细胞的病毒或细菌）\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将溶酶体的分解功能与线粒体的供能功能相混淆\",\"误以为溶酶体只针对外来病原体，忽视其分解自身衰老损伤细胞器的功能\"],\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.8,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "溶酶体的结构与功能"
     },
     {
       "id": "5faac737-5a9d-4584-9e63-5853f37aa195",
@@ -5009,6 +5297,30 @@
       "title": "生物组织中糖类、脂肪和蛋白质的检测原理与方法"
     },
     {
+      "id": "f3fddfe2-3d0c-4122-80f9-602c90577cee",
+      "canonical_name": "生长素与细胞分裂素比例对器官分化方向的调控",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"NAA与BA配比调控\",\"激素比例效应\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能解释NAA与BA的相对浓度如何分别决定愈伤组织诱导、诱导生芽和诱导生根三种培养方向\",\"能根据培养目标(诱导愈伤组织/诱导生芽/诱导生根)设计生长素与细胞分裂素的配比方案\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"细胞的全能性\",\"脱分化与再分化\",\"植物激素的种类和作用\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为培养基中只需添加固定比例的激素，无需根据培养目标调整配比\",\"误以为生长素和细胞分裂素各自独立起作用，而非通过相对比例共同调控分化方向\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479248450,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "生长素与细胞分裂素比例对器官分化方向的调控"
+    },
+    {
+      "id": "aa77afb1-f0df-46cc-b39b-88acd20eeb94",
+      "canonical_name": "生长素与细胞分裂素比例对器官分化的调控",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"激素配比调控分化\",\"生长素细胞分裂素比值假说\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能举例说明NAA与BA不同浓度比例分别诱导愈伤组织形成、生芽、生根\",\"能解释生长素与细胞分裂素的相对比例而非单一浓度决定细胞分化方向\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"植物激素的种类和作用\",\"植物组织培养的基本原理\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为激素浓度越高分化效果越好，而非取决于二者比例\",\"误以为只需一种激素即可完成器官诱导\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "生长素与细胞分裂素比例对器官分化的调控"
+    },
+    {
       "id": "035ac604-0768-485c-b550-c2fbecdc5e25",
       "canonical_name": "生长素的发现历程",
       "subject": "生物",
@@ -5043,6 +5355,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能解释生长素在细胞水平（促伸长、诱导分化）与器官水平（促根、抑侧芽）的作用层级关系\",\"能基于浓度-效应曲线分析不同器官最适浓度差异\",\"能运用两重性原理解释顶端优势现象及农业应用（摘心、修剪）\",\"能判断特定浓度下生长素对根/芽/茎的促进或抑制效应\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"酶与激素作用方式区别\",\"植物器官敏感性差异\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"生长素只促进生长，高浓度抑制是毒性作用\",\"所有植物器官对生长素最适浓度相同\",\"去掉顶芽后侧芽生长是因为营养供应增加\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780934569662,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "生长素的生理作用及其两重性"
+    },
+    {
+      "id": "9a0f0ae4-fcbe-4bec-8e61-ba43e40c6d8a",
+      "canonical_name": "生长素类与细胞分裂素类比例对植物组织培养器官分化方向的调控",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.55,
+      "aliases": "[\"激素配比与器官分化\",\"生长素细胞分裂素比例效应\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明诱导愈伤组织、诱导生芽、诱导生根三种培养基中BA与NAA（或IAA）浓度的差异\",\"能解释细胞分裂素与生长素比例变化如何影响菊花愈伤组织向芽或根分化\",\"能根据激素浓度变化预测组织培养分化结果的趋势\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"植物激素的种类和作用\",\"植物组织培养的基本原理\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只要添加生长素或只要添加细胞分裂素就能诱导器官分化\",\"误以为激素浓度越高培养效果越好\"],\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.55,\"labeledAt\":1788479083087,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "生长素类与细胞分裂素类比例对植物组织培养器官分化方向的调控"
     },
     {
       "id": "e425aa40-256d-439a-8b3a-1e29e93045af",
@@ -5703,6 +6027,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能列举系统性红斑狼疮的主要临床症状\",\"能说明系统性红斑狼疮的多因素病因（遗传、免疫失调、内分泌、环境）\",\"能指出该病高发人群（年轻女性）及我国发病率数据\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"自身免疫病的概念\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为系统性红斑狼疮是单一基因遗传病\",\"误以为其症状仅限于皮肤红斑\",\"混淆系统性红斑狼疮与类风湿关节炎的靶器官\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780934526994,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "系统性红斑狼疮的病因与临床特征"
+    },
+    {
+      "id": "8d4ba52c-22bb-42dc-ba11-39345bd8df60",
+      "canonical_name": "线粒体的结构与功能",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.85,
+      "aliases": "[\"动力车间\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明线粒体是细胞进行有氧呼吸的主要场所\",\"能说出细胞生命活动所需能量约95%来自线粒体\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为线粒体是细胞唯一的产能场所，忽视其他供能途径的存在\"],\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.85,\"labeledAt\":1788479378527,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "线粒体的结构与功能"
     },
     {
       "id": "4d364215-f5ab-45c2-a64f-77ca32188f7d",
@@ -6941,6 +7277,30 @@
       "title": "蝗虫精母细胞减数分裂各时期染色体形态、位置与数目的显微识别"
     },
     {
+      "id": "a4c09b32-4538-45eb-bf82-d30c6812065e",
+      "canonical_name": "螯合铁盐的配制",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.65,
+      "aliases": "[\"Fe-EDTA母液配制\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出螯合铁盐母液的配制原料及配比（硫酸亚铁与乙二胺四乙酸二钠）\",\"能计算配制1 L培养基所需螯合铁盐母液的体积\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"培养基母液的配制方法\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"铁盐可以不经螯合直接加入培养基而不影响植物吸收\"],\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.65,\"labeledAt\":1788479218516,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "螯合铁盐的配制"
+    },
+    {
+      "id": "b1c52401-bdd8-4d77-97e4-e1ef738f32f8",
+      "canonical_name": "螯合铁盐的配制方法",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"Fe-EDTA螯合铁母液\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能描述螯合铁盐母液的配制步骤（硫酸亚铁与Na₂EDTA溶解定容）\",\"能说出螯合处理防止铁离子沉淀失效的作用\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"MS培养基的组成与配方\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为直接加入硫酸亚铁即可满足铁营养需求，不理解螯合的必要性\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479155363,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "螯合铁盐的配制方法"
+    },
+    {
       "id": "00799d46-9e60-4301-8408-515304690b89",
       "canonical_name": "血糖平衡的激素调节机制",
       "subject": "生物",
@@ -6987,6 +7347,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"metacognitive\",\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.68,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能对比‘解决不孕’与‘救治患病同胞’两类IVF应用的伦理正当性差异\",\"能批判性评估‘完美婴儿’设想违背的生命伦理原则（如公平、自主、非商品化）\",\"能阐明公民在生物技术公共议题中应具备的理性参与意识与责任\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"胚胎植入前遗传学诊断（PGD）基本流程\",\"生命伦理四大原则（尊重、不伤害、有利、公正）\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为只要出于救治目的，任何胚胎筛选都具有绝对道德豁免权\",\"将‘设计试管婴儿’等同于基因增强，忽视其临床治疗初衷\",\"误以为伦理讨论仅属专家事务，公众无需也无力参与\"],\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.88,\"labeledAt\":1780934190315,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "设计试管婴儿的伦理边界与公众参与责任"
+    },
+    {
+      "id": "813d0556-4909-4a30-b8e8-a102510d98c6",
+      "canonical_name": "调查种群数量的其他方法",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.3,
+      "aliases": "[\"种群密度调查新技术\",\"现代种群调查技术手段\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"factual\",\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能列举样方法、标志重捕法之外调查种群数量的其他常见技术手段\",\"能说出不同调查方法各自适用的生物类型和应用场景\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"样方法\",\"标志重捕法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为调查种群密度只能使用样方法和标志重捕法两种方法\"],\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.3,\"labeledAt\":1788479316775,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "调查种群数量的其他方法"
     },
     {
       "id": "1420d227-b7ed-4857-9d27-53176b33cd45",
@@ -7551,6 +7923,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能说明醋酸菌为好氧细菌及其最适温度范围\",\"能区分糖源充足与缺乏两种条件下醋酸生成的两条代谢路径\",\"能写出反应简式③和④并比较底物、产物与氧气需求\",\"能解释果酒转果醋需开盖、升温、通气的操作逻辑\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"原核微生物特征\",\"氧化还原反应基础\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"醋酸菌可在无氧条件下产醋\",\"果醋发酵只需添加醋酸菌即可，无需改变氧气条件\",\"醋酸由葡萄糖直接一步转化而来\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.91,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780933921069,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "醋酸菌的好氧代谢与果醋制作原理"
+    },
+    {
+      "id": "6bf9005f-eaa5-4db9-a4e4-1cb6d059734a",
+      "canonical_name": "醛固酮对血钠平衡的调节",
+      "subject": "生物",
+      "grade_band": "高中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.6,
+      "aliases": "[\"醛固酮调节钠平衡\",\"盐平衡的激素调节\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明血钠含量升高时醛固酮分泌量减少的负反馈调节关系\",\"能解释醛固酮通过调节肾脏对钠的重吸收维持血钠含量平衡\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"激素的分级调节和反馈调节\",\"水和无机盐平衡的意义\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将醛固酮的调节对象与抗利尿激素混淆，误认为两者调节的是同一种物质\"],\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.6,\"labeledAt\":1788536394102,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "醛固酮对血钠平衡的调节"
     },
     {
       "id": "36a6ea7c-deae-470c-b450-f5f06c01a9f9",

@@ -1,7 +1,7 @@
 {
   "grade_band": "初中",
   "subject": "物理",
-  "kp_count": 688,
+  "kp_count": 711,
   "relation_count": 858,
   "knowledge_points": [
     {
@@ -185,6 +185,18 @@
       "title": "串并联电路功率分配分析"
     },
     {
+      "id": "a91df796-359b-4cb7-a06c-ebdc8697e20b",
+      "canonical_name": "串并联电路的判断（电流路径法）",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"电路结构判断\",\"支路法判断电路\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用电流路径法判断电路是串联还是并联\",\"能识别电路图中电流的分支情况\",\"会画出等效电路简图\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"串联电路\",\"并联电路\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为电路图形状复杂就一定是并联\",\"误以为电流表/电压表位置会改变电路的串并联结构\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "串并联电路的判断（电流路径法）"
+    },
+    {
       "id": "085dd926-5e8c-4780-9fc3-05a813e8baf7",
       "canonical_name": "串联与并联的控制特性对比",
       "subject": "物理",
@@ -279,6 +291,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能通过A、B、C三点电流测量数据归纳得出串联电路中电流处处相等\",\"能用I=I₁=I₂描述串联电路电流关系\",\"能在含两个小灯泡的简单串联电路中，根据一处电流值推断其余位置电流值\",\"能识别并修正‘串联电路中靠近电源正极处电流更大’等典型误解\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"电流概念与方向规定\",\"串联电路结构识别与绘制\",\"电流表量程选择与正确接线规范\",\"电流表双量程读数方法\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"靠近电源正极的位置电流更大\",\"灯泡越亮说明该处电流越大（未区分功率与电流）\",\"电流在经过用电器后会被‘消耗’而减小\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789684499,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "串联电路电流处处相等规律"
+    },
+    {
+      "id": "c3194eeb-7d95-4e63-82e3-7831701b7181",
+      "canonical_name": "串联电路的电流电压电阻分配规律（分压）",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"串联分压规律\",\"串联电路综合计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出串联电路中各处电流相等\",\"会用分压规律计算串联电路中各元件两端电压\",\"能综合运用欧姆定律计算串联电路总电阻\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欧姆定律\",\"串并联电路的判断（电流路径法）\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为串联电路各处电压相等\",\"计算总电阻时误用并联倒数公式\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "串联电路的电流电压电阻分配规律（分压）"
     },
     {
       "id": "c3d82497-bb6e-45c9-bf19-91de537fc9b1",
@@ -507,6 +531,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.58,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据图17.3-2正确绘制伏安法测电阻的标准电路图\",\"能说明电流表外接（待测电阻与电流表串联、再与电压表并联）是初中默认方案\",\"能指出滑动变阻器应串联接入以调节电压\",\"能在实物图（如图17.3-4）中按电路图完成规范连线\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"实验电路的连接规范\",\"电流表量程选择与读数\",\"电压表量程选择与读数\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"误将电流表与电压表位置对调\",\"认为滑动变阻器必须接成限流式才正确\",\"忽略电表正负接线柱方向导致反偏\"],\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.93,\"labeledAt\":1780789773404,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "伏安法测电阻实验电路设计与规范接线"
+    },
+    {
+      "id": "399a929e-2606-4494-9095-d56764d77657",
+      "canonical_name": "伏安法测电阻的实验设计与误差分析",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"伏安法测电阻\",\"电流表内外接法选择\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据待测电阻阻值大小判断应选用电流表内接法还是外接法\",\"能说明电流表内接法使测量值偏大、外接法使测量值偏小的原因\",\"能设计并画出包含滑动变阻器限流或分压接法的测量电路图\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欧姆定律\",\"伏安法测电阻的原理\",\"串联电路的特点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为内外接法的误差方向与待测电阻大小无关\",\"忽视电表内阻对测量结果造成的系统误差\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "伏安法测电阻的实验设计与误差分析"
     },
     {
       "id": "325f93c2-62dd-481c-b7fd-76e23826a1f3",
@@ -917,6 +953,18 @@
       "title": "内能·热量·温度三概念辨析"
     },
     {
+      "id": "9ed8eae7-fd02-4a33-b3f1-151551f1f7fe",
+      "canonical_name": "内能与温度的关系",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"内能概念\",\"内能的影响因素\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出内能是物体内部所有分子热运动动能与分子势能的总和\",\"能解释温度升高时物体内能增大\",\"能辨析内能大小不仅由温度决定，还与质量、状态等因素有关\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"分子动理论基本内容\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将内能与温度视为完全等同的概念\",\"认为温度不变内能一定不变（忽略状态变化吸放热）\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "内能与温度的关系"
+    },
+    {
       "id": "29313729-3500-45b4-8e6b-a89e753f89fb",
       "canonical_name": "内能的定义与影响因素",
       "subject": "物理",
@@ -1085,6 +1133,18 @@
       "title": "分子动理论三基本观点"
     },
     {
+      "id": "a6e278c0-90fe-4887-981b-79c4841956e3",
+      "canonical_name": "分子动理论基本内容",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"分子动理论\",\"物质微观结构\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.35,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出物质是由大量分子构成的\",\"能解释分子永不停息地做无规则热运动\",\"能举例说明分子间同时存在引力和斥力\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为分子间只有引力没有斥力\",\"认为静止的物体内部分子也是静止的\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "分子动理论基本内容"
+    },
+    {
       "id": "921b8572-5f91-45b6-a002-985227c2806c",
       "canonical_name": "分子热运动与温度的定性关系",
       "subject": "物理",
@@ -1239,6 +1299,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.47,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能明确表述'力是改变物体运动状态的原因，而不是维持运动的原因'\",\"能用该观点分析滑板车减速、列车启动/进站等实例\",\"能反驳亚里士多德式前概念（如练习题甲同学说法）\",\"能在受力分析中将'运动状态不变'与'合力为零'建立关联\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"牛顿第一定律内容与适用条件\",\"伽利略理想实验推理方法\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"物体运动必须有力作用\",\"匀速运动的物体一定受平衡力\",\"静止物体不受力\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789340806,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "力与运动状态变化的因果关系"
+    },
+    {
+      "id": "f762be6b-c7ed-4dd4-9050-8dba2972ced4",
+      "canonical_name": "力学基础概念复习与易错点辨析",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"力复习\",\"第七章力复习\",\"力学基础知识梳理\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分重力公式G=mg中g取9.8N/kg与10N/kg的适用场合并正确计算重力\",\"能规范使用弹簧测力计测量力的大小并说明使用前调零、量程选择等注意事项\",\"能举例说明静摩擦力与滑动摩擦力的产生条件及其大小的影响因素\",\"能判断同一直线上二力的合成结果（同向相加、反向相减）并计算合力大小\",\"能按力的三要素（大小、方向、作用点）规范画出力的示意图\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"质量的测量\",\"二力平衡条件\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误认为重力大小恒定不变，忽视g值取9.8N/kg与10N/kg的场合区分\",\"误将静摩擦力等同于滑动摩擦力，忽视静摩擦力大小随外力变化的特点\",\"误认为摩擦力方向一定与物体运动方向相反，忽略相对运动趋势的情形\",\"力的示意图作图时遗漏作用点或与力的图示（精确标度）相混淆\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466771920,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "力学基础概念复习与易错点辨析"
     },
     {
       "id": "781d3773-2df2-4e94-b49f-0340b62bb18e",
@@ -1935,6 +2007,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能根据开关开闭状态准确判断两电阻是串联还是并联\",\"能识别开关断开/闭合导致的局部短路或支路通断\",\"能绘制不同开关状态下等效电路图\",\"理解电流表在干路与支路中的测量对象差异\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"串联电路电流规律\",\"并联电路电压规律\",\"电流表与电压表连接方式\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为开关位置不影响电路结构类型\",\"将S₂断开误判为整个电路断路\",\"混淆电流表串联在干路与支路时的示数物理意义\"],\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.92,\"labeledAt\":1780790167365,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "含开关的动态电路结构识别与状态分析"
+    },
+    {
+      "id": "4f95ee7d-63a0-456c-b008-e2c5b5fd2143",
+      "canonical_name": "听筒的电-声转化原理",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"受话器电声转换\",\"听筒工作原理\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.36,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明听筒使变化的电流还原为声波的基本过程\",\"能识别通话链路中'电→声'这一转化环节与话筒环节的先后关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电流的强弱\",\"话筒的声-电转化原理\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为听筒的发声原理与扬声器、话筒完全相同，未加区分\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "听筒的电-声转化原理"
     },
     {
       "id": "50da254a-1413-4859-9dbf-138685878188",
@@ -3341,6 +3425,18 @@
       "title": "并联电路电压规律"
     },
     {
+      "id": "53978c54-97a0-4bd6-8b15-c7e762e678f2",
+      "canonical_name": "并联电路的电流电压电阻分配规律（分流）",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"并联分流规律\",\"并联电路综合计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出并联电路中各支路两端电压相等\",\"会用分流规律计算并联电路中各支路电流\",\"能综合运用欧姆定律计算并联电路总电阻（倒数关系）\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欧姆定律\",\"串并联电路的判断（电流路径法）\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为并联电路总电阻等于各支路电阻之和\",\"混淆并联总电流与各支路电流的关系\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "并联电路的电流电压电阻分配规律（分流）"
+    },
+    {
       "id": "5e97fbc6-b272-46f4-814c-df0cbe69ac2a",
       "canonical_name": "并联电路的结构特征与识别",
       "subject": "物理",
@@ -3941,6 +4037,18 @@
       "title": "摩擦起电的微观本质（电子转移）"
     },
     {
+      "id": "4880d413-4398-4b6d-844f-6ab877bdd271",
+      "canonical_name": "改变内能的两种方式",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"做功改变内能\",\"热传递改变内能\",\"内能改变方式的等效性\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能区分做功和热传递这两种改变内能的方式\",\"能举例说明压缩气体做功使内能增大、摩擦生热等现象\",\"能说出做功和热传递在改变内能效果上具有等效性\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"内能与温度的关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为只有加热（热传递）才能改变内能，忽略做功也能改变内能\",\"混淆做功过程中能量的转化与转移\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "改变内能的两种方式"
+    },
+    {
       "id": "bf242700-56b8-43e9-913f-6c1315f6efd2",
       "canonical_name": "放大镜成像原理（u<f）",
       "subject": "物理",
@@ -3963,6 +4071,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.33,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能确认放大镜是凸透镜\",\"能指出使用时物体位于焦点以内（u<f）\",\"能说出所成像为放大、正立的虚像\",\"能解释虚像不可被光屏承接，需人眼逆向观察\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"凸透镜对光的会聚作用\",\"实像与虚像的初步区分\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"放大镜成的像是实像（误将视觉清晰等同于光屏可接）\",\"虚像不能被看见（混淆'不可承接'与'不可见'）\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780788686047,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "放大镜成像原理（u<f，放大正立虚像）"
+    },
+    {
+      "id": "ba4c2cea-2e80-4f7a-b663-85e4e0fdcd50",
+      "canonical_name": "数字信号的特征与抗干扰优势",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"离散信号\",\"0/1编码信号\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.42,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别数字信号是由0和1组成的离散编码\",\"能说明数字信号可通过整形再生抑制噪声累积，从而抗干扰能力更强的原因\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"模拟信号的特征与局限\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为数字信号完全不会受到任何干扰或噪声影响\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "数字信号的特征与抗干扰优势"
     },
     {
       "id": "b55168de-df68-4a4b-b0cb-6c523cf8a24d",
@@ -4457,6 +4577,18 @@
       "title": "核裂变链式反应与核电站能量转化流程"
     },
     {
+      "id": "4f4b5b0d-8f9c-460f-b8d8-b670831d7b6e",
+      "canonical_name": "模拟信号的特征与局限",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"连续信号\",\"模拟通信信号\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.4,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能识别模拟信号是随时间连续变化的物理量\",\"能说明模拟信号在长距离传输中易受干扰、失真会累积的局限\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"话筒的声-电转化原理\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为模拟信号比数字信号传输质量更稳定、更清晰\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "模拟信号的特征与局限"
+    },
+    {
       "id": "3a3409a1-aef9-4cf9-864b-b0378bca2f83",
       "canonical_name": "欧姆定律三公式变形与计算",
       "subject": "物理",
@@ -4491,6 +4623,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能由P=UI和U=IR联立推导出P=I²R\",\"能由P=UI和I=U/R联立推导出P=U²/R\",\"能根据已知条件（U/R或I/R）选择最简公式进行计算\",\"能识别P=I²R与P=U²/R的适用前提（纯电阻）\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"P=UI公式\",\"欧姆定律U=IR及其变形\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"盲目套用P=I²R计算电动机发热功率而忽略非纯电阻前提\",\"认为P=U²/R适用于所有电路，不检查是否满足U=IR\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.93,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789816181,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "欧姆定律与电功率综合推导（P=I²R=U²/R）"
+    },
+    {
+      "id": "d5516f06-5b5a-4997-8ab0-b0e699ec3e19",
+      "canonical_name": "欧姆定律在串并联电路中的综合计算",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"串并联电路欧姆定律综合题\",\"复合电路计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能运用I=U/R计算串联电路中各元件的电流和电压\",\"能结合串并联规律求解复合电路的总电阻和总电流\",\"能根据电流表、电压表在电路中的不同位置列方程求解未知量\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欧姆定律\",\"串联电路的特点\",\"并联电路的特点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为并联电路各支路电流相等\",\"混淆串联电压分配与并联电流分配的规律\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "欧姆定律在串并联电路中的综合计算"
     },
     {
       "id": "73a31490-12f9-4f2d-8b46-5a7c1e23f42b",
@@ -4563,6 +4707,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.37,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能说出自然界只存在两种电荷\",\"能用丝绸摩擦玻璃棒、毛皮摩擦橡胶棒定义正负电荷\",\"能根据实验现象判断同种电荷相互排斥、异种电荷相互吸引\",\"能用该规律解释梳头蓬松、气球吸发等生活现象\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为‘带电’就是有电在流动\",\"误以为摩擦产生了新电荷\",\"混淆电荷种类与物体材质（如认为玻璃一定带正电）\"],\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.98,\"labeledAt\":1780790056327,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "正负电荷的定义与电荷间相互作用规律"
+    },
+    {
+      "id": "635d51d2-a78d-43dd-a677-7f19b9062198",
+      "canonical_name": "比热容与热量计算",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"Q=cmΔt计算\",\"热量公式综合应用\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出比热容的物理意义并读出常见物质（如水）的比热容数值\",\"能用公式Q=cmΔt计算物体吸收或放出的热量\",\"会在升温、降温、混合等多情境中综合运用比热容公式求解\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"内能与温度的关系\",\"改变内能的两种方式\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"将比热容误认为与物体质量或吸收热量多少有关\",\"计算时混淆ΔT为末温而非温度变化量\",\"忽略吸热和放热情境下公式符号方向的区别\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466827422,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "比热容与热量计算"
     },
     {
       "id": "dc55448f-9a93-4486-93a9-1fe5adf1f2c4",
@@ -4875,6 +5031,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能解释浮力源于液体内部压强差\",\"能分析长方体上下表面深度不同导致压强不同，进而压力不同\",\"能结合F_2>F_1得出合力竖直向上即为浮力\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"液体压强与深度关系\",\"压力与压强关系\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"浮力是液体‘托举’的神秘力，无物理机制\",\"侧表面压力不平衡也贡献浮力\",\"认为只有规则形状物体才有压力差浮力\"],\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.75,\"source\":\"llm\",\"confidence\":0.9,\"labeledAt\":1780789206612,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "浮力产生的原因（压力差）"
+    },
+    {
+      "id": "8b49eca8-86e8-40af-ab05-e2ceae80b4f0",
+      "canonical_name": "浮力压强密度综合计算",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"力学三量联用综合题\",\"浮力压强密度联算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.78,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能综合运用F浮=ρ液gV排、p=ρgh、ρ=m/V解决多量联动问题\",\"会分步求解涉及浮力、压强、密度的中考综合计算题\",\"能识别题目中物体浸没深度与排开液体体积之间的隐含关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"阿基米德原理的三种测量情境应用\",\"物体浮沉条件的判断与应用\",\"液体压强公式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"混淆液体对容器底部的压强与物体所受浮力的计算对象\",\"忽略物体部分浸入时排开体积与自身总体积的区别\",\"在多步计算中遗漏单位换算导致结果偏差\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "浮力压强密度综合计算"
     },
     {
       "id": "6c244f88-4c7a-4e39-8ea5-9ee907b083e1",
@@ -5873,6 +6041,18 @@
       "title": "物体浮沉三态的密度判据与力学关系建模"
     },
     {
+      "id": "d0ca9760-9e28-4517-ab17-79c80f076f14",
+      "canonical_name": "物体浮沉条件的判断与应用",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"浮沉条件\",\"上浮下沉悬浮漂浮判断\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.65,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能比较浮力与重力大小判断物体上浮、下沉、悬浮或漂浮\",\"能解释潜水艇、热气球等实际情境中的浮沉原理\",\"会用物体密度与液体密度的关系判断最终浮沉状态\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"阿基米德原理的三种测量情境应用\",\"二力平衡\",\"密度概念\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为物体密度大于液体密度时一定沉底而不会以其他方式平衡\",\"混淆悬浮与漂浮各自对应的受力条件\",\"认为下沉过程中浮力保持不变\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.8,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "物体浮沉条件的判断与应用"
+    },
+    {
       "id": "2bf28228-032b-4a6b-bf43-bd76df1c8163",
       "canonical_name": "物体浮沉的受力分析法",
       "subject": "物理",
@@ -6077,6 +6257,18 @@
       "title": "用电超载成因分析（I=P/U定量推算）"
     },
     {
+      "id": "cf9541af-7254-493e-b66f-34ea1d8d0e49",
+      "canonical_name": "电功与电热的关系（纯电阻电路）",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"W=Q成立条件\",\"电功电热区分\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说出电功W=UIt=Pt与电热Q=I²Rt的适用范围\",\"能判断纯电阻电路与非纯电阻电路（如电动机）中W=Q是否成立\",\"能在含电动机电路中区分电能转化为机械能与内能的比例\",\"能计算非纯电阻电路中电功大于电热的差值\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电功率的定义\",\"焦耳定律\",\"能量转化与守恒\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为所有电路中电功都等于电热\",\"忽略电动机做功时电能还转化为机械能\",\"把W=UIt和Q=I²Rt当作恒等公式不加条件使用\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.88,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电功与电热的关系（纯电阻电路）"
+    },
+    {
       "id": "6e465239-f63e-487d-91da-74d9ad426d57",
       "canonical_name": "电功公式W=UIt推导与计算",
       "subject": "物理",
@@ -6147,6 +6339,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.7,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能对比说明电动机和发电机的核心结构异同\",\"能准确描述两者能量转化路径（电↔机械能）\",\"能根据能量输入/输出形式判断装置类型\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"安培力方向判定（左手定则）\",\"电磁感应现象的产生条件与感应电流方向\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"电动机也能发电\",\"发电机不需要外力驱动\",\"两者都靠通电线圈在磁场中转动，原理完全相同\"],\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.91,\"labeledAt\":1780790505474,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "电动机与发电机工作原理及能量转化对比"
+    },
+    {
+      "id": "9353876c-1a9a-40f7-b292-bb19c5db65c5",
+      "canonical_name": "电动机效率与电功率/机械功率/热功率综合分析",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"电动机输入输出功率分析\",\"电动机发热与效率计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能计算电动机的输入电功率P电=UI\",\"能计算电动机线圈发热功率P热=I²R\",\"能用P机械=P电-P热求出电动机的机械输出功率\",\"能计算电动机效率η=P机械/P电并判断合理性\",\"能在综合题中同时处理电功率、机械功率、热功率三者关系\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电功与电热的关系（纯电阻电路）\",\"欧姆定律\",\"功率的定义\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为电动机效率η=P电/P机械（分子分母颠倒）\",\"忽略线圈电阻发热导致机械功率计算错误\",\"把电动机等效为纯电阻用P=U²/R计算输入功率\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.9,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电动机效率与电功率/机械功率/热功率综合分析"
     },
     {
       "id": "62c54283-d24d-461b-a2e0-ac9a389f95e7",
@@ -6243,6 +6447,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.46,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能准确陈述‘电压表必须与被测用电器并联’的操作规则\",\"能在电路图或实物图中识别并纠正错误的串联连接\",\"能依据图16.1-10练习题完成导线改接与电路图重绘\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"并联电路结构识别\",\"电路图与实物图对应能力\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为电压表串联也能测电压\",\"误将‘并联’理解为‘靠近放置’而非‘跨接两端’\",\"混淆电压表正负接线柱极性与电源极性关系\"],\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.93,\"source\":\"llm\",\"confidence\":0.97,\"labeledAt\":1780789694306,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "电压表正确接法（并联接入）"
+    },
+    {
+      "id": "2cdfcaca-2e46-4f99-a242-14e5cc2336cc",
+      "canonical_name": "电压表的量程选择与正确接法",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"电压表使用规则\",\"伏特表接法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据预估电压值选择0-3V或0-15V合适量程\",\"会将电压表并联接在待测元件两端\",\"能判断电压表正负接线柱接法是否正确\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电压的概念\",\"并联电路\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把电压表串联接入电路\",\"误认为电压表读数就是电源电压\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电压表的量程选择与正确接法"
     },
     {
       "id": "547a4b3f-f160-4bd0-bd3e-b4262a2e8cb4",
@@ -6399,6 +6615,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.48,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能指出电流表‘+’‘−’接线柱物理含义\",\"能按电流方向判断实物图中接线柱接入是否正确\",\"能解释反接导致指针反偏及损坏风险\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"电流方向规定（正电荷移动方向）\",\"电路中电流路径分析\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为接线柱仅起固定作用，无方向性\",\"将‘+’‘−’误解为电源极性而非电流流向标识\",\"忽略试触法在不确定方向时的保护作用\"],\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.86,\"source\":\"llm\",\"confidence\":0.94,\"labeledAt\":1780789682071,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "电流表正负接线柱接线规范"
+    },
+    {
+      "id": "50251726-a799-481c-b515-ca2de333da93",
+      "canonical_name": "电流表的量程选择与正确接法",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"电流表使用规则\",\"安培表接法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.45,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据预估电流值选择0-0.6A或0-3A合适量程\",\"会将电流表串联接入待测支路\",\"能判断电流表正负接线柱接法是否正确\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电流的概念\",\"串联电路\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把电流表并联接入电路\",\"量程选择过小导致指针打反或超量程\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466816741,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电流表的量程选择与正确接法"
     },
     {
       "id": "4990df67-1594-4794-943c-44206f9bd3f0",
@@ -6665,6 +6893,18 @@
       "title": "电能表功能与度数读取"
     },
     {
+      "id": "fe14dbb2-de58-41bc-8e3a-17ee7e515f9d",
+      "canonical_name": "电能表读数与电能计算",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.4,
+      "aliases": "[\"电度表读数\",\"千瓦时计算\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能根据电能表前后读数差计算用电器消耗的电能\",\"能进行焦耳与千瓦时之间的单位换算\",\"能结合电费单价计算实际电费\",\"能用W=Pt结合电能表读数反推用电器平均功率或用电时间\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"电功率与电能计算\",\"功的单位与换算\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"把电能表读数单位千瓦时直接当作焦耳使用\",\"忘记读数差才是用电量而非读数本身\",\"混淆功率单位kW与电能单位kW·h\"],\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.4,\"labeledAt\":1788466874170,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电能表读数与电能计算"
+    },
+    {
       "id": "7b4925cc-e4eb-49c1-b537-fa857d29ee12",
       "canonical_name": "电荷间相互作用规律（同斥异吸）",
       "subject": "物理",
@@ -6699,6 +6939,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.43,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能准确描述通路、断路、短路的定义\",\"能识别实物或图示中三种状态的典型表现\",\"能解释电源短路与用电器短路的危害差异\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"电路四要素（电源、用电器、导线、开关）\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为断路等同于开关断开，忽略导线断裂等其他原因\",\"误以为用电器被短路时电路仍属通路\",\"将‘短路’泛化为任意异常连接，不区分电源短路与局部短路\"],\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.94,\"source\":\"llm\",\"confidence\":0.96,\"labeledAt\":1780789644432,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "电路三种状态（通路、断路、短路）"
+    },
+    {
+      "id": "081ee31a-f6a9-4a05-85c1-1edf647d1ac0",
+      "canonical_name": "电路动态变化分析",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"动态电路分析\",\"电阻变化引起的电表读数变化\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能判断某电阻阻值变化时电路中电流、电压、电功率的变化方向\",\"能分析滑动变阻器滑片移动引起的其他元件读数变化趋势\",\"能识别电路中短路、断路故障对各电表读数的影响\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"欧姆定律在串并联电路中的综合计算\",\"串联电路的特点\",\"并联电路的特点\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"误以为总电阻变化时各支路电流的变化方向相同\",\"忽视电源电压保持不变这一隐含条件\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.82,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466858784,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "电路动态变化分析"
     },
     {
       "id": "56ade110-4d8e-4011-94c4-ada7d40729e9",
@@ -7481,6 +7733,18 @@
       "title": "触电的本质与安全电流阈值"
     },
     {
+      "id": "4cf34e7e-1160-4a21-b285-bbb1783e4b36",
+      "canonical_name": "话筒的声-电转化原理",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"麦克风声电转换\",\"话筒工作原理\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.36,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能说明话筒使声波振动转化为强弱变化的电流的基本过程\",\"能识别通话链路中'声→电'这一转化环节所处的位置\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"声音的产生与传播\",\"电流的强弱\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为话筒把声音直接变成电磁波，而不是变化的电流\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.55,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466735148,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "话筒的声-电转化原理"
+    },
+    {
       "id": "e27cee32-5d23-40bb-a6dd-4a7dbbd24eb0",
       "canonical_name": "误差与错误的概念辨析",
       "subject": "物理",
@@ -8103,6 +8367,18 @@
       "annotations": "{\"knowledgeType\":{\"value\":\"conceptual\",\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"difficulty\":{\"value\":0.5,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"learningObjectives\":{\"value\":[\"能复述阿基米德原理的文字表述\",\"能写出公式 F浮 = G排 及其展开式 F浮 = ρ液gV排\",\"能区分 G排 与 G物、V排 与 V物 的物理含义\",\"能结合例题完成单步代入计算（已知ρ液、V排、g求F浮）\",\"能解释该原理适用于液体和气体\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"prerequisites\":{\"value\":[\"浮力概念与方向\",\"称重法测浮力\",\"液体压强与深度关系\",\"重力与质量关系 G = mg\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"misconceptions\":{\"value\":[\"认为浮力大小与物体密度有关\",\"混淆 V排 和 V物，误以为完全浸没时 V排 总等于 V物（忽略空心/含气结构）\",\"认为阿基米德原理只适用于漂浮或悬浮状态\",\"将 G排 误解为容器中液体总重力\"],\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"},\"assessability\":{\"value\":0.92,\"source\":\"llm\",\"confidence\":0.95,\"labeledAt\":1780789435461,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"qwen:qwen-plus\"}}",
       "summary": "",
       "title": "阿基米德原理定量表达式（F浮 = ρ液gV排）"
+    },
+    {
+      "id": "2352f26d-ec26-4a13-a4a1-c574b29d75cc",
+      "canonical_name": "阿基米德原理的三种测量情境应用",
+      "subject": "物理",
+      "grade_band": "初中",
+      "curriculum_system": "pep-cn",
+      "confidence": 0.35,
+      "aliases": "[\"称重法测浮力\",\"溢杯法测浮力\",\"浮力的测量方法\"]",
+      "annotations": "{\"knowledgeType\":{\"value\":\"procedural\",\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"difficulty\":{\"value\":0.6,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"learningObjectives\":{\"value\":[\"能用称重法计算浮力，即F浮=G-F示\",\"能用溢杯法计算浮力，即F浮=G排液\",\"能识别漂浮物体浮力等于重力，即F浮=G物\",\"会根据F浮=ρ液gV排公式计算浮力大小\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"prerequisites\":{\"value\":[\"阿基米德原理\",\"二力平衡\",\"密度公式\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"misconceptions\":{\"value\":[\"认为浮力只与物体重力有关，与液体密度和排开体积无关\",\"混淆排开液体体积与物体自身体积\",\"认为漂浮物体所受浮力小于重力\"],\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"},\"assessability\":{\"value\":0.85,\"source\":\"llm\",\"confidence\":0.35,\"labeledAt\":1788466771871,\"annotatorName\":\"knowledge-point-extraction\",\"annotatorVersion\":\"v0.4.0\",\"model\":\"claude-cli:sonnet\"}}",
+      "summary": "",
+      "title": "阿基米德原理的三种测量情境应用"
     },
     {
       "id": "2fe307c6-1a3f-477f-9d5f-082096ca776d",
